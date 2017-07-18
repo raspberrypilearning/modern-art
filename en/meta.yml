@@ -1,17 +1,22 @@
-title: modern-art
+---
 hero_image: images/banner.png
-description: modern-art description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, physical computing, html/css, scratch, python"
-site_areas:
+title: Modern Art
+description: Code your own computer-generated modern art.
+original_url: https://codeclubprojects.org/en-GB/python/modern-art
+interests: ''
+technologies: python
+site_areas: codeclub, python
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Random colours
+- title: Random place
+- title: 'Challenge: Turtle art'
+- title: Create rectangle modern art
+- title: 'Challenge: More modern art'
+
