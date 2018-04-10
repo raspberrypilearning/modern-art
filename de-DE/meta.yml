@@ -1,0 +1,24 @@
+hero_image: images/banner.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Moderne Kunst
+description: Programmiere deine eigeneModerne Kunst, die per Computer erzeugt wird.
+original_url: https://codeclubprojects.org/en-GB/python/modern-art
+interests: art
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps: 
+- title: Einführung
+- title: Zufällig ausgesuchte Farbe
+- title: Zufällig ausgesuchter Ort
+- title: 'Aufgabe: Schildkröten-Kunst'
+- title: Ein Rechteck in Moderner Kunst erstellen
+- title: 'Aufgabe: Noch mehr Moderne Kunst'
