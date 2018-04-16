@@ -1,0 +1,21 @@
+hero_image: images/banner.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: الفن الحديث
+description: اكتب التعليمات البرمجية لإنشاء فن حديث بواسطة الكمبيوتر.
+original_url: https://codeclubprojects.org/en-GB/python/modern-art
+interests: 'art&design'
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: المقدمة
+- title: ألوان عشوائية
+- title: مكان عشوائي
+- title: 'التحدي: رسومات السلحفاة'
+- title: إنشاء فن حديث باستخدام أشكال مستطيلة
+- title: 'التحدي: المزيد من الفن الحديث'
+
