@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Modern Art
-description: Code your own computer-generated modern art.
+title: Moderna umjetnost
+description: U ovom projektu naučit ćeš pomoću računala napraviti modernu umjetnost.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
 interests: art
 technologies: python
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Moderna umjetnost
   - 
     title: Random colours
   - 
