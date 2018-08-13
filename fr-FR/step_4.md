@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Turtle art
+## Défi : Art avec une tortue
 
-Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
+Peux tu définir une fonction `directionaleatoire()` qui fera pointer ta tortue dans une direction aléatoire et faire fonctionner le code suivant ?
 
-![screenshot](images/modern-turtle-art.png)
+![capture d'écran](images/modern-turtle-art.png)
 
-Hints:
+Astuces:
 
-- `setheading(<number>)` will change the direction the turtle is facing in.
+- `setheading(<number>)` changera la direction que la tortue pointe.
 
-- `<number>` should be between 1 and 360 (the number of degrees in a circle)
+- `<number>` doit être compris entre 1 et 360 (le nombre de degré dans un cercle)
 
-- You can use `randint(1, 360)` to choose a number between 1 and 360.
+- Tu peux utiliser `randint(1,360)` pour choisir un nombre entre 1 et 360.
 
 \--- /challenge \---
