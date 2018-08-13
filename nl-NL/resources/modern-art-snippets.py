@@ -1,23 +1,23 @@
 #!/bin/python3
 
-# Code to draw a random-sized rectangle
+# Code voor het tekenen van een rechthoek met willekeurige grootte
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  lengte = randint(10, 100)
+  hoogte = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(lengte)
   right(90)
-  forward(height)
+  forward(hoogte)
   right(90)
-  forward(length)
+  forward(lengte)
   right(90)
-  forward(height)
+  forward(hoogte)
   right(90)
   end_fill()
   
-# Code to draw a star
+# Code om een ​​ster te tekenen
   begin_fill()
-  for side in range(5):
+  for zijden in range(5):
     left(144)
     forward(50)
   end_fill()
