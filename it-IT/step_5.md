@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Crea arte moderna rettangolare
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Ora creiamo un po' di arte moderna disegnando tanti di rettangoli di diverse dimensioni e colori.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Prima aggiungi il seguente codice alla fine del tuo script, dopo il codice dell'ultima sfida, per cancellare lo schermo dopo l'ultima opera artistica con la tartaruga e fai puntare la tartaruga nella sua direzione abituale:
     
     ![screenshot](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Puoi commentare parte del tuo codice posizionando un `#` all'inizio di ogni riga in modo che non funzioni mentre si realizziamo il codice sull'arte del rettangolo. (In seguito potrai rimuoverli per mostrare tutto il tuo lavoro.)
     
     ![screenshot](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Ora aggiungiamo una funzione per disegnare un rettangolo di dimensioni, colore e posizione casuali!
     
-    Add a `drawrectangle()` function after your other functions:
+    Aggiungi una funzione `disegnarettangolo()` dopo le altre funzioni:
     
     ![screenshot](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Cerca in `snippets.py` per qualche codice d'aiuto se vuoi risparmiare un po' di tempo.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Aggiungi il seguente codice nella parte inferiore di `main.py` per chiamare la tua nuova funzione:
     
     ![screenshot](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Esegui il tuo script alcune volte per vedere come cambiano altezza e larghezza.
 
-+ The rectangle is always the same colour and starts at the same location.
++ Il rettangolo è sempre dello stesso colore e inizia nella stessa posizione.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Ora dovrai impostare la tartaruga su un colore casuale e poi spostarla in una posizione casuale. Ehi, ma non hai già creato delle funzioni per farlo? Meraviglioso. Puoi chiamarli semplicemente all'inizio della funzione disegnarettangolo:
     
     ![screenshot](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Wow è bastato veramente poco ed il codice ed è molto più facile da leggere.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Ora chiamiamo `drawrectangle()` in un ciclo per creare una bella arte moderna:
     
     ![screenshot](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Accidenti era un po' lento o no! Fortunatamente puoi accelerare la tartaruga.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Trova la linea in cui imposti la forma a "tartaruga" e aggiungi il codice evidenziato:
     
     ![screenshot](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` è il più veloce ma puoi usare numeri compresi tra 1 (lento) e 10 (veloce). Prova fino a trovare la velocità che ti preferisci.
