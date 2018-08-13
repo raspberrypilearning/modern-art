@@ -1,8 +1,8 @@
-## Willekeurige plaats
+## Willekeurige plek
 
 Laten we nog een functie maken om de schildpad naar een willekeurige plaats op het scherm te krijgen. Het midden van het scherm is (0,0) dus plaatsen we schildpadden in een vierkant gebied rond het midden.
 
-+ Voeg een functie `willekeurigeplaats()` toe:
++ Voeg een functie `willekeurigeplek()` toe:
     
     ![screenshot](images/modern-place-function.png)
 
