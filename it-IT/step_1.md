@@ -1,6 +1,6 @@
-## Introduction
+## Introduzione
 
-In questo progetto creerai arte moderna generata al computer. Userai le funzioni per scrivere codice che puoi usare più e più volte.
+In questo progetto creerai arte moderna generata al computer. Userai le funzioni per scrivere codice che potrai usare più e più volte.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In questo progetto creerai arte moderna generata al computer. Userai le funzioni
   <img src="images/modern-finished.png">
 </div>
 
-### Additional information for club leaders
+### Ulteriori informazioni per gli organizzatori dei club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note per gli organizzatori del club
 
-## Introduction:
+## Introduzione:
 
-This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+Questo progetto introduce le funzioni attraverso un generatore di arte moderna colorata. Le funzioni sono utilizzate per raggruppare codice di grafica con la tartaruga che può quindi essere facilmente utilizzato per creare arte funky.
 
-## Online Resources
+## Risorse online
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Questo progetto utilizza Python 3.** Consigliamo di utilizzare [Trinket](https://trinket.io/) per scrivere in linguaggio Python online. Questo progetto contiene i seguenti Trinket:
 
-* ['Turtle Race' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Turtle Race' punto di partenza -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-There is also a trinket containing a sample solution to the challenges:
+È disponibile anche un file trinket con esempi di soluzioni alle sfide proposte:
 
-* [‘Modern Art’ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* [‘Modern Art’ Completato -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
 
-## Offline Resources
+## Risorse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Questo progetto può anche essere [completato offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) se preferisci. È possibile accedere alle risorse del progetto facendo click sul link "Materiali del progetto" relativo a questo progetto. Questo link contiene una sezione "Risorse di progetto", che include le risorse necessarie a completare il progetto offline. Assicurati che ogni bambino abbia accesso a una copia di queste risorse. Questa sezione include i seguenti file:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Una versione completa delle sfide di questo progetto è presente anche nella sezione “Risorse per i volontari”, che contiene:
 
 * modern-art-finished/modern-art.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Tutte le risorse sopracitate possono anche essere scaricate come file `.zip ` di progetto e del volontario.)
 
-## Learning Objectives
+## Obiettivi di apprendimento
 
-* Functions;
+* Funzioni;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combinare i costrutti base di un linguaggio di programmazione per risolvere un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Sfide
 
-* Turtle art - define a new function to complete the turtle art generator.
-* More modern art - create a new function that calls other functions to generate modern art. 
+* Turtle art: definisci una nuova funzione per completare il generatore di arte della tartaruga.
+* Altra arte moderna - crea una nuova funzione che chiami altre funzioni per generare arte moderna. 
 
-## Frequently Asked Questions
+## Domande frequenti
 
-* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line. 
-* If they do want all of their code to run then `clear()` can be used to clear the screen. 
+* Per evitare di dover aspettare che il codice inserito all'inizio debba essere concluso prima che inizio a funzionare quello aggiunto per ultimo, i bambini possono commentare il codice iniziale può essere commentato usando un '#' all'inizio di ogni linea. 
+* Se vogliono eseguire tutti i loro codici allora si può usare `clear()` per ripulire lo schermo. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali del progetto
 
-## Project resources
+## Risorse del progetto
 
-* [.zip file containing all project resources](resources/modern-art-project-resources.zip)
-* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
+* [File .zip contenente tutte le risorse del progetto](resources/modern-art-project-resources.zip)
+* [Trinket online contenente le risorse iniziali di "Arte moderna"](http://jumpto.cc/modern-go)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
-## Club leader resources
+## Risorse per gli organizzatori del club
 
-* [.zip file containing all completed project resources](resources/modern-art-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+* [File .zip con tutte le risorse del progetto](resources/modern-art-volunteer-resources.zip)
+* [Trinket online completato](https://trinket.io/python/47bbc2fc2b)
 * [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
 
 \--- /collapse \---
