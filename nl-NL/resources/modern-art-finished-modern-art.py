@@ -3,84 +3,83 @@
 from turtle import *
 from random import *
 
-def randomcolour():
-  red = randint(0, 255)
-  green = randint(0, 255)
-  blue = randint(0, 255)
-  color(red, green, blue)
+def willekeurigekleur():
+  colormode(255)
+  rood = randint(0, 255)
+  groen = randint(0, 255)
+  blauw = randint(0, 255)
+  color(rood, groen, blauw)
 
-def randomplace():
+def willekeurigeplek():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
-  
-def randomheading():
-  heading = randint(0, 360)
-  setheading(heading)
 
-def drawrectangle():
-  randomcolour()
-  randomplace()
+def willekeurigerichting():
+  richting = randint(0, 360)
+  setheading(richting)
+
+def tekenrechthoek():
+  willekeurigekleur()
+  willekeurigeplek()
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  lengte = randint(10, 100)
+  hoogte = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(lengte)
   right(90)
-  forward(height)
+  forward(hoogte)
   right(90)
-  forward(length)
+  forward(lengte)
   right(90)
-  forward(height)
+  forward(hoogte)
   right(90)
   end_fill()
-  
+
 shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  randomcolour()
-  randomplace()
-  randomheading()
+  willekeurigekleur()
+  willekeurigeplek()
+  willekeurigerichting()
   stamp()
-  
-# Challenge - use built in dot function
 
-def drawcircle():
+# Uitdaging - gebruik ingebouwde dot functie
+
+def tekencirkel():
   radius = randint(5, 100)
-  randomcolour()
-  randomplace()
+  willekeurigekleur()
+  willekeurigeplek()
   dot(radius)
-  
-def drawstar():
-  randomcolour()
-  randomplace()
-  randomheading()
+
+def tekenster():
+  willekeurigekleur()
+  willekeurigeplek()
+  willekeurigerichting()
   begin_fill()
-  size = randint(20, 100)
-  #draw the star shape
-  for side in range(5):
+  grootte = randint(20, 100)
+  #teken de ster vorm
+  for zijden in range(5):
     left(144)
-    forward(size)
+    forward(grootte)
 
   end_fill()
-  
+
 clear()
 setheading(0)
-  
+
 for i in range(20):
-  drawrectangle()
-  
+  tekenrechthoek()
+
 clear()
-  
+
 for i in range(50):
-  drawcircle()
+  tekencirkel()
 
 clear()
 
 for i in range(20):
-  drawstar()
-
-
+  tekenster()
