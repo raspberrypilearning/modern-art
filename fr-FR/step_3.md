@@ -1,19 +1,19 @@
-## Random place
+## Position aléatoire
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+Créons une autre fonction pour déplacer la tortue à un endroit aléatoire sur l'écran. Le centre de l'écran est (0,0) donc nous placerons les tortues dans une zone carrée autour du centre.
 
-+ Add a `randomplace()` function:
++ Ajoute une fonction `positionaleatoire()`:
     
-    ![screenshot](images/modern-place-function.png)
+    ![capture d'écran](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ Essaie ta nouvelle fonction en l'appelant puis en appelant `stamp()`, tu peux l'appeler plus d'une fois:
     
-    ![screenshot](images/modern-call-place.png)
+    ![capture d'écran](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ Ooops, la tortue dessine quand elle bouge. Levons le stylo au début et baissons le à la fin du mouvement afin que la tortue ne dessine pas pendant qu'elle bouge:
     
-    ![screenshot](images/modern-place-pen.png)
+    ![capture d'écran](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    As-tu remarqué que tu n'avais qu'à «réparer» le code à un endroit? C'est une autre fonctionnalités des fonctions.
 
-+ Now test your code a few times.
++ Maintenant, teste ton code quelques fois.
