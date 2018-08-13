@@ -1,43 +1,43 @@
-## Random colours
+## Colori casuali
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Apri questo trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ Puoi impostare il colore di una tartaruga scegliendo la quantità di rosso, verde e blu che desideri da 0 a 255.
     
-    Add the following code to get a purple turtle:
+    Aggiungi il seguente codice per ottenere una tartaruga viola:
     
     ![screenshot](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    Il viola è ottenuto mescolando insieme rosso e blu.
 
-+ Try some different numbers to get different colours.
++ Prova valori diversi per ottenere colori diversi.
     
-    Remember each number can be from 0 to 255.
+    Ricorda che ogni numero può essere compreso tra 0 e 255.
 
-+ How about choosing a random colour?
++ Che ne dici di scegliere un colore casuale?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Aggiorna il codice per scegliere un numero casuale compreso tra 0 e 255 per i valori rosso, verde e blu:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Fai clic su "Esegui" un paio di volte per ottenere tartarughe di differenti colori.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ È divertente, ma c'è molto da ricordare e digitare per far comparire ogni tartaruga con un colore casuale differente e non è molto facile da leggere.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    In Python possiamo scrivere `def` per definire una funzione che possiamo chiamare ogni volta che è necessario far comparire una tartaruga dal colore differente.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Hai già chiamato funzioni, `color()` e `randint()` sono funzioni che sono state definite per te.
     
-    Let’s put the random colour code into a function using def:
+    Mettiamo il codice del colore casuale in una funzione usando def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Assicurati di far rientrare (indentare) il codice all'interno della funzione. Le funzioni vengono generalmente posizionate nella parte superiore dello script dopo le istruzioni di import.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Se "esegui" il tuo codice ora non ottieni una tartaruga colorata casualmente. Questo perché hai definito la tua funzione, ma non l'hai ancora chiamata.
 
-+ Add a line to call your new function:
++ Aggiungi una linea per chiamare la tua nuova funzione:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Nota che il tuo nuovo codice è molto più facile da capire perché la parte complessa è nella funzione. È facile capire cosa `colorecasuale()` faccia.
