@@ -1,19 +1,19 @@
-## Random place
+## Willekeurige plaats
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+Laten we nog een functie maken om de schildpad naar een willekeurige plaats op het scherm te krijgen. Het midden van het scherm is (0,0) dus plaatsen we schildpadden in een vierkant gebied rond het midden.
 
-+ Add a `randomplace()` function:
++ Voeg een functie `willekeurigeplaats()` toe:
     
     ![screenshot](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ Probeer de nieuwe functie uit door hem aan te roepen en dan `stamp()` aan te roepen, meer dan één keer:
     
     ![screenshot](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ Oeps, de schildpad tekent als hij beweegt. Laten we de pen aan het begin en aan het einde omhoog zetten zodat de schildpad niet tekent als die beweegt:
     
     ![screenshot](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    Is het je opgevallen dat je de code maar op één plek moest 'repareren'? Dat is een ander voordeel van functies.
 
-+ Now test your code a few times.
++ Test nu je code een paar keer.
