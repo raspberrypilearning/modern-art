@@ -3,84 +3,83 @@
 from turtle import *
 from random import *
 
-def randomcolour():
-  red = randint(0, 255)
-  green = randint(0, 255)
-  blue = randint(0, 255)
-  color(red, green, blue)
+def colorecasuale():
+  colormode(255)
+  rosso = randint(0, 255)
+  verde = randint(0, 255)
+  blu = randint(0, 255)
+  color(rosso, verde, blu)
 
-def randomplace():
+def posizionecasuale():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
-  
-def randomheading():
-  heading = randint(0, 360)
-  setheading(heading)
 
-def drawrectangle():
-  randomcolour()
-  randomplace()
+def direzionecasuale():
+  direzione = randint(0, 360)
+  setheading(direzione)
+
+def disegnarettangolo():
+  colorecasuale()
+  posizionecasuale()
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  base = randint(10, 100)
+  altezza = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(base)
   right(90)
-  forward(height)
+  forward(altezza)
   right(90)
-  forward(length)
+  forward(base)
   right(90)
-  forward(height)
+  forward(altezza)
   right(90)
   end_fill()
-  
+
 shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  randomcolour()
-  randomplace()
-  randomheading()
+  colorecasuale()
+  posizionecasuale()
+  direzionecasuale()
   stamp()
-  
-# Challenge - use built in dot function
 
-def drawcircle():
-  radius = randint(5, 100)
-  randomcolour()
-  randomplace()
-  dot(radius)
-  
-def drawstar():
-  randomcolour()
-  randomplace()
-  randomheading()
+# Sfida - usa la funzione punto incorporata
+
+def disegnacerchio():
+  raggio = randint(5, 100)
+  colorecasuale()
+  posizionecasuale()
+  dot(raggio)
+
+def disegnastella():
+  colorecasuale()
+  posizionecasuale()
+  direzionecasuale()
   begin_fill()
-  size = randint(20, 100)
-  #draw the star shape
-  for side in range(5):
+  dimensione = randint(20, 100)
+  #disegna una stella
+  for lato in range(5):
     left(144)
-    forward(size)
+    forward(dimensione)
 
   end_fill()
-  
+
 clear()
 setheading(0)
-  
+
 for i in range(20):
-  drawrectangle()
-  
+  disegnarettangolo()
+
 clear()
-  
+
 for i in range(50):
-  drawcircle()
+  disegnacerchio()
 
 clear()
 
 for i in range(20):
-  drawstar()
-
-
+  disegnastella()
