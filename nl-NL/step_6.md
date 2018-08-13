@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## Uitdaging: meer moderne kunst
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+Kun je een functie maken die een vorm tekent en de functies ` willekeurigekleur()` en/of ` willekeurigeplek() ` aanroept?
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+Je kunt de functies vanuit een `for` lus aanroepen zoals je deed bij de rechthoekenkunst.
 
-Ideas:
+Ideeën:
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- De Turtle-module heeft een functie met de naam 'dot' die de straal van een cirkel (afstand van het midden tot de rand van de cirkel) als invoer neemt. Zoals turtle.dot(10). Je zou een functie `tekencirkel()` kunnen maken die een cirkel met willekeurige straal maakt.
     
     ![screenshot](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- Kijk in ` snippets.py ` voor voorbeeldcode om sterren te tekenen met de schildpad.
     
     ![screenshot](images/modern-stars.png)
 
