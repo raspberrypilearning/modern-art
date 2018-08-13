@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Maak rechthoekige moderne kunst
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Laten we nu wat moderne kunst maken door veel rechthoeken met verschillende afmetingen en kleuren te tekenen.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Voeg eerst de volgende code toe aan de onderkant van het script, na de uitdagings-code, om het scherm te wissen na de schildpadkunst en de schildpad weer in de gebruikelijke richting te laten wijzen:
     
     ![screenshot](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Je kunt van de schilpad- (Engels: turtle) kunstcode commentaarregels maken door een `#` te zetten aan het begin van elke regel zodat die niet wordt uitgevoerd als je bezig bent met de rechthoekenkunst. (Die kun je later weer weghalen om alles weer te laten zien)
     
     ![screenshot](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Laten we nu een functie toevoegen om een rechthoek te tekenen met een willekeurig f​​ormaat, willekeurig gekleurd en op een willekeurige plek!
     
-    Add a `drawrectangle()` function after your other functions:
+    Voeg een functie ` tekenrechthoek() ` toe na de andere functies:
     
     ![screenshot](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Kijk in ` snippets.py ` voor hulpcode als je wat tijd wilt besparen.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Voeg de volgende code onderaan ` main.py ` toe om de nieuwe functie aan te roepen:
     
     ![screenshot](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Voer het script een paar keer uit om te zien hoe hoogte en breedte veranderen.
 
-+ The rectangle is always the same colour and starts at the same location.
++ De rechthoek heeft altijd dezelfde kleur en begint op dezelfde plek.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Nu moet je de schildpad een willekeurige kleur geven en hem dan naar een willekeurige plaats verplaatsen. Hé, had je niet al functies gemaakt om dat te doen? Geweldig. Je kunt ze gewoon aanroepen aan het begin van de functie tekenrechthoek:
     
     ![screenshot](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Wauw, dat was een stuk minder werk, en het is veel gemakkelijker om te lezen.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ We gaan nu `tekenrechthoek()` in een lus aanroepen om wat moderne kunst te maken:
     
     ![screenshot](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Goh dat was een beetje traag, nietwaar? Gelukkig kun je de schildpad versnellen.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Zoek de regel waar je de vorm (Engels: shape) hebt ingesteld op 'turtle' en voeg de gemarkeerde code toe:
     
     ![screenshot](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` is het snelste, maar je kunt getallen gebruiken van 1 (langzaam) tot 10 (snel). Probeer wat uit tot je een goede snelheid hebt gevonden.
