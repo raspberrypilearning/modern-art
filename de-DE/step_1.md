@@ -1,6 +1,6 @@
-## Introduction
+## Einleitung
 
-In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
+In diesem Projekt wirst du computer-generierte moderne Kunst schaffen. Du wirst Funktionen verwenden um Code zu schreiben, den du immer wieder verwenden kannst.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,17 +8,17 @@ In this project you will create computer generated modern art. You will use func
   <img src="images/modern-finished.png">
 </div>
 
-### Additional information for club leaders
+### Zusätzliche Information für Clubleiter
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Hinweise für Gruppenleiter
 
-## Introduction:
+## Einleitung:
 
-This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Generator für moderne Kunst. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
 
 ## Online Resources
 
