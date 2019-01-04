@@ -1,6 +1,6 @@
 ## Introduzione
 
-In questo progetto creerai arte moderna generata al computer. Userai le funzioni per scrivere codice che potrai usare più e più volte.
+In questo progetto creerai arte moderna generata al computer. Userai funzioni per scrivere codice che potrai riutilizzare più e più volte.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -18,7 +18,7 @@ Se intendete stampare questo progetto, cliccate su [Versione stampabile](https:/
 
 ## Introduzione:
 
-Questo progetto introduce le funzioni attraverso un generatore di arte moderna colorata. Le funzioni sono utilizzate per raggruppare codice di grafica con la tartaruga che può quindi essere facilmente utilizzato per creare arte funky.
+Questo progetto introduce le funzioni attraverso un generatore di arte moderna colorata. Le funzioni vengono utilizzate per raggruppare codice di grafica con tartarughe, che può poi essere utilizzato per creare opere d'arte stravaganti.
 
 ## Risorse online
 
@@ -53,13 +53,13 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 
 ## Sfide
 
-* Turtle art: definisci una nuova funzione per completare il generatore di arte della tartaruga.
+* Turtle art: definisci una nuova funzione per completare il generatore di opere d'arte con tartarughe.
 * Altra arte moderna - crea una nuova funzione che chiami altre funzioni per generare arte moderna. 
 
 ## Domande frequenti
 
-* Per evitare di dover aspettare che il codice inserito all'inizio debba essere concluso prima che inizio a funzionare quello aggiunto per ultimo, i bambini possono commentare il codice iniziale può essere commentato usando un '#' all'inizio di ogni linea. 
-* Se vogliono eseguire tutti i loro codici allora si può usare `clear()` per ripulire lo schermo. 
+* Per evitare di dover aspettare che il codice inserito all'inizio debba essere eseguito prima che inizi a funzionare quello aggiunto per ultimo, i ragazzi possono commentare il codice iniziale digitando '#' all'inizio di ogni linea. 
+* Se vogliono eseguire il loro codice al completo basta usare `clear()` per ripulire lo schermo. 
 
 \--- /collapse \---
 
