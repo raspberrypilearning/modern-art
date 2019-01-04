@@ -1,19 +1,19 @@
-## Random place
+## Nasumična pozicija
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+Definirajmo još jednu funkciju koja će pomicati kornjaču na nasumičnu poziciju na ekranu. Sredina ekrana ima koordinate (0,0) pa ćemo kornjače smjestiti oko centra u prostor u obliku kvadrata.
 
-+ Add a `randomplace()` function:
++ Dodaj funkciju `nasumicnaPozicija()`:
     
     ![screenshot](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ Isprobaj svoju novu funkciju tako da prvo pozoveš nju, a zatim funkciju `stamp()`. Možeš ju pozvati više puta:
     
     ![screenshot](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ Uuups, kornjača crta dok se pomiče. Podignimo olovku na početku i spustimo ju na kraju tako da kornjača ne crta dok se pomiče:
     
     ![screenshot](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    Primjećuješ li da si morao 'popraviti' kôd samo na jednom mjestu? To je još jedna prednost funkcija.
 
-+ Now test your code a few times.
++ Testiraj sada svoj kôd nekoliko puta.
