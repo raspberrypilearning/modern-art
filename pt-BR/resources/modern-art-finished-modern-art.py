@@ -4,7 +4,8 @@ from turtle import *
 from random import *
 
 def coraleatoria ():
-  colormode(255)
+  ###Uncomment the line below if you are not using trinket###
+  #colormode(255)
   vermelho = randint(0, 255)
   verde = randint(0, 255)
   azul = randint(0, 255)
