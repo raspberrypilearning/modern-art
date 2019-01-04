@@ -20,21 +20,21 @@
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Fai clic su "Esegui" un paio di volte per ottenere tartarughe di differenti colori.
++ Fai clic su "Esegui" un paio di volte per ottenere tartarughe di colori diversi.
 
-+ È divertente, ma c'è molto da ricordare e digitare per far comparire ogni tartaruga con un colore casuale differente e non è molto facile da leggere.
++ È divertente, ma devi ricordare e scrivere molto codice ogni volta che vuoi impostare una tartaruga su un colore casuale. In più non è molto facile da leggere.
     
-    In Python possiamo scrivere `def` per definire una funzione che possiamo chiamare ogni volta che è necessario far comparire una tartaruga dal colore differente.
+    In Python possiamo scrivere `def` per definire una funzione che possiamo chiamare ogni volta che è necessario far comparire una tartaruga di colore diverso.
     
-    Hai già chiamato funzioni, `color()` e `randint()` sono funzioni che sono state definite per te.
+    Hai già chiamato funzioni in precedenza, `color()` e `randint()` sono funzioni che abbiamo definito per te.
     
     Mettiamo il codice del colore casuale in una funzione usando def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Assicurati di far rientrare (indentare) il codice all'interno della funzione. Le funzioni vengono generalmente posizionate nella parte superiore dello script dopo le istruzioni di import.
+    Assicurati di indentare il codice all'interno della funzione. Le funzioni vengono generalmente posizionate nella parte superiore dello script dopo le istruzioni di import.
 
-+ Se "esegui" il tuo codice ora non ottieni una tartaruga colorata casualmente. Questo perché hai definito la tua funzione, ma non l'hai ancora chiamata.
++ Se ora clicchi su "Run" non ottieni una tartaruga colorata casualmente. Questo perché hai definito la tua funzione, ma non l'hai ancora chiamata.
 
 + Aggiungi una linea per chiamare la tua nuova funzione:
     
