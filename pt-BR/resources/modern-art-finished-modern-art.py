@@ -3,38 +3,38 @@
 from turtle import *
 from random import *
 
-def randomcolour():
+def coraleatoria ():
   colormode(255)
-  red = randint(0, 255)
-  green = randint(0, 255)
-  blue = randint(0, 255)
-  color(red, green, blue)
+  vermelho = randint(0, 255)
+  verde = randint(0, 255)
+  azul = randint(0, 255)
+  color(vermelho, verde, azul)
 
-def randomplace():
+def lugaraleatorio():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
 
-def randomheading():
-  heading = randint(0, 360)
-  setheading(heading)
+def irparaaleatorio():
+  irpara = randint(0, 360)
+  setheading(irpara)
 
-def drawrectangle():
-  randomcolour()
-  randomplace()
+def desenharetangulo():
+  coraleatoria()
+  lugaraleatorio()
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  comprimento = randint(10, 100)
+  altura = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(comprimento)
   right(90)
-  forward(height)
+  forward(altura)
   right(90)
-  forward(length)
+  forward(comprimento)
   right(90)
-  forward(height)
+  forward(altura)
   right(90)
   end_fill()
 
@@ -42,29 +42,29 @@ shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  randomcolour()
-  randomplace()
-  randomheading()
+  coraleatoria()
+  lugaraleatorio()
+  irparaaleatorio()
   stamp()
 
-# Challenge - use built in dot function
+# Desafio - use a função de ponto embutido
 
-def drawcircle():
-  radius = randint(5, 100)
-  randomcolour()
-  randomplace()
-  dot(radius)
+def desenhacirculo():
+  raio = randint(5, 100)
+  coraleatoria()
+  lugaraleatorio()
+  dot(raio)
 
-def drawstar():
-  randomcolour()
-  randomplace()
-  randomheading()
+def desenhaestrela():
+  coraleatoria()
+  lugaraleatorio()
+  irparaaleatorio()
   begin_fill()
-  size = randint(20, 100)
-  #draw the star shape
-  for side in range(5):
+  tamanho = randint(20, 100)
+  #desenhar a forma de estrela
+  for lado in range(5):
     left(144)
-    forward(size)
+    forward(tamanho)
 
   end_fill()
 
@@ -72,14 +72,14 @@ clear()
 setheading(0)
 
 for i in range(20):
-  drawrectangle()
+  desenharetangulo()
 
 clear()
 
 for i in range(50):
-  drawcircle()
+  desenhacirculo()
 
 clear()
 
 for i in range(20):
-  drawstar()
+  desenhaestrela()
