@@ -3,38 +3,38 @@
 from turtle import *
 from random import *
 
-def randomcolour():
+def nasumicnaboja():
   colormode(255)
-  red = randint(0, 255)
-  green = randint(0, 255)
-  blue = randint(0, 255)
-  color(red, green, blue)
+  crvena = randint(0, 255)
+  zelena = randint(0, 255)
+  plava = randint(0, 255)
+  color(crvena, zelena, plava)
 
-def randomplace():
+def nasumicnapozicija():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
 
-def randomheading():
-  heading = randint(0, 360)
-  setheading(heading)
+def nasumicansmjer():
+  smjer = randint(0, 360)
+  setheading(smjer)
 
-def drawrectangle():
-  randomcolour()
-  randomplace()
+def crtajpravougaonik():
+  nasumicnaboja()
+  nasumicnapozicija()
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  duzina = randint(10, 100)
+  visina = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(duzina)
   right(90)
-  forward(height)
+  forward(visina)
   right(90)
-  forward(length)
+  forward(duzina)
   right(90)
-  forward(height)
+  forward(visina)
   right(90)
   end_fill()
 
@@ -42,29 +42,29 @@ shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  randomcolour()
-  randomplace()
-  randomheading()
+  nasumicnaboja()
+  nasumicnapozicija()
+  nasumicansmjer()
   stamp()
 
-# Challenge - use built in dot function
+# Izazov - koristi ugrađenu dot funkciju
 
-def drawcircle():
-  radius = randint(5, 100)
-  randomcolour()
-  randomplace()
-  dot(radius)
+def crtajkrug():
+  poluprecnik = randint(5, 100)
+  nasumicnaboja()
+  nasumicnapozicija()
+  dot(poluprecnik)
 
-def drawstar():
-  randomcolour()
-  randomplace()
-  randomheading()
+def crtajzvijezdu():
+  nasumicnaboja()
+  nasumicnapozicija()
+  nasumicansmjer()
   begin_fill()
-  size = randint(20, 100)
-  #draw the star shape
-  for side in range(5):
+  velicina = randint(20, 100)
+  #nacrtaj oblik zvijezde
+  for stranica in range(5):
     left(144)
-    forward(size)
+    forward(velicina)
 
   end_fill()
 
@@ -72,14 +72,14 @@ clear()
 setheading(0)
 
 for i in range(20):
-  drawrectangle()
+  crtajpravougaonik()
 
 clear()
 
 for i in range(50):
-  drawcircle()
+  crtajkrug()
 
 clear()
 
 for i in range(20):
-  drawstar()
+  crtajzvijezdu()
