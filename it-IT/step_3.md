@@ -6,14 +6,14 @@ Creiamo un'altra funzione per spostare la tartaruga in un punto casuale dello sc
     
     ![screenshot](images/modern-place-function.png)
 
-+ Prova la tua nuova funzione chiamandola e quindi usando anche `stamp()`, puoi eseguirla più di una volta:
++ Prova la tua nuova funzione. Chiamandola e poi chiamando `stamp()` puoi eseguirla più di una volta:
     
     ![screenshot](images/modern-call-place.png)
 
-+ Ooops, la tartaruga disegna mentre si muove. Solleviamo la penna all'inizio appoggiamola alla fine in modo che la tartaruga non disegni mentre si muove:
++ Ooops, la tartaruga disegna quando si muove. Solleviamo la penna all'inizio e riappoggiamola solo alla fine, in modo che la tartaruga non disegni mentre si muove:
     
     ![screenshot](images/modern-place-pen.png)
     
-    Hai notato che dovevi "sistemare" il codice in un solo punto? Questa è un'altra buona proprietà delle funzioni.
+    Hai notato che hai dovuto "sistemare" il codice in un solo punto? Questa è un'altra buona proprietà delle funzioni.
 
-+ Ora prova il tuo codice alcune volte.
++ Ora prova il tuo codice qualche volta.
