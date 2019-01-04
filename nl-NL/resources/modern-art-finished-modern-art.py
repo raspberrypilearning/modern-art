@@ -4,7 +4,8 @@ from turtle import *
 from random import *
 
 def willekeurigekleur():
-  colormode(255)
+  ###Uncomment the line below if you are not using trinket###
+  #colormode(255)
   rood = randint(0, 255)
   groen = randint(0, 255)
   blauw = randint(0, 255)
