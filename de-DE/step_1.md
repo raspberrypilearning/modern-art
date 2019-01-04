@@ -49,11 +49,11 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Problemlösung durch Kombination von Programmierstrukturen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Aufgaben
 
-* Turtle art - define a new function to complete the turtle art generator.
+* Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
 * More modern art - create a new function that calls other functions to generate modern art. 
 
 ## Frequently Asked Questions
