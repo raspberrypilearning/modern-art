@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Turtle art
+## Izazov: Kornjačina umjetnost
 
-Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
+Možeš li definirati funkciju `nasumicanSmjer()` kojom će kornjača pokazivati u nasumičnom smjeru i koja će učiniti da sljedeći kôd radi?
 
 ![screenshot](images/modern-turtle-art.png)
 
-Hints:
+Pomoć:
 
-- `setheading(<number>)` will change the direction the turtle is facing in.
+- `setheading(<number>)` će promijeniti smjer u kojem je kornjača okrenuta.
 
-- `<number>` should be between 1 and 360 (the number of degrees in a circle)
+- `<number>` mora biti između 1 i 360 (broj stupnjeva unutar kruga).
 
-- You can use `randint(1, 360)` to choose a number between 1 and 360.
+- Možeš koristiti `randint(1, 360)` za odabir broja između 1 i 360.
 
 \--- /challenge \---
