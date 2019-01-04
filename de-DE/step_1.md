@@ -18,15 +18,15 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Generator für moderne Kunst. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Generator für moderne Kunst. Mit Funktionen werden nützlicher Schildkröten-Grafikcode so verpackt, dass er leicht zur Erstellung von lustiger Kunst verwendet werden kann.
 
-## Online Resources
+## Online-Ressourcen
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Dieses Projekt verwendet Python 3.** Wir empfehlen die Verwendung von [trinket](https://trinket.io/), um Python-Programme online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
 
-* ['Turtle Race' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Turtle Race' Startpunkt - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-There is also a trinket containing a sample solution to the challenges:
+Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
 * [‘Modern Art’ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
 
