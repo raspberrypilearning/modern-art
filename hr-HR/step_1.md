@@ -1,6 +1,6 @@
-## Introduction
+## Uvod
 
-In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
+U ovom projektu naučit ćeš pomoću računala napraviti modernu umjetnost. Pomoću funkcija napisat ćeš kôd koji ćeš moći koristiti kad god budeš htio.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create computer generated modern art. You will use func
   <img src="images/modern-finished.png">
 </div>
 
-### Additional information for club leaders
+### Dodatne informacije za voditelje kluba
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
+Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Bilješke za voditelja kluba
 
-## Introduction:
+## Uvod:
 
-This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+U ovom projektu se pomoću generatora za šaroliku modernu umjetnost uči o funkcijama. U funkcije spremamo koristan kôd turtle grafike koji zatim možemo s lakoćom koristiti za stvaranje zanimljive umjetnosti.
 
-## Online Resources
+## Online izvori
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**U ovom projektu koristi se Python 3.** Predlažemo korištenje [trinketa](https://trinket.io/) za online pisanje u Pythonu. Ovaj projekt sadrži sljedeće Trinkete:
 
-* ['Turtle Race' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Moderna umjetnost' početni materijal -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-There is also a trinket containing a sample solution to the challenges:
+Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
-* [‘Modern Art’ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* [‘Moderna umjetnost’ dovršeni projekt -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
 
-## Offline Resources
+## Offline izvori
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ako želite, ovaj projekt možete izraditi [offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Materijali projekta'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
 
 * modern-art-finished/modern-art.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, koje je moguće preuzeti kao `.zip` datoteke.)
 
-## Learning Objectives
+## Ishodi učenja
 
-* Functions;
+* Funkcije;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa:
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Uporaba različitih programskih struktura za rješavanje problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Izazovi
 
-* Turtle art - define a new function to complete the turtle art generator.
-* More modern art - create a new function that calls other functions to generate modern art. 
+* Kornjačina umjetnost - definiranje nove funkcije za upotpunjavanje turtle generatora.
+* Još moderne umjetnosti - kreiranje nove funkcije koja će pozivati ostale funkcije za generiranje moderne umjetnosti. 
 
-## Frequently Asked Questions
+## Često postavljana pitanja
 
-* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line. 
-* If they do want all of their code to run then `clear()` can be used to clear the screen. 
+* Kako bi djeca izbjegla čekanje da se pokrene prethodno napisan kôd, taj dio kôda mogu komentirati koristeći znak '#' na početku linije. 
+* Ako žele da se cijeli kôd pokrene, mogu koristiti naredbu `clear()` za brisanje cijelog ekrana. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materijali projekta
 
-## Project resources
+## Resursi projekta
 
-* [.zip file containing all project resources](resources/modern-art-project-resources.zip)
-* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
+* [.zip datoteka koja sadrži sve materijale projekta](resources/modern-art-project-resources.zip)
+* [Online Trinket koji sadrži početne materijale projekta 'Moderna umjetnost'](http://jumpto.cc/modern-go)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
-## Club leader resources
+## Resursi za voditelja kluba
 
-* [.zip file containing all completed project resources](resources/modern-art-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+* [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/modern-art-volunteer-resources.zip)
+* [Dovršeni Online Trinket projekt](https://trinket.io/python/47bbc2fc2b)
 * [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
 
 \--- /collapse \---
