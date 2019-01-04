@@ -4,7 +4,8 @@ from turtle import *
 from random import *
 
 def randomcolour():
-  colormode(255)
+  ###Uncomment the line below if you are not using trinket###
+  #colormode(255)
   red = randint(0, 255) #赤
   green = randint(0, 255) #緑
   blue = randint(0, 255) #青
