@@ -1,12 +1,12 @@
 ## Crea arte moderna rettangolare
 
-Ora creiamo un po' di arte moderna disegnando tanti di rettangoli di diverse dimensioni e colori.
+Ora creiamo un po' di arte moderna disegnando tanti rettangoli di diverse dimensioni e colori.
 
-+ Prima aggiungi il seguente codice alla fine del tuo script, dopo il codice dell'ultima sfida, per cancellare lo schermo dopo l'ultima opera artistica con la tartaruga e fai puntare la tartaruga nella sua direzione abituale:
++ Prima aggiungi questo codice alla fine del tuo script, dopo il codice dell'ultima sfida, per cancellare lo schermo dopo l'ultima opera artistica con la tartaruga e far puntare la tartaruga nella direzione originale:
     
     ![screenshot](images/modern-reset.png)
 
-+ Puoi commentare parte del tuo codice posizionando un `#` all'inizio di ogni riga in modo che non funzioni mentre si realizziamo il codice sull'arte del rettangolo. (In seguito potrai rimuoverli per mostrare tutto il tuo lavoro.)
++ Puoi commentare parte del tuo codice posizionando un `#` all'inizio di ogni riga in modo che non venga eseguito mentre realizzi le tue opere d'arte rettangolari. (In seguito potrai rimuoverli per mostrare il tuo lavoro al completo.)
     
     ![screenshot](images/modern-comment.png)
 
@@ -18,7 +18,7 @@ Ora creiamo un po' di arte moderna disegnando tanti di rettangoli di diverse dim
     
     Cerca in `snippets.py` per qualche codice d'aiuto se vuoi risparmiare un po' di tempo.
 
-+ Aggiungi il seguente codice nella parte inferiore di `main.py` per chiamare la tua nuova funzione:
++ Aggiungi questo codice nella parte inferiore di `main.py` per chiamare la tua nuova funzione:
     
     ![screenshot](images/modern-call-rect.png)
     
@@ -26,19 +26,19 @@ Ora creiamo un po' di arte moderna disegnando tanti di rettangoli di diverse dim
 
 + Il rettangolo è sempre dello stesso colore e inizia nella stessa posizione.
     
-    Ora dovrai impostare la tartaruga su un colore casuale e poi spostarla in una posizione casuale. Ehi, ma non hai già creato delle funzioni per farlo? Meraviglioso. Puoi chiamarli semplicemente all'inizio della funzione disegnarettangolo:
+    Ora dovrai impostare la tartaruga su un colore casuale e poi spostarla in una posizione casuale. Ehi, ma non hai già creato delle funzioni per farlo? Meraviglioso. Puoi chiamarle semplicemente all'inizio della funzione disegnarettangolo:
     
     ![screenshot](images/modern-random-rect.png)
     
-    Wow è bastato veramente poco ed il codice ed è molto più facile da leggere.
+    Wow, è bastato veramente poco ed il codice ed è molto più facile da leggere.
 
-+ Ora chiamiamo `drawrectangle()` in un ciclo per creare una bella arte moderna:
++ Ora chiamiamo `drawrectangle()` dentro un ciclo per creare dell'arte moderna:
     
     ![screenshot](images/modern-rect-art.png)
 
-+ Accidenti era un po' lento o no! Fortunatamente puoi accelerare la tartaruga.
++ Accidenti! Era un po' lento, no? Fortunatamente puoi far accelerare la tartaruga.
     
-    Trova la linea in cui imposti la forma a "tartaruga" e aggiungi il codice evidenziato:
+    Trova la linea in cui imposti la forma "turtle" e aggiungi il codice evidenziato:
     
     ![screenshot](images/modern-speed.png)
     
