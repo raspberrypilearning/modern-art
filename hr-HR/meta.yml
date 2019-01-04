@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Moderna umjetnost
-description: U ovom projektu naučit ćeš pomoću računala napraviti modernu umjetnost.
+description: Napiši program kojim ćeš pomoću računala napraviti modernu umjetnost.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
 interests: art
 technologies: python
@@ -18,14 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Moderna umjetnost
+    title: Uvod
   - 
-    title: Random colours
+    title: Nasumične boje
   - 
-    title: Random place
+    title: Nasumična pozicija
   - 
-    title: 'Challenge: Turtle art'
+    title: 'Izazov: Kornjačina umjetnost'
   - 
-    title: Create rectangle modern art
+    title: Kreiraj modernu umjetnost s pravokutnicima
   - 
-    title: 'Challenge: More modern art'
+    title: 'Izazov: Još moderne umjetnosti'
