@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Kreiraj modernu umjetnost s pravokutnicima
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Kreirajmo sada modernu umjetnost crtajući puno pravokutnika različitih boja i veličina.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Prvo dodaj sljedeći kôd na kraj svog programa, nakon kôda koji si napisao dok si rješavao izazov. Tako ćeš očistiti ekran od crteža koje je napravila tvoja kornjača i usmjerit ćeš kornjaču u njenom uobičajenom smjeru:
     
     ![screenshot](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Kôd zbog kojeg je tvoja kornjača crtala po ekranu možeš staviti u komentar tako da na početku svake linije dodaš `#`. Tako se taj dio kôda neće pokretati dok budeš radio na crtanju pravokutnika. (Kasnije možeš maknuti znak # i pokazati sve što si napravio.)
     
     ![screenshot](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Dodajmo sada funkciju koja će na nasumičnim pozicijama crtati pravokutnike nasumičnih veličina i boja!
     
-    Add a `drawrectangle()` function after your other functions:
+    Dodaj funkciju `crtajPravokutnik()` nakon svih ostalih funkcija:
     
     ![screenshot](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Pogledaj u `snippets.py` za pomoć s kôdom ako želiš uštedjeti nešto vremena na tipkanju.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Dodaj sljedeći kôd na kraj programa `main.py` za pozivanje svoje nove funkcije:
     
     ![screenshot](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Pokreni program nekoliko puta da vidiš kako se mijenjaju visina i širina.
 
-+ The rectangle is always the same colour and starts at the same location.
++ Pravokutnik je uvijek iste boje i nalazi se na istom mjestu.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Sada moraš kornjaču obojiti nasumičnom bojom, a zatim ju pomaknuti na nasumičnu poziciju. Hej, nisi li već definirao funkcije koje to rade? Odlično. Jednostavno ih pozovi na početku funkcije crtajPravokutnik:
     
     ![screenshot](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Opa, to je bilo brzo, a i puno je jednostavnije za pročitati.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Pozovimo sada funkciju `crtajPravokutnik()` unutar petlje kako bi kreirali fora modernu umjetnost:
     
     ![screenshot](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Uh, ovo je bilo malo sporo, zar ne? Srećom, možeš malo ubrzati kornjaču.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Pronađi liniju kôda gdje je oblik postavljen na 'turtle' i dodaj označeni kôd:
     
     ![screenshot](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    Korištenje `speed(0)` funkcije je najbrže, ali možeš koristiti i brojeve od 1 (sporo) do 10 (brzo). Isprobavaj dok ne pronađeš brzinu koja ti odgovara.
