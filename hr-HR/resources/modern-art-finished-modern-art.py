@@ -4,7 +4,8 @@ from turtle import *
 from random import *
 
 def nasumicnaBoja():
-  colormode(255)
+  ###Uncomment the line below if you are not using trinket###
+  #colormode(255)
   crvena = randint(0, 255)
   zelena = randint(0, 255)
   plava = randint(0, 255)
