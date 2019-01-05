@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## Aufgabe: Noch mehr Moderne Kunst
 
 Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
 
