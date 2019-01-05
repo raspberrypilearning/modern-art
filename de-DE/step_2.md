@@ -20,11 +20,11 @@
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Klicke ein paar Mal auf "Run", um verschiedenfarbige Schildkröten zu erhalten.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Das macht Spaß, aber es ist viel zu merken und zu tippen, wenn du eine Schildkröte auf eine zufällige Farbe setzen möchtest. Außerdem ist es nicht sehr einfach zu lesen.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    In Python können wir `def` schreiben um eine Funktion zu definieren, die wir jedesmal aufrufen können, wenn wir die Schildkröte auf eine zufällige Farbe setzen müssen.
     
     You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
