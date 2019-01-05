@@ -45,7 +45,7 @@ speed(0)
 for i in range(1, 30):
   zufallsfarbe()
   zufallsort()
-  zufallstitel()
+  zufallsrichtung()
   stamp()
 
 # Aufgabe - verwende die eingebaute dot-Funktion
@@ -59,7 +59,7 @@ def zeichnekreis():
 def zeichnestern():
   zufallsfarbe()
   zufallsort()
-  zufallstitel()
+  zufallsrichtung()
   begin_fill()
   groesse = randint(20, 100)
   #zeichne den Stern
