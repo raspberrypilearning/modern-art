@@ -2,7 +2,7 @@
 
 ## Aufgabe: Schildkröten-Kunst
 
-Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
+Kannst du eine Funktion `zufallsrichtung()` definieren, die die Schildkröte in eine zufällige Richtung zeigen läßt und den folgenden Code zum Laufen bringt?
 
 ![screenshot](images/modern-turtle-art.png)
 
