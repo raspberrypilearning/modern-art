@@ -18,7 +18,7 @@ def zufallsort():
   goto(x, y)
   pendown()
 
-def zufallstitel():
+def zufallsrichtung():
   richtung = randint(0, 360)
   setheading(richtung)
 
