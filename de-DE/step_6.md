@@ -4,11 +4,11 @@
 
 Kannst du eine Funktion erstellen, die eine Figur zeichnet und deine `zufallsfarbe()` und / oder `zufallsort()` Funktionen aufruft?
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+Du kannst deine Funktion innerhalb einer `for` Schleife aufrufen, wie du es bei den Rechtecken schon gemacht hast.
 
-Ideas:
+Ideen:
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- Schildkröten haben eine Funktion namens "dot", die als Eingabe einen Radius (Abstand vom Zentrum zum Rand des Kreises) annimmt. z.B. turtle.dot(10) Du könntest eine `zeichnekreis()` Funktion schreiben, die einen Kreis mit einem zufälligen Radius zeichnet.
     
     ![screenshot](images/modern-circles.png)
 
