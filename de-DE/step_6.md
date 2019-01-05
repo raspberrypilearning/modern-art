@@ -2,7 +2,7 @@
 
 ## Aufgabe: Noch mehr Moderne Kunst
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+Kannst du eine Funktion erstellen, die eine Figur zeichnet und deine `zufallsfarbe()` und / oder `zufallsort()` Funktionen aufruft?
 
 You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
 
