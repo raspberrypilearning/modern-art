@@ -6,13 +6,13 @@ Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in ve
     
     ![screenshot](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Du kannst deinen Schildkröten-Kunst Code auskommentieren, indem du ein `#` an den Beginn jeder Zeile setzt, die beim Programmlauf übersprungen werden soll. (Dann kannst du ihn später wieder aktivieren, um deine gesamte Arbeit zu zeigen.)
     
     ![screenshot](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Fügen wir nun eine Funktion hinzu, um ein Rechteck mit zufälliger Größe und zufälliger Farbe an einer zufälligen Stelle zu zeichnen!
     
-    Add a `drawrectangle()` function after your other functions:
+    Füge eine `zeichnerechteck()` Funktion nach deinen anderen Funktionen hinzu:
     
     ![screenshot](images/modern-rect-function.png)
     
