@@ -59,25 +59,25 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 ## Häufig Gestellte Fragen
 
 * Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren. 
-* If they do want all of their code to run then `clear()` can be used to clear the screen. 
+* Wenn sie den gesamten Code laufen lassen wollen, können sie den Bildschirm mit `clear()` löschen. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektmaterial
 
-## Project resources
+## Projektressourcen
 
-* [.zip file containing all project resources](resources/modern-art-project-resources.zip)
-* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
+* [.zip-Datei, die alle Projektressourcen enthält](resources/modern-art-project-resources.zip)
+* [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](http://jumpto.cc/modern-go)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
-## Club leader resources
+## Ressourcen für Clubleiter
 
-* [.zip file containing all completed project resources](resources/modern-art-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/modern-art-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/47bbc2fc2b)
 * [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
 
 \--- /collapse \---
