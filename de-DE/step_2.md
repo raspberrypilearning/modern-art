@@ -1,14 +1,14 @@
-## Random colours
+## Zufällige Farben
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Öffne diesen Trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ Du kannst die Farbe einer Schildkröte einstellen, indem du Rot, Grün und Blau mischt, jeweils mit Werten zwischen 0 und 255.
     
-    Add the following code to get a purple turtle:
+    Füge den folgenden Code hinzu, um eine lila Schildkröte zu erhalten:
     
     ![screenshot](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    Lila wird durch Mischen von Rot und Blau hergestellt.
 
 + Try some different numbers to get different colours.
     
