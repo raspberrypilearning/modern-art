@@ -4,7 +4,7 @@ from turtle import *
 from random import *
 
 def zufallsfarbe():
-  ###Uncomment the line below if you are not using trinket###
+  ###Entferne das Kommentarzeichen in der nächsten Zeile, wenn du nicht mit Trinket arbeitest###
   #colormode(255)
   rot = randint(0, 255)
   gruen = randint(0, 255)
