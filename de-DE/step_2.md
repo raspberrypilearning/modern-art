@@ -26,18 +26,18 @@
     
     In Python können wir `def` schreiben um eine Funktion zu definieren, die wir jedesmal aufrufen können, wenn wir die Schildkröte auf eine zufällige Farbe setzen müssen.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Du hast bereits Funktionen aufgerufen, `color()` und `randint()` sind Funktionen, die für dich definiert wurden.
     
-    Let’s put the random colour code into a function using def:
+    Machen wir mit def aus dem Code für eine zufällige Farbe eine Funktion:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Stelle sicher, dass du den Code innerhalb der Funktion einrückst. Funktionen werden normalerweise nach den Importen an den Anfang des Skripts gestellt.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Wenn du deinen Code jetzt mit "Run" ausführst, erhältst du keine zufällig gefärbte Schildkröte. Das liegt daran, dass du deine Funktion zwar definiert hast, sie aber noch nicht aufgerufen hast.
 
-+ Add a line to call your new function:
++ Füge eine Zeile hinzu, um deine neue Funktion aufzurufen:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Beachte, dass dein neuer Code viel einfacher zu verstehen ist, da sich der komplexe Teil in der Funktion befindet. Es ist leicht herauszufinden, was `zufallsfarbe()` macht.
