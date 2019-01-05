@@ -12,7 +12,7 @@ Ideen:
     
     ![screenshot](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- Sieh dir mal in `snippets.py` das Beispiel an um Sterne mit der Schildkröte zu zeichnen.
     
     ![screenshot](images/modern-stars.png)
 
