@@ -10,11 +10,11 @@
     
     Lila wird durch Mischen von Rot und Blau hergestellt.
 
-+ Try some different numbers to get different colours.
++ Probiere verschiedene Zahlen aus, um andere Farben zu erhalten.
     
-    Remember each number can be from 0 to 255.
+    Denke daran, dass jede Zahl zwischen 0 und 255 liegen kann.
 
-+ How about choosing a random colour?
++ Wie wäre es mit einer zufälligen Farbe?
     
     Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
