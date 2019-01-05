@@ -16,7 +16,7 @@
 
 + Wie wäre es mit einer zufälligen Farbe?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Aktualisiere deinen Code, um eine Zufallszahl zwischen 0 und 255 für die roten, grünen und blauen Werte auszuwählen:
     
     ![screenshot](images/modern-random-colour.png)
 
