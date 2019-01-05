@@ -6,14 +6,14 @@ Erstelle eine weitere Funktion, um die Schildkröte an einen beliebigen Ort auf 
     
     ![screenshot](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ Teste deine neue Funktion, indem du sie aufrufst und dann `stamp()` aufrufst. Das kannst du auch mehrmals machen:
     
     ![screenshot](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ Uuups, die Schildkröte zeichnet, wenn sie sich bewegt. Lass uns den Stift am Anfang hochheben und unten am Ende wieder absenken. Damit wird die Schildkröte während der Bewegung nicht zeichnen:
     
     ![screenshot](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    Hast du bemerkt, dass du den Code nur an einer Stelle "reparieren" musstest? Das ist eine andere gute Sache an Funktionen.
 
-+ Now test your code a few times.
++ Teste jetzt deinen Code ein paar Mal.
