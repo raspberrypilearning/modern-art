@@ -22,24 +22,24 @@ Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in ve
     
     ![screenshot](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Führe dein Skript einige Male aus, um die Änderung der Höhe und Breite zu sehen.
 
-+ The rectangle is always the same colour and starts at the same location.
++ Das Rechteck hat immer dieselbe Farbe und beginnt an derselben Stelle.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Jetzt musst du die Schildkröte auf eine zufällige Farbe setzen und sie an einen zufälligen Ort verschieben. He, hast du nicht bereits Funktionen dafür erstellt? Prima. Du kannst sie einfach am Anfang der Drawrectangle-Funktion aufrufen:
     
     ![screenshot](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Tja, das war viel weniger Arbeit und es ist viel einfacher zu lesen.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Rufen wir nun `zeichnerechteck()` in einer Schleife auf, um coole moderne Kunst zu kreieren:
     
     ![screenshot](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Meine Güte, das war ein bisschen langsam, nicht wahr! Glücklicherweise kannst du die Schildkröte beschleunigen.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Suchen Sie die Zeile, in der du die Form auf "Schildkröte" setzt, und füge den hervorgehobenen Code hinzu:
     
     ![screenshot](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` ist die schnellste Einstellung. Du kannst Zahlen von 1 (langsam) bis 10 (schnell) verwenden. Experimentiere, bis du die gewünschte Geschwindigkeit gefunden hast.
