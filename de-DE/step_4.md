@@ -6,12 +6,12 @@ Kannst du eine Funktion `zufallsrichtung()` definieren, die die Schildkröte in 
 
 ![screenshot](images/modern-turtle-art.png)
 
-Hints:
+Hinweise:
 
-- `setheading(<number>)` will change the direction the turtle is facing in.
+- `setheading(<Zahl>)` ändert die Richtung, in die die Schildkröte zeigt.
 
-- `<number>` should be between 1 and 360 (the number of degrees in a circle)
+- &lt;Zahl&gt; sollte zwischen 1 und 360 liegen (die Anzahl der Grade in einem Kreis)
 
-- You can use `randint(1, 360)` to choose a number between 1 and 360.
+- Du kannst `randint(1, 360)` verwenden, um eine Zahl zwischen 0 und 360 zu wählen.
 
 \--- /challenge \---
