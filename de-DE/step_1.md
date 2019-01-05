@@ -54,11 +54,11 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 ## Aufgaben
 
 * Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
-* More modern art - create a new function that calls other functions to generate modern art. 
+* Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen. 
 
-## Frequently Asked Questions
+## Häufig Gestellte Fragen
 
-* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line. 
+* Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren. 
 * If they do want all of their code to run then `clear()` can be used to clear the screen. 
 
 \--- /collapse \---
