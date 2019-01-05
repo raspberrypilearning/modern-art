@@ -1,8 +1,8 @@
-## Random place
+## Zufällig ausgesuchter Ort
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+Erstelle eine weitere Funktion, um die Schildkröte an einen beliebigen Ort auf dem Bildschirm zu verschieben. Die Mitte des Bildschirms ist (0,0), daher wirst du Schildkröten in einem quadratischen Bereich um die Mitte platziert.
 
-+ Add a `randomplace()` function:
++ Hinzufügen einer `zufallsort()` Funktion:
     
     ![screenshot](images/modern-place-function.png)
 
