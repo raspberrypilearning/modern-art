@@ -19,8 +19,8 @@ def zufallsort():
   pendown()
 
 def zufallstitel():
-  titel = randint(0, 360)
-  setheading(titel)
+  richtung = randint(0, 360)
+  setheading(richtung)
 
 def zeichnerechteck():
   zufallsfarbe()
