@@ -16,9 +16,9 @@ Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in ve
     
     ![screenshot](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Schaue in `snippets.py` nach etwas Hilfscode, wenn du etwas Zeit sparen möchtest.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Füge den folgenden Code am Ende von `main.py` hinzu, um deine neue Funktion aufzurufen:
     
     ![screenshot](images/modern-call-rect.png)
     
