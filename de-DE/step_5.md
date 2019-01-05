@@ -1,8 +1,8 @@
-## Create rectangle modern art
+## Moderne Kunst aus Rechtecken erstellen
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in verschiedenen Größen und Farben zeichnest.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Zuerst fügst du den folgenden Code nach dem Challenge-Code am Ende deines Skripts ein, um den Bildschirm nach deiner Schildkröten-Kunst zu löschen und die Schildkröte in ihre normale Richtung zu weisen:
     
     ![screenshot](images/modern-reset.png)
 
