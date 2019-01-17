@@ -4,7 +4,7 @@ from turtle import *
 from random import *
 
 def nasumicnaboja():
-  ###Uncomment the line below if you are not using trinket###
+  ###Ukloni znak # u redu ispod ako ne koristiš trinket###
   #colormode(255)
   crvena = randint(0, 255)
   zelena = randint(0, 255)
