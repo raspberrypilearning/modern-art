@@ -1,19 +1,19 @@
 ## Zufällig ausgesuchter Ort
 
-Lass uns eine weitere Funktion herstellen, um die Schildkröte zu einem beliebigen Platz auf dem Bildschirm zu bewegen. Die Mitte des Bildschirms ist (0,0), wir müssen die Schildkröte daher in einen quadratischen Bereich rund um die Mitte setzen. 
+Erstelle eine weitere Funktion, um die Schildkröte an einen beliebigen Ort auf dem Bildschirm zu verschieben. Die Mitte des Bildschirms ist (0,0), daher wirst du Schildkröten in einem quadratischen Bereich um die Mitte platzieren.
 
-+ Füge eine `randomplace()` (zufällig ausgesuchter Ort) Funktion hinzu:
-
-    ![screenshot](images/modern-place-function.png)
++ Hinzufügen einer `zufallsort()` Funktion:
     
-+ Probiere deine neue Funktion aus, indem du sie aufrufst und rufe dann `stamp()` (stempeln) auf, du kannst es mehr als einmal aufrufen:
+    ![screenshot](images/modern-place-function.png)
 
++ Teste deine neue Funktion, indem du sie aufrufst und dann `stamp()` aufrufst. Das kannst du auch mehrmals machen:
+    
     ![screenshot](images/modern-call-place.png)
 
-+ Ach herrje! Die Schildkröte zieht, wenn sie sich bewegt. Lass uns den Stift am Anfang hoch- und am Ende runternehmen, damit die Schildkröte nicht zieht während sie sich bewegt:
-
++ Uuups, die Schildkröte zeichnet, wenn sie sich bewegt. Lass uns den Stift am Anfang hochheben und unten am Ende wieder absenken. Damit wird die Schildkröte während der Bewegung nicht zeichnen:
+    
     ![screenshot](images/modern-place-pen.png)
     
-    Hast du gemerkt, dass du den Code nur an einem Platz 'fix' (beheben) musstest? Das ist der Vorteil an den Funktionen. 
+    Hast du bemerkt, dass du den Code nur an einer Stelle "reparieren" musstest? Das ist eine andere gute Sache an Funktionen.
 
 + Teste jetzt deinen Code ein paar Mal.

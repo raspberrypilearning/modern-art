@@ -1,18 +1,17 @@
 --- challenge ---
-## Aufgabe: Schildkröten-Kunst 
-Kannst du eine Funktion `randomheading()` (zufällige Richtung) definieren, wodurch die Schildkröte sich in eine zufällige Richtung bewegt und kannst du es schaffen, dass der folgende Code funktioniert?
+
+## Aufgabe: Schildkröten-Kunst
+
+Kannst du eine Funktion `zufallsrichtung()` definieren, die die Schildkröte in eine zufällige Richtung zeigen läßt und den folgenden Code zum Laufen bringt?
 
 ![screenshot](images/modern-turtle-art.png)
 
-Tipps:
+Hinweise:
 
-- `setheading(<number>)` (Richtung einstellen (Zahl)) ändert die Richtung, in welche die Schildkröte geht.
+- `setheading(&lt;number&gt;)` ändert die Richtung, in die die Schildkröte zeigt.
 
-- `<number>`  (Die Zahl) sollte zwischen 1 und 360 liegen (der Gradanzahl in einem Kreis)
+- `&lt;number&gt;` sollte zwischen 1 und 360 liegen (die Anzahl der Grade in einem Kreis)
 
-- Du kannst `randint(1, 360)` benutzen, um eine Zahl zwischen 1 und 360 zu wählen.
-
-
-
+- Du kannst `randint(1, 360)` verwenden, um eine Zahl zwischen 0 und 360 zu wählen.
 
 --- /challenge ---

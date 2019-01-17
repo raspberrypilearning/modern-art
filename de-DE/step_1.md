@@ -1,60 +1,83 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt wirst du Moderne Kunst per Computer erzeugen. Du wirst Funktionen benutzen, um ein Programm zu schreiben, das du danach immer wieder benutzen kannst. 
- 
+In diesem Projekt wirst du computer-generierte moderne Kunst schaffen. Du wirst Funktionen verwenden um Code zu schreiben, den du immer wieder verwenden kannst.
+
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/6b631ae91e?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/modern-finished.png">
 </div>
 
+### Zusätzliche Information für Clubleiter
+
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/modern-art/print).
 
 --- collapse ---
 ---
-title: Notizen für den Club-Leiter
+title: Hinweise für Gruppenleiter
 ---
+## Einleitung:
 
+Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Generator für moderne Kunst. Mit Funktionen werden nützlicher Schildkröten-Grafikcode so verpackt, dass er leicht zur Erstellung von lustiger Kunst verwendet werden kann.
 
-## Einführung:
-Dieses Projekt führt die Funktionen durch einen bunten „Moderne Kunst Generator“ ein. Die Funktionen werden benutzt, um nützliche Turtle Grafik Codes zu bündeln, die dann einfach benutzt werden können, um tolle Kunstwerke zu erzeugen. 
+## Online-Ressourcen
 
-## Online Ressourcen
+**Dieses Projekt verwendet Python 3.** Wir empfehlen die Verwendung von [trinket](https://trinket.io/), um Python-Programme online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
 
-__Dieses Projekt benutzt Python 3.__ Wir empfehlen die Nutzung von [trinket](https://trinket.io/), um Python online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+* ['Turtle Race' Startpunkt - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-+ ['Turtle Race' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
-Es gibt auch ein Trinket, das eine Musterlösung für diese Aufgaben enthält:
+* [Fertiges Projekt 'Moderne Kunst' - trinket.io/python/6b631ae91e](https://trinket.io/python/6b631ae91e)
 
-+ [â€˜Modern Artâ€™ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+## Offline-Ressourcen
 
-## Offline Ressourcen
-Dieses Projekt kann [offline beendet werden](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/), falls gewünscht. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Dieses Projekt kann, falls gewünscht, auch [offline bearbeitet](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stellen Sie sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
-+ modern-art/modern-art.py
-+ modern-art/snippets.py
+* modern-art/modern-art.py
+* modern-art/snippets.py
 
-Sie können ebenfalls eine fertig gestellte Version der Aufgaben in diesem Projekt im Abschnitt 'Volunteer Resources' (Helfer-Ressourcen) finden, welche u.a. Folgendes enthalten:
+Eine vollständige Version aller Aufgaben dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
-+ modern-art-finished/modern-art.py
+* modern-art-finished/modern-art.py
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
 ## Lernziele
-+ Funktionen;
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+* Funktionen;
 
-+ [Kombiniere die Programmierungskonstrukte, um ein Problem zu lösen.](https://www.raspberrypi.org/curriculum/programming/builder)
+Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+
+* [Kombiniere zur Problemlösung verschiedene Programmierkonstrukte.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Aufgaben
-+ Schildkröten-Bild: Definiere eine neue Funktion, um den Schildkröten-Bild-Generator zu vervollständigen.
-+ Noch mehr Moderne Kunst: Schaffe eine neue Funktion, welche sich mit anderen Funktionen verbindet, um Moderne Kunst zu erzeugen. 
 
+* Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
+* Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen. 
 
-## Häufig gestellte Fragen (FAQ)
-+ Um das Warten zu vermeiden, falls ein früherer Code läuft wenn weitere Dinge diesem Projekt hinzufügt werden, können die Kinder den Code mit Hilfe des '#' Rautezeichens am Anfang einer Zeile wegkommentieren. 
-+ Wenn sie nicht wollen, dass der gesamte Code läuft, dann kann die Funktion `clear()` (leeren) benutzt werden, um den Bildschirm zu leeren.  
+## Häufig gestellte Fragen
 
+* Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren. 
+* Wenn sie den gesamten Code laufen lassen wollen, können sie den Bildschirm mit `clear()` löschen. 
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterial
+---
+## Projektressourcen
+
+* [.zip-Datei, die alle Projektressourcen enthält](resources/modern-art-project-resources.zip)
+* [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](http://jumpto.cc/modern-go)
+* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
+* [modern-art/snippets.py](resources/modern-art-snippets.py)
+
+## Ressourcen für Clubleiter
+
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/modern-art-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/6b631ae91e)
+* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
 
 --- /collapse ---

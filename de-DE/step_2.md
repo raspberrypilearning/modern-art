@@ -1,43 +1,43 @@
-## Zufällig ausgesuchte Farben
+## Zufällige Farben
 
-+ Dieses Trinket öffnen: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>. 
++ Öffne diesen Trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ Du kannst die Farbe einer Schildkröte bestimmen, indem du festlegst, wie viel rot, grün und blau du von 0 bis 255 auswählst. 
-
++ Du kannst die Farbe einer Schildkröte einstellen, indem du Rot, Grün und Blau mischt, jeweils mit Werten zwischen 0 und 255.
+    
     Füge den folgenden Code hinzu, um eine lila Schildkröte zu erhalten:
-
+    
     ![screenshot](images/modern-purple.png)
-   
-    Lila wird aus der Mischung von zwei Farben, nämlich rot und blau, hergestellt.
+    
+    Lila wird durch Mischen von Rot und Blau hergestellt.
 
-+ Probiere mal ein paar verschiedene Ziffern aus, um unterschiedliche Farben zu erhalten. 
++ Probiere verschiedene Zahlen aus, um andere Farben zu erhalten.
+    
+    Denke daran, dass jede Zahl zwischen 0 und 255 liegen kann.
 
-    Bitte denk daran, jede Ziffer kann von 0 bis 255 gehen. 
-
-+ Wie wäre es, wenn du eine Farbe einfach zufällig aussuchst?
-
-    Aktualisiere deinen Code und wähle eine zufällig ausgesuchte Ziffer zwischen 0 und 255 für die Werte von rot, grün und blau:
++ Wie wäre es mit einer zufälligen Farbe?
+    
+    Aktualisiere deinen Code, um eine Zufallszahl zwischen 0 und 255 für die roten, grünen und blauen Werte auszuwählen:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Klicke ein paar Mal auf â€˜Runâ€™ (laufen lassen), um unterschiedlich gefärbte Schildkröten zu erhalten.
++ Klicke ein paar Mal auf "Run", um verschiedenfarbige Schildkröten zu erhalten.
 
-+ Das ist zwar toll, aber man muss sich hierbei jedoch unheimlich viel merken und dies jedes Mal neu eintippen, wenn man die Schildkröte zu einer zufällig ausgesuchten Farbe einstellen will. Außerdem ist es schwer zu lesen. 
-
-    In Python können wir `def` (definieren) schreiben, um eine Funktion zu  definieren, die wir aufrufen können, wannimmer wir die Schildkröte zu einer zufällig ausgesuchten Farbe einstellen wollen. 
-
-    Du hast bereits schon Funktionen aufgerufen: `color()` (Farbe) und `randint()` sind Funktionen, die für dich definiert worden sind. 
-
-    Lass uns den zufällig ausgesuchten Farbcode in eine Funktion eingeben mit Hilfe von def (definieren):
-  
++ Das macht Spaß, aber du musst dir viel merken und tippen, wenn du eine Schildkröte auf eine zufällige Farbe setzen möchtest. Außerdem ist es nicht sehr einfach zu lesen.
+    
+    In Python können wir `def` schreiben um eine Funktion zu definieren, die wir jedesmal aufrufen können, wenn wir die Schildkröte auf eine zufällige Farbe setzen müssen.
+    
+    Du hast bereits Funktionen aufgerufen, `color()` und `randint()` sind Funktionen, die für dich definiert wurden.
+    
+    Machen wir mit def aus dem Code für eine zufällige Farbe eine Funktion:
+    
     ![screenshot](images/modern-colour-function.png)
     
-  Achte darauf, dass du den Code innerhalb der Funktion einrückst. Funktionen werden normalerweise über dem Script nach den Importen platziert. 
-  
-+ Wenn du jetzt auf deinen Code â€˜Runâ€™ (laufen lassen) klickst, wirst du nun keine zufällig ausgesuchte Farbe für deine Schildkröte erhalten. Das liegt daran, dass due deine Funktion zwar definiert hast, du hast sie aber noch nicht aufgerufen. 
-  
-+ Füge eine neue Zeile hinzu, um deine Funktion aufzurufen:
-  
-    ![screenshot](images/modern-call-colour.png)
+    Stelle sicher, dass du den Code innerhalb der Funktion einrückst. Funktionen werden normalerweise nach den Importen an den Anfang des Skripts gestellt.
 
-    Siehst du jetzt, dass der neue Code viel leichter zu verstehen ist, weil der komplexe Teil die Funktionen sind? Es ist einfach herauszufinden, was `randomcolour()` (zufällig ausgesuchte Farbe) macht.
++ Wenn du deinen Code jetzt mit "Run" ausführst, erhältst du keine zufällig gefärbte Schildkröte. Das liegt daran, dass du deine Funktion zwar definiert hast, sie aber noch nicht aufgerufen hast.
+
++ Füge eine Zeile hinzu, um deine neue Funktion aufzurufen:
+    
+    ![screenshot](images/modern-call-colour.png)
+    
+    Beachte, dass dein neuer Code viel einfacher zu verstehen ist, da sich der komplexe Teil in der Funktion befindet. Es ist leicht herauszufinden, was `zufallsfarbe()` macht.
