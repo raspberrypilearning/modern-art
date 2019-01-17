@@ -24,11 +24,11 @@ Dit project introduceert functies met behulp van een kleurrijke moderne kunstgen
 
 **Dit project maakt gebruik van Python 3.** We raden aan om [trinket](https://trinket.io/) te gebruiken om Python online te schrijven. Dit project bevat de volgende Trinkets:
 
-* ['Modern Art' startpunt -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* [‘Modern Art’ voltooid -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline bronnen
 
@@ -54,11 +54,11 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 ## Uitdagingen
 
 * Turtle kunst - definieer een nieuwe functie om de turtle kunstgenerator te voltooien.
-* Meer moderne kunst - maak een nieuwe functie die andere functies oproept om moderne kunst te genereren. 
+* Meer moderne kunst - maak een nieuwe functie die andere functies oproept om moderne kunst te genereren.
 
 ## Veelgestelde vragen (faq)
 
-* Om bij het plaatsen van nieuwe code niet te hoeven wachten op de uitvoering van al bestaande code kunnen kinderen die code tijdelijk omzetten naar commentaarregels met behulp van een '#' vooraan de regel. 
+* Om bij het plaatsen van nieuwe code niet te hoeven wachten op de uitvoering van al bestaande code kunnen kinderen die code tijdelijk omzetten naar commentaarregels met behulp van een '#' vooraan de regel.
 * Met behulp van `clear()` kan het scherm worden leeggemaakt. 
 
 \--- /collapse \---
