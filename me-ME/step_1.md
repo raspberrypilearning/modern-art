@@ -24,11 +24,11 @@ U ovom projektu predstavljene su funkcije preko generatora moderne umjetnosti u 
 
 **U ovom projektu koristi se Python 3.** Preporučujemo korišćenje [trinketa](https://trinket.io/) za online pisanje u Pythonu. Ovaj projekat sadrži sljedeće Trinkete:
 
-* [Početak projekta 'Moderna umjetnost' -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Takođe postoji trinket koji sadrži primjer rješenja izazova:
 
-* [Završen projekat 'Moderna umjetnost' -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline izvori
 
@@ -54,11 +54,11 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 ## Izazovi
 
 * Kornjačina umjetnost - definiši novu funkciju za dovršavanje generatora kornjačine umjetnosti.
-* Još moderne umjetnosti - kreiraj novu funkciju koja poziva ostale funkcije za generisanje moderne umjetnosti. 
+* Još moderne umjetnosti - kreiraj novu funkciju koja poziva ostale funkcije za generisanje moderne umjetnosti.
 
 ## Često postavljana pitanja
 
-* Kako bi izbjegla čekanje da se izvrši prethodno napisan kôd kada u projekat dodaju novi kôd, djeca mogu da komentarišu prethodni kôd koristeći '#' na početku reda. 
+* Kako bi izbjegla čekanje da se izvrši prethodno napisan kôd kada u projekat dodaju novi kôd, djeca mogu da komentarišu prethodni kôd koristeći '#' na početku reda.
 * Ako žele da se izvrši cijeli kôd, mogu koristiti `clear()` za brisanje ekrana. 
 
 \--- /collapse \---
