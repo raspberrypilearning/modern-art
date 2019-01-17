@@ -24,11 +24,11 @@ Ten projekt wprowadza funkcje poprzez kolorowy generator sztuki współczesnej. 
 
 **Ten projekt używa Python 3.** Zalecamy użycie [bibeloty](https://trinket.io/) do pisania Python online. Ten projekt zawiera następujące bibeloty:
 
-* [Punkt startowy "Turtle Race" - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Istnieje również bibelot zawierający przykładowe rozwiązanie dla wyzwań:
 
-* ["Modern Art" Finished - trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Zasoby offline
 
@@ -54,11 +54,11 @@ Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Mak
 ## Wyzwania
 
 * Art Turtle - zdefiniuj nową funkcję, aby uzupełnić generator żółwi.
-* Bardziej nowoczesna sztuka - stwórz nową funkcję, która wzywa inne funkcje do generowania sztuki współczesnej. 
+* Bardziej nowoczesna sztuka - stwórz nową funkcję, która wzywa inne funkcje do generowania sztuki współczesnej.
 
 ## Często Zadawane Pytania
 
-* Aby uniknąć czekania na uruchomienie wcześniejszego kodu podczas dodawania do projektu, dzieci mogą komentować kod za pomocą "#" na początku linii. 
+* Aby uniknąć czekania na uruchomienie wcześniejszego kodu podczas dodawania do projektu, dzieci mogą komentować kod za pomocą "#" na początku linii.
 * Jeśli chcesz, aby cały ich kod był uruchamiany, możesz wyczyścić ekran za pomocą `wyczyść ()`. 
 
 \--- /zawalić się \---
