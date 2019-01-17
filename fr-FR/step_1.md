@@ -24,11 +24,11 @@ Ce projet introduit les fonctions au travers d'un générateur d'art moderne col
 
 **Ce projet utilise Python 3.** Nous recommandons l'utilisation de [Trinket](https://trinket.io/) pour écrire du code Python en-ligne. Ce projet contient les Trinkets suivants :
 
-* [Point de départ 'Course de tortue' - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Il y a aussi un Trinket contenant un exemple de solution pour les défis:
 
-* ['Art moderne' terminé - trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Ressources hors-ligne
 
@@ -54,11 +54,11 @@ Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativit
 ## Défis
 
 * L'art des tortues: définis une nouvelle fonction pour compléter le générateur d'art des tortue.
-* Plus d'art moderne - créer une nouvelle fonction qui appelle les autres fonctions pour générer de l'art moderne. 
+* Plus d'art moderne - créer une nouvelle fonction qui appelle les autres fonctions pour générer de l'art moderne.
 
 ## Foire aux questions
 
-* Pour éviter d'avoir à attendre que le code précédent soit exécuté lors de l'ajout au projet, les enfants peuvent commenter le code en utilisant un '#' au début d'une ligne. 
+* Pour éviter d'avoir à attendre que le code précédent soit exécuté lors de l'ajout au projet, les enfants peuvent commenter le code en utilisant un '#' au début d'une ligne.
 * S'ils veulent que tout leur code soit exécuté alors ` clear () ` peut être utilisé pour effacer l'écran. 
 
 \--- /collapse \---
