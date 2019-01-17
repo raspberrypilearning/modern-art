@@ -1,6 +1,6 @@
 ## Zufällig ausgesuchter Ort
 
-Erstelle eine weitere Funktion, um die Schildkröte an einen beliebigen Ort auf dem Bildschirm zu verschieben. Die Mitte des Bildschirms ist (0,0), daher wirst du Schildkröten in einem quadratischen Bereich um die Mitte platziert.
+Erstelle eine weitere Funktion, um die Schildkröte an einen beliebigen Ort auf dem Bildschirm zu verschieben. Die Mitte des Bildschirms ist (0,0), daher wirst du Schildkröten in einem quadratischen Bereich um die Mitte platzieren.
 
 + Hinzufügen einer `zufallsort()` Funktion:
     
