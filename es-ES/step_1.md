@@ -24,11 +24,11 @@ Este proyecto introduce las funciones a través de un colorido generador de arte
 
 **Este proyecto usa Python 3.** Recomendamos el uso de [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los Trinkets siguientes:
 
-* [Punto de partida de 'Turtle Race' -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 También hay un Trinket que contiene una solución de muestra a los retos:
 
-* [‘Modern Art’ finalizado -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Recursos sin conexión
 
@@ -54,11 +54,11 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 ## Retos
 
 * Arte con tortugas: define una nueva función para completar el generador de arte con tortugas.
-* Más arte moderno: crea una nueva función que llame a otras funciones para generar arte moderno. 
+* Más arte moderno: crea una nueva función que llame a otras funciones para generar arte moderno.
 
 ## Preguntas frecuentes
 
-* Para evitar tener que esperar a que se ejecute el código anterior cuando se añade nuevo código al proyecto, los niños pueden comentar el código usando '#' al inicio de la línea. 
+* Para evitar tener que esperar a que se ejecute el código anterior cuando se añade nuevo código al proyecto, los niños pueden comentar el código usando '#' al inicio de la línea.
 * Si quieren que todo su código se ejecute, entonces se puede utilizar `clear()` para borrar la pantalla. 
 
 \--- /collapse \---
