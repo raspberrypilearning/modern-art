@@ -6,7 +6,7 @@ Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in ve
     
     ![screenshot](images/modern-reset.png)
 
-+ Du kannst deinen Schildkröten-Kunst Code auskommentieren, indem du ein `#` an den Beginn jeder Zeile setzt, die beim Programmlauf übersprungen werden soll. (Dann kannst du ihn später wieder aktivieren, um deine gesamte Arbeit zu zeigen.)
++ Du kannst deinen Schildkröten-Kunst Code auskommentieren, indem du ein `#` an den Beginn jeder Zeile setzt, damit sie beim Programmlauf übersprungen wird, solange du an der Reckteck-Kunst arbeitest. (Dann kannst du ihn später wieder aktivieren, um deine gesamte Arbeit zu zeigen.)
     
     ![screenshot](images/modern-comment.png)
 
@@ -26,7 +26,7 @@ Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in ve
 
 + Das Rechteck hat immer dieselbe Farbe und beginnt an derselben Stelle.
     
-    Jetzt musst du die Schildkröte auf eine zufällige Farbe setzen und sie an einen zufälligen Ort verschieben. He, hast du nicht bereits Funktionen dafür erstellt? Prima. Du kannst sie einfach am Anfang der Drawrectangle-Funktion aufrufen:
+    Jetzt musst du die Schildkröte auf eine zufällige Farbe setzen und sie an einen zufälligen Ort verschieben. He, hast du nicht bereits Funktionen dafür erstellt? Prima. Du kannst sie einfach am Anfang der zeichnerechteck-Funktion aufrufen:
     
     ![screenshot](images/modern-random-rect.png)
     
@@ -38,7 +38,7 @@ Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in ve
 
 + Meine Güte, das war ein bisschen langsam, nicht wahr! Glücklicherweise kannst du die Schildkröte beschleunigen.
     
-    Suchen Sie die Zeile, in der du die Form auf "Schildkröte" setzt, und füge den hervorgehobenen Code hinzu:
+    Suche die Zeile, in der du die Form auf "Schildkröte" setzt, und füge den hervorgehobenen Code hinzu:
     
     ![screenshot](images/modern-speed.png)
     
