@@ -1,7 +1,7 @@
 ## Introduction
 
-In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
-
+In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again. 
+ 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -20,17 +20,17 @@ title: Club leader notes
 
 
 ## Introduction:
-This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art. 
 
 ## Online Resources
 
 __This project uses Python 3.__ We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-+ ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
++ ['Turtle Race' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 There is also a trinket containing a sample solution to the challenges:
 
-+ ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
++ [‘Modern Art’ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
 
 ## Offline Resources
 This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
@@ -53,11 +53,11 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Challenges
 + Turtle art - define a new function to complete the turtle art generator.
-+ More modern art - create a new function that calls other functions to generate modern art.
++ More modern art - create a new function that calls other functions to generate modern art. 
 
 
 ## Frequently Asked Questions
-+ To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line.
++ To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line. 
 + If they do want all of their code to run then `clear()` can be used to clear the screen.  
 
 
