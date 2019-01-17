@@ -24,11 +24,11 @@ U ovom projektu se pomoću generatora za šaroliku modernu umjetnost uči o funk
 
 **U ovom projektu koristi se Python 3.** Predlažemo korištenje [trinketa](https://trinket.io/) za online pisanje u Pythonu. Ovaj projekt sadrži sljedeće Trinkete:
 
-* ['Moderna umjetnost' početni materijal -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
-* [‘Moderna umjetnost’ dovršeni projekt -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline izvori
 
@@ -54,11 +54,11 @@ Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Mak
 ## Izazovi
 
 * Kornjačina umjetnost - definiranje nove funkcije za upotpunjavanje turtle generatora.
-* Još moderne umjetnosti - kreiranje nove funkcije koja će pozivati ostale funkcije za generiranje moderne umjetnosti. 
+* Još moderne umjetnosti - kreiranje nove funkcije koja će pozivati ostale funkcije za generiranje moderne umjetnosti.
 
 ## Često postavljana pitanja
 
-* Kako bi djeca izbjegla čekanje da se pokrene prethodno napisan kôd, taj dio kôda mogu komentirati koristeći znak '#' na početku linije. 
+* Kako bi djeca izbjegla čekanje da se pokrene prethodno napisan kôd, taj dio kôda mogu komentirati koristeći znak '#' na početku linije.
 * Ako žele da se cijeli kôd pokrene, mogu koristiti naredbu `clear()` za brisanje cijelog ekrana. 
 
 \--- /collapse \---
