@@ -24,11 +24,11 @@ Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Gene
 
 **Dieses Projekt verwendet Python 3.** Wir empfehlen die Verwendung von [trinket](https://trinket.io/), um Python-Programme online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
 
-* ['Turtle Race' Startpunkt - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
-* [Fertiges Projekt 'Moderne Kunst' - trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline-Ressourcen
 
@@ -54,11 +54,11 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 ## Aufgaben
 
 * Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
-* Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen. 
+* Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen.
 
 ## Häufig gestellte Fragen
 
-* Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren. 
+* Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren.
 * Wenn sie den gesamten Code laufen lassen wollen, können sie den Bildschirm mit `clear()` löschen. 
 
 \--- /collapse \---
