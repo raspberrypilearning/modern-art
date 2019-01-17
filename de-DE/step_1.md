@@ -26,18 +26,18 @@ Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Gene
 
 * ['Turtle Race' Startpunkt - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
+Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
 * [Fertiges Projekt 'Moderne Kunst' - trinket.io/python/9339862606](https://trinket.io/python/9339862606)
 
 ## Offline-Ressourcen
 
-Dieses Projekt kann, falls gewünscht, auch [offline bearbeitet](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stellen sie sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Dieses Projekt kann, falls gewünscht, auch [offline bearbeitet](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stellen Sie sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
+Eine vollständige Version aller Aufgaben dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
 * modern-art-finished/modern-art.py
 
@@ -49,14 +49,14 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Problemlösung durch Kombination von Programmierstrukturen.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Kombiniere zur Problemlösung verschiedene Programmierkonstrukte.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Aufgaben
 
 * Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
 * Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen. 
 
-## Häufig Gestellte Fragen
+## Häufig gestellte Fragen
 
 * Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren. 
 * Wenn sie den gesamten Code laufen lassen wollen, können sie den Bildschirm mit `clear()` löschen. 
