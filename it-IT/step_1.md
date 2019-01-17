@@ -24,11 +24,11 @@ Questo progetto introduce le funzioni attraverso un generatore di arte moderna c
 
 **Questo progetto utilizza Python 3.** Consigliamo di utilizzare [Trinket](https://trinket.io/) per scrivere in linguaggio Python online. Questo progetto contiene i seguenti Trinket:
 
-* ['Turtle Race' punto di partenza -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 È disponibile anche un file trinket con esempi di soluzioni alle sfide proposte:
 
-* [‘Modern Art’ Completato -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Risorse offline
 
@@ -54,11 +54,11 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 ## Sfide
 
 * Turtle art: definisci una nuova funzione per completare il generatore di opere d'arte con tartarughe.
-* Altra arte moderna - crea una nuova funzione che chiami altre funzioni per generare arte moderna. 
+* Altra arte moderna - crea una nuova funzione che chiami altre funzioni per generare arte moderna.
 
 ## Domande frequenti
 
-* Per evitare di dover aspettare che il codice inserito all'inizio debba essere eseguito prima che inizi a funzionare quello aggiunto per ultimo, i ragazzi possono commentare il codice iniziale digitando '#' all'inizio di ogni linea. 
+* Per evitare di dover aspettare che il codice inserito all'inizio debba essere eseguito prima che inizi a funzionare quello aggiunto per ultimo, i ragazzi possono commentare il codice iniziale digitando '#' all'inizio di ogni linea.
 * Se vogliono eseguire il loro codice al completo basta usare `clear()` per ripulire lo schermo. 
 
 \--- /collapse \---
