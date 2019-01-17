@@ -22,7 +22,7 @@
 
 + Klicke ein paar Mal auf "Run", um verschiedenfarbige Schildkröten zu erhalten.
 
-+ Das macht Spaß, aber es ist viel zu merken und zu tippen, wenn du eine Schildkröte auf eine zufällige Farbe setzen möchtest. Außerdem ist es nicht sehr einfach zu lesen.
++ Das macht Spaß, aber du musst dir viel merken und tippen, wenn du eine Schildkröte auf eine zufällige Farbe setzen möchtest. Außerdem ist es nicht sehr einfach zu lesen.
     
     In Python können wir `def` schreiben um eine Funktion zu definieren, die wir jedesmal aufrufen können, wenn wir die Schildkröte auf eine zufällige Farbe setzen müssen.
     
