@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 theme: violet
 duration: 2
@@ -15,10 +16,10 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introduzione
-- title: Colori a caso
-- title: Luogo a caso
-- title: 'Sfida: Arte di tartaruga'
-- title: Crea arte moderna rettangolare
-- title: 'Sfida: Altra arte moderna'
+steps:
+  - title: Introduzione
+  - title: Colori casuali
+  - title: Posizione casuale
+  - title: 'Sfida: Arte a tartaruga'
+  - title: Crea arte moderna rettangolare
+  - title: 'Sfida: Altra arte moderna'

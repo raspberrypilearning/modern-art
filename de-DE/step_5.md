@@ -1,46 +1,45 @@
-## Ein Rechteck in Moderner Kunst erstellen
+## Moderne Kunst aus Rechtecken erstellen
 
-Lass uns jetzt Moderne Kunst produzieren, indem wir ganz viele Rechtecke in verschiedenen Größen und Farben zeichnen. 
+Lass uns nun einige moderne Kunstwerke erstellen, indem du viele Rechtecke in verschiedenen Größen und Farben zeichnest.
 
-+ Addiere als erstes den folgenden Code zum unteren Teil deines Scripts, nach dem Aufgaben-Code, um den Bildschirm nach deiner Schildkröten-Kunst zu leeren und um die Schildkröte wieder in die normale Richtung zu weisen:
-
++ Zuerst fügst du den folgenden Code nach dem Challenge-Code am Ende deines Skripts ein, um den Bildschirm nach deiner Schildkröten-Kunst zu löschen und die Schildkröte in ihre normale Richtung zu weisen:
+    
     ![screenshot](images/modern-reset.png)
 
-+ Du kannst deinen Code für das Schildkrötenbild wegkommentieren, indem du ein `#` Rautenzeichen zu Beginner jeder Zeile setzt, damit es nicht läuft, während du an dem Rechteck-Bild arbeitest. (Du kannst diesen Kommentar später wieder entfernen, um dein Gesamtkunstwerk zu zeigen.)
-
-    ![screenshot](images/modern-comment.png)
- 
-+ Lass uns jetzt eine Funktion hinzufügen, um ein beliebig großes Rechteck mit einer zufällig ausgesuchten Farbe an einem zufällig ausgesuchten Platz zu zeichnen! 
++ Du kannst deinen Schildkröten-Kunst Code auskommentieren, indem du ein `#` an den Beginn jeder Zeile setzt, damit sie beim Programmlauf übersprungen wird, solange du an der Reckteck-Kunst arbeitest. (Dann kannst du ihn später wieder aktivieren, um deine gesamte Arbeit zu zeigen.)
     
-    Füge die `drawrectangle()` (Rechteck zeichnen) Funktion nach deinen anderen Funktionen hinzu:
+    ![screenshot](images/modern-comment.png)
 
++ Fügen wir nun eine Funktion hinzu, um ein Rechteck mit zufälliger Größe und zufälliger Farbe an einer zufälligen Stelle zu zeichnen!
+    
+    Füge eine `zeichnerechteck()` Funktion nach deinen anderen Funktionen hinzu:
+    
     ![screenshot](images/modern-rect-function.png)
     
-    Schau mal unter `snippets.py`, um einen Helfer-Code zu finden, wenn du dir zusätzliche Zeit beim Eintippen ersparen willst. 
-    
-+ Füge den folgenden Code zum unteren Teil von `main.py`, um deine neue Funktion aufzurufen:
+    Schaue in `snippets.py` nach etwas Hilfscode, wenn du etwas Zeit sparen möchtest.
 
++ Füge den folgenden Code am Ende von `main.py` hinzu, um deine neue Funktion aufzurufen:
+    
     ![screenshot](images/modern-call-rect.png)
     
-    Lass dein Script ein paar Mal laufen, um zu sehen, wie sich die Höhe und Breite verändert. 
-   
-+ Das Rechteck hat immer die gleiche Farbe und beginnt am gleichen Ort. 
+    Führe dein Skript einige Male aus, um die Änderung der Höhe und Breite zu sehen.
 
-    Jetzt musst du die Schildkröte in einer zufällig ausgesuchten Farbe einstellen und sie dann zu einem zufällig ausgesuchten Platz bewegen. He! Hattest du nicht hierfür bereits schon Funktionen angefertigt? Super. Du kannst diese einfach vom Beginn der Rechteck Funktion aufrufen: 
++ Das Rechteck hat immer dieselbe Farbe und beginnt an derselben Stelle.
+    
+    Jetzt musst du die Schildkröte auf eine zufällige Farbe setzen und sie an einen zufälligen Ort verschieben. He, hast du nicht bereits Funktionen dafür erstellt? Prima. Du kannst sie einfach am Anfang der zeichnerechteck-Funktion aufrufen:
     
     ![screenshot](images/modern-random-rect.png)
     
-    Wow! Das war wesentlich weniger Arbeit und es ist viel leichter zu lesen. 
+    Tja, das war viel weniger Arbeit und es ist viel einfacher zu lesen.
 
++ Rufen wir nun `zeichnerechteck()` in einer Schleife auf, um coole moderne Kunst zu kreieren:
     
-+ Lass uns jetzt die Funktion `drawrectangle()` (Rechteck zeichnen) in einer Schleife aufrufen, um coole Moderne Kunst zu produzieren:
-
     ![screenshot](images/modern-rect-art.png)
 
-+ Ach herrje! Das hat jetzt aber eine Weile gedauert, nicht wahr?! Glücklicherweise kannst du die Schildkröte schneller laufen lassen. 
-
-    Finde die Linie, in der die Form auf 'turtle' (Schildkröte) einstellst und füge dann den markierten Code hinzu:
++ Meine Güte, das war ein bisschen langsam, nicht wahr! Glücklicherweise kannst du die Schildkröte beschleunigen.
+    
+    Suche die Zeile, in der du die Form auf "Schildkröte" setzt, und füge den hervorgehobenen Code hinzu:
     
     ![screenshot](images/modern-speed.png)
     
-    `speed(0)` (Geschwindigkeit 0) ist der Schnellste oder du kannst die Zahlen von 1 (langsam) bis 10 (schnell) benutzen. Experimente hiermit ein wenig, bis du deine gewünschte Geschwindigkeit gefunden hast. 
+    `speed(0)` ist die schnellste Einstellung. Du kannst Zahlen von 1 (langsam) bis 10 (schnell) verwenden. Experimentiere, bis du die gewünschte Geschwindigkeit gefunden hast.

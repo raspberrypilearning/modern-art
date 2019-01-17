@@ -3,84 +3,84 @@
 from turtle import *
 from random import *
 
-def randomcolour():
-  red = randint(0, 255)
-  green = randint(0, 255)
-  blue = randint(0, 255)
-  color(red, green, blue)
+def zufallsfarbe():
+  ###Entferne das Kommentarzeichen in der nächsten Zeile, wenn du nicht mit Trinket arbeitest###
+  #colormode(255)
+  rot = randint(0, 255)
+  gruen = randint(0, 255)
+  blau = randint(0, 255)
+  color(rot, gruen, blau)
 
-def randomplace():
+def zufallsort():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
-  
-def randomheading():
-  heading = randint(0, 360)
-  setheading(heading)
 
-def drawrectangle():
-  randomcolour()
-  randomplace()
+def zufallsrichtung():
+  richtung = randint(0, 360)
+  setheading(richtung)
+
+def zeichnerechteck():
+  zufallsfarbe()
+  zufallsort()
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  laenge = randint(10, 100)
+  hoehe = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(laenge)
   right(90)
-  forward(height)
+  forward(hoehe)
   right(90)
-  forward(length)
+  forward(laenge)
   right(90)
-  forward(height)
+  forward(hoehe)
   right(90)
   end_fill()
-  
+
 shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  randomcolour()
-  randomplace()
-  randomheading()
+  zufallsfarbe()
+  zufallsort()
+  zufallsrichtung()
   stamp()
-  
-# Challenge - use built in dot function
 
-def drawcircle():
+# Aufgabe - verwende die eingebaute dot-Funktion
+
+def zeichnekreis():
   radius = randint(5, 100)
-  randomcolour()
-  randomplace()
+  zufallsfarbe()
+  zufallsort()
   dot(radius)
-  
-def drawstar():
-  randomcolour()
-  randomplace()
-  randomheading()
+
+def zeichnestern():
+  zufallsfarbe()
+  zufallsort()
+  zufallsrichtung()
   begin_fill()
-  size = randint(20, 100)
-  #draw the star shape
+  groesse = randint(20, 100)
+  #zeichne den Stern
   for side in range(5):
     left(144)
-    forward(size)
+    forward(groesse)
 
   end_fill()
-  
+
 clear()
 setheading(0)
-  
+
 for i in range(20):
-  drawrectangle()
-  
+  zeichnerechteck()
+
 clear()
-  
+
 for i in range(50):
-  drawcircle()
+  zeichnekreis()
 
 clear()
 
 for i in range(20):
-  drawstar()
-
-
+  zeichnestern()

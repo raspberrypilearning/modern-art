@@ -1,43 +1,43 @@
-## Colori a caso
+## Colori casuali
 
 + Apri questo trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ Puoi stabilire il colore di una tartaruga dicendo quanto rosso, verde e blu vuoi da 0 a 255.
-
++ Puoi impostare il colore di una tartaruga scegliendo la quantità di rosso, verde e blu che desideri da 0 a 255.
+    
     Aggiungi il seguente codice per ottenere una tartaruga viola:
-
+    
     ![screenshot](images/modern-purple.png)
+    
+    Il viola è ottenuto mescolando insieme rosso e blu.
 
-    Il viola è creato mescolando rosso e blu.
++ Prova valori diversi per ottenere colori diversi.
+    
+    Ricorda che ogni numero può essere compreso tra 0 e 255.
 
-+ Prova numeri diversi per ottenere colori diversi.
-
-    Ricordati che ogni numero può essere da 0 a 255.
-
-+ Che ne dici di scegliere un colore a caso?
-
-    Aggiorna il tuo codice per scegliere un numero a caso tra 0 e 255 per i valori del rosso, verde e blu.
-
++ Che ne dici di scegliere un colore casuale?
+    
+    Aggiorna il codice per scegliere un numero casuale compreso tra 0 e 255 per i valori rosso, verde e blu:
+    
     ![screenshot](images/modern-random-colour.png)
 
-+ Clicca più volte 'Run' per ottenere tartarughe di diversi colori.
++ Fai clic su "Esegui" un paio di volte per ottenere tartarughe di colori diversi.
 
-+ Può essere divertente, ma c'è anche tanto da ricordare e digitare ogni volta che vuoi assegnare un colore a caso alla tartaruga, e non è molto facile da leggere.
-
-    In Python, possiamo scrivere 'def' per definire una funzione che possiamo chiamare ogni volta che vogliamo assegnare un colore a caso alla tartaruga.
-
-    Stai già chiamando funzioni, 'color()ì e 'randint()ì sono funzioni che sono state definite per te.
-
-    Mettiamo il codice dei colori a caso in una funzione usando def:
-
++ È divertente, ma devi ricordare e scrivere molto codice ogni volta che vuoi impostare una tartaruga su un colore casuale. In più non è molto facile da leggere.
+    
+    In Python possiamo scrivere `def` per definire una funzione che possiamo chiamare ogni volta che è necessario far comparire una tartaruga di colore diverso.
+    
+    Hai già chiamato funzioni in precedenza, `color()` e `randint()` sono funzioni che abbiamo definito per te.
+    
+    Mettiamo il codice del colore casuale in una funzione usando def:
+    
     ![screenshot](images/modern-colour-function.png)
+    
+    Assicurati di indentare il codice all'interno della funzione. Le funzioni vengono generalmente posizionate nella parte superiore dello script dopo le istruzioni di import.
 
-  Assicurati di far rientrare il codice dentro la funzione. Le funzioni sono di solito collocate in cima allo script dopo le importazioni.
-
-+ Se esegui il tuo codice adesso, non otterrai una tartaruga di un colore a caso. Questo succede perché hai definito la tua funzione, ma non l'hai ancora chiamata.
++ Se ora clicchi su "Run" non ottieni una tartaruga colorata casualmente. Questo perché hai definito la tua funzione, ma non l'hai ancora chiamata.
 
 + Aggiungi una linea per chiamare la tua nuova funzione:
-
+    
     ![screenshot](images/modern-call-colour.png)
-
-    Nota che il tuo nuovo codice è molto più facile da capire perché la parte complessa sta nella funzione. È facile capire cosa fa 'randomcolour()' (colori a caso.).
+    
+    Nota che il tuo nuovo codice è molto più facile da capire perché la parte complessa è nella funzione. È facile capire cosa `colorecasuale()` faccia.
