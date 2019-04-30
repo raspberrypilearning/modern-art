@@ -12,6 +12,27 @@
    
     Purple is made by mixing together red and blue.
 
+--- collapse ---
+
+---
+title: "Error - bad color sequence: (150, 0, 150)"
+---
+
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+--- /collapse ---
+
 + Try some different numbers to get different colours. 
 
     Remember each number can be from 0 to 255. 
