@@ -8,7 +8,7 @@
   <img src="images/modern-finished.png">
 </div>
 
-### クラブリーダーへの追加情報
+### クラブリーダーのための追加情報
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/modern-art/print)を使用してください。
 
@@ -26,7 +26,7 @@
 
 * ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-また、チャレンジ(課題) に対しての回答例を含むtrinketもあります(以下参照)。
+また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
 
 * ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
