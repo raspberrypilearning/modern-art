@@ -10,34 +10,55 @@
     
     Το μωβ γίνεται με ανάμειξη κόκκινου και μπλε.
 
-+ Δοκίμασε διάφορους αριθμούς για να πάρεις διαφορετικά χρώματα.
-    
-    Θυμήσου ότι κάθε αριθμός μπορεί να έχει τιμές από 0 έως 255.
+\--- collapse \---
 
-+ Τι θα έλεγες να επιλέγουμε ένα τυχαίο χρώμα;
+* * *
+
+## title: "Error - bad color sequence: (150, 0, 150)"
+
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    Ενημέρωσε τον κώδικά σου για να επιλέξεις έναν τυχαίο αριθμό μεταξύ 0 και 255 για τις τιμές του κόκκινου, του πράσινου και του μπλε:
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
+    
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Κάνε κλικ στο 'Run' μερικές φορές για να πάρεις διαφορετικά χρώματα.
++ Click ‘Run’ a few times to get different coloured turtles.
 
-+ Αυτό είναι διασκεδαστικό, αλλά είναι δύσκολο να θυμάσαι και να πληκτρολογείς κάθε φορά που θέλεις να ορίσεις ένα τυχαίο χρώμα και δεν είναι και πολύ εύκολο να το διαβάσεις.
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
-    Στην Python μπορούμε να γράψουμε `def` για να ορίσουμε μια συνάρτηση που μπορούμε να καλούμε κάθε φορά που χρειαζόμαστε να επιλέξουμε ένα τυχαίο χρώμα.
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
-    Ήδη καλείς συναρτήσεις χωρίς να το γνωρίζεις, το `color()` και το `randint()` είναι συναρτήσεις που έχουν οριστεί για να μπορείς να τις χρησιμοποιείς.
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
-    Ας δώσουμε τον τυχαίο κωδικό χρώματος σε μια συνάρτηση χρησιμοποιώντας def:
+    Let’s put the random colour code into a function using def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Βεβαιώσου ότι εισάγεις τον κώδικα μέσα στη συνάρτηση. Οι συναρτήσεις τοποθετούνται συνήθως στην αρχή του προγράμματος μετά τις εισαγωγές των βιβλιοθηκών.
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
 
-+ Εάν "τρέξεις" τον κώδικά σου τώρα δεν έχεις ένα τυχαίο χρώμα. Αυτό οφείλεται στο γεγονός ότι έχεις ορίσει τη συνάρτησή σου, αλλά δεν την έχεις καλέσει ακόμα.
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
 
-+ Πρόσθεσε μια γραμμή για να καλέσεις τη νέα σου συνάρτηση:
++ Add a line to call your new function:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Παρατήρησε ότι ο νέος σου κώδικας είναι πολύ πιο κατανοητός επειδή το πολύπλοκο μέρος βρίσκεται στη συνάρτηση. Είναι εύκολο να καταλάβεις τι κάνει η `randomcolour()`.
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
