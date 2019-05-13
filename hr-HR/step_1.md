@@ -32,22 +32,22 @@ Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 ## Offline izvori
 
-Ako želite, ovaj projekt možete izraditi [offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Materijali projekta'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
+Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer Resources' koji sadrži:
 
 * modern-art-finished/modern-art.py
 
-(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, koje je moguće preuzeti kao `.zip` datoteke.)
+(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, moguće je preuzeti kao `.zip` datoteke.)
 
 ## Ishodi učenja
 
 * Funkcije;
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa:
+Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Uporaba različitih programskih struktura za rješavanje problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -74,7 +74,7 @@ Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Mak
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
-## Resursi za voditelja kluba
+## Materijali za voditelja Kluba
 
 * [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/modern-art-volunteer-resources.zip)
 * [Dovršeni Online Trinket projekt](https://trinket.io/python/47bbc2fc2b)
