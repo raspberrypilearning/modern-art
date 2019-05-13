@@ -10,10 +10,10 @@ Idéias:
 
 - Tartarugas têm uma função chamada ponto que leva um raio (distância do centro até a borda do círculo) como entrada. Ex.: turtle.dot (10) Você pode criar uma função `desenhacirculo () ` que desenha um círculo com um raio aleatório.
     
-    ![captura de tela](images/modern-circles.png)
+    ![screenshot](images/modern-circles.png)
 
 - Procure em `snippets.py` por exemplo, código para desenhar estrelas com a tartaruga.
     
     ![captura de tela](images/modern-stars.png)
 
-\--- / desafio \---
+\--- /challenge \---
