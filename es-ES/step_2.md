@@ -1,43 +1,64 @@
 ## Colores aleatorios
 
-+ Abre este Trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/codecraft-go</a>.
++ Abre este Trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
 + Puedes definir el color de la tortuga diciendo cuánto rojo, verde y azul te gustaría que tuviera, del 0 al 255.
     
     Añade el siguiente código para obtener una tortuga violeta:
     
-    ![screenshot](images/modern-purple.png)
+    ![captura de pantalla](images/modern-purple.png)
     
     El violeta se hace mezclando el rojo y el azul.
 
-+ Prueba con números diferentes para obtener diferentes colores.
-    
-    Recuerda que cada número puede ser del 0 al 255.
+\--- collapse \---
 
-+ ¿Y si elegimos un color alelatorio?
+* * *
+
+## title: "Error - bad color sequence: (150, 0, 150)"
+
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    Actualiza el código para elegir un número aleatorio entre 0 y 255 para los valores rojo, verde y azul:
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
+    
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Haz clic en 'Run varias veces para obtener tortugas de diferentes colores.
++ Click ‘Run’ a few times to get different coloured turtles.
 
-+ Es divertido! Pero es mucho para recordar y escribir cada vez que quieres asignarle a la tortuga un color aleatorio, y no es muy fácil de leer.
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
-    En Python podemos escribir `def` para definir una función a la que podamos llamar cada vez que necesitemos asignar a la tortuga un color aleatorio.
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
-    Ya has estado haciendo llamadas a funciones, `color()` y `randint()` son funciones que vienen predefinidas.
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
-    Vamos a poner en una función el código para el color aleatorio usando def:
+    Let’s put the random colour code into a function using def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Asegúrate de indentar el código dentro de la función. Las funciones generalmente se colocan en la parte superior del script, justo después de los import.
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
 
-+ Si ejecutas el código ahora con 'Run', no obtendrás una tortuga de color aleatorio. Eso se debe a que has definido su función, pero aún no la has llamado.
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
 
-+ Añade una línea para llamar a tu nueva función:
++ Add a line to call your new function:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Observa que el nuevo código es mucho más fácil de entender porque la parte compleja se encuentra en la función. Es fácil entender qué hace `randomcolour()`.
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
