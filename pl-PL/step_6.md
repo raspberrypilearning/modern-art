@@ -16,4 +16,4 @@ Pomysły:
     
     ![zrzut ekranu](images/modern-stars.png)
 
-\--- / wyzwanie \---
+\--- /challenge \---
