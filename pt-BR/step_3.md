@@ -4,7 +4,7 @@ Vamos criar outra função para mover a tartaruga para um lugar aleatório na te
 
 + Inclua uma função `localaleatorio()`:
     
-    ![captura de tela](images/modern-place-function.png)
+    ![screenshot](images/modern-place-function.png)
 
 + Acione sua nova função chamando a mesma e, em seguida, chamando `stamp()`, você pode acioná-la mais de uma vez:
     
