@@ -1,43 +1,64 @@
 ## Випадкові кольори
 
-+ Відкрийте цю дрібничку: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Відкрийте цей trinket:<a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
 + Ви можете встановити колір черепахи, сказавши, скільки червоного, зеленого та синього кольорів потрібно від 0 до 255.
     
     Додайте наступний код, щоб отримати пурпурну черепаху:
     
-    ![скріншот](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
     Фіолетовий виготовляється шляхом змішування червоного та синього кольорів.
 
-+ Спробуйте різні цифри, щоб отримати різні кольори.
-    
-    Пам'ятайте, що кожен номер може бути від 0 до 255.
+\--- collapse \---
 
-+ Як щодо вибору випадкового кольору?
-    
-    Оновіть свій код, щоб вибрати випадкове число від 0 до 255 для червоних, зелених та синіх значень:
-    
-    ![скріншот](images/modern-random-colour.png)
+* * *
 
-+ Натисніть кнопку "Виконати" кілька разів, щоб отримати різні кольорові черепахи.
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-+ Це весело, але це дуже багато, щоб пам'ятати і вводити кожен раз, коли ви хочете встановити черепаху до випадкового кольору, і це не дуже легко прочитати.
-    
-    У Python ми можемо написати `def` , щоб визначити функцію, яку ми можемо викликати, коли нам потрібно встановити черепаху до випадкового кольору.
-    
-    Ви вже викликали функції, `color ()` і `randint ()` - це функції, які були визначені для вас.
-    
-    Давайте поставимо випадковий код кольору в функцію з використанням def:
-    
-    ![скріншот](images/modern-colour-function.png)
-    
-    Переконайтеся, що ви вставили код усередині функції. Функції, як правило, розміщуються у верхній частині сценарію після імпорту.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-+ Якщо ви «запустите» свій код, ви не отримаєте випадкову кольорову черепаху. Це тому, що ви визначили свою функцію, але не називали її ще.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
-+ Додайте рядок, щоб викликати свою нову функцію:
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    ![скріншот](images/modern-call-colour.png)
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
     
-    Зверніть увагу, що ваш новий код набагато простіше зрозуміти, тому що складна частина знаходиться в функції. Легко з'ясувати, що робить `randomcolour ()`.
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    
+    ![screenshot](images/modern-random-colour.png)
+
++ Click ‘Run’ a few times to get different coloured turtles.
+
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
+    
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    
+    Let’s put the random colour code into a function using def:
+    
+    ![screenshot](images/modern-colour-function.png)
+    
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
+
++ Add a line to call your new function:
+    
+    ![screenshot](images/modern-call-colour.png)
+    
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
