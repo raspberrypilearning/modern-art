@@ -6,7 +6,7 @@ Czy potrafisz zdefiniować funkcję `randomheading ()` , która spowoduje, że �
 
 ![zrzut ekranu](images/modern-turtle-art.png)
 
-Poradnik:
+Wskazówka:
 
 - `setheading (<number>)` zmieni kierunek, w którym żółw jest skierowany.
 
@@ -14,4 +14,4 @@ Poradnik:
 
 - Możesz użyć `randint (1, 360)` , aby wybrać liczbę od 1 do 360.
 
-\--- / wyzwanie \---
+\--- /challenge \---
