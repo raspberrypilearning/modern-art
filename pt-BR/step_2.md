@@ -6,38 +6,59 @@
     
     Adicione o seguinte código para obter uma tartaruga roxa:
     
-    ![captura de tela](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
     O roxo é feito misturando vermelho e azul.
 
-+ Tente alguns números diferentes para obter cores diferentes.
-    
-    Lembre-se de que cada número pode ser de 0 a 255.
+\--- collapse \---
 
-+ Que tal escolher uma cor aleatória?
-    
-    Atualize seu código para escolher um número aleatório entre 0 e 255 para os valores vermelho, verde e azul:
-    
-    ![captura de tela](images/modern-random-colour.png)
+* * *
 
-+ Clique em "Run" algumas vezes para obter diferentes tartarugas coloridas.
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-+ Isso é divertido, mas é muito para lembrar e digitar toda vez que você quiser definir uma tartaruga para uma cor aleatória e não é muito fácil de ler.
-    
-    Em Python, podemos escrever `def` para definir uma função que podemos chamar sempre que precisarmos definir a tartaruga para uma cor aleatória.
-    
-    Você já está chamando funções, `color ()` e `randint ()` são funções que foram definidas para você.
-    
-    Vamos colocar o código de cor aleatório em uma função usando def:
-    
-    ![captura de tela](images/modern-colour-function.png)
-    
-    Certifique-se de recuar o código dentro da função. As funções geralmente são colocadas no topo do script após as importações.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-+ Se você 'Run' seu código agora você não recebe uma tartaruga de cor aleatória. Isso é porque você definiu sua função, mas ainda não a chamou.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
-+ Adicione uma linha para chamar sua nova função:
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    ![captura de tela](images/modern-call-colour.png)
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
     
-    Observe que seu novo código é muito mais fácil de entender porque a parte complexa está na função. É fácil descobrir o que `randomcolour ()` faz.
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    
+    ![screenshot](images/modern-random-colour.png)
+
++ Click ‘Run’ a few times to get different coloured turtles.
+
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
+    
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    
+    Let’s put the random colour code into a function using def:
+    
+    ![screenshot](images/modern-colour-function.png)
+    
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
+
++ Add a line to call your new function:
+    
+    ![screenshot](images/modern-call-colour.png)
+    
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
