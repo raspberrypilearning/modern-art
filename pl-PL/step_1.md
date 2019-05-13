@@ -8,76 +8,76 @@ W tym projekcie stworzysz komputerowo generowaną sztukę. Będziesz używał fu
   <img src="images/modern-finished.png">
 </div>
 
-### Dodatkowe informacje dla liderów klubu
+### Dodatkowe informacje dla prowadzących klub
 
-Jeśli chcesz wydrukować ten projekt, skorzystaj z [Wersja przyjazna dla drukarki](https://projects.raspberrypi.org/en/projects/modern-art/print).
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## tytuł: notatki lidera klubu
+## title: Notatki dla liderów klubów
 
 ## Wprowadzenie:
 
 Ten projekt wprowadza funkcje poprzez kolorowy generator sztuki współczesnej. Funkcje służą do pakowania użytecznych kodów graficznych żółwi, które następnie można z łatwością wykorzystać do tworzenia funky art.
 
-## Zasoby online
+## Zasoby Online
 
-**Ten projekt używa Python 3.** Zalecamy użycie [bibeloty](https://trinket.io/) do pisania Python online. Ten projekt zawiera następujące bibeloty:
+**Ten projekt używa języka Python 3.** Do pisania kodu w Pythonie zalecamy użycie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
 * ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-Istnieje również bibelot zawierający przykładowe rozwiązanie dla wyzwań:
+Dostępny jest również szablon zawierający przykładowe rozwiązanie dla wyzwań:
 
 * ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
-## Zasoby offline
+## Zasoby Offline
 
-Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) , jeśli jest preferowany. Możesz uzyskać dostęp do zasobów projektu, klikając link "Materiały projektu" dla tego projektu. Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, które dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do kopii tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawiera zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * nowoczesna-sztuka / modern-art.py
 * modern-art / snippets.py
 
-Możesz również znaleźć ukończoną wersję wyzwań tego projektu w sekcji "Zasoby dla wolontariuszy", która zawiera:
+Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
 * modern-art-finished / modern-art.py
 
-(Wszystkie powyższe zasoby można również pobrać jako pliki projektu i wolontariusza `.zip`).
+(Wszystkie powyższe zasoby można również pobrać jako pliki `.zip`.)
 
-## Cele kształcenia
+## Cele dydaktyczne
 
 * Funkcje;
 
-Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Making Raspberry Pi](http://rpf.io/curriculum):
+Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Połącz konstrukcje programistyczne, aby rozwiązać problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Wyzwania
+## Zadania
 
 * Art Turtle - zdefiniuj nową funkcję, aby uzupełnić generator żółwi.
 * Bardziej nowoczesna sztuka - stwórz nową funkcję, która wzywa inne funkcje do generowania sztuki współczesnej.
 
-## Często Zadawane Pytania
+## Najczęściej Zadawane Pytania
 
 * Aby uniknąć czekania na uruchomienie wcześniejszego kodu podczas dodawania do projektu, dzieci mogą komentować kod za pomocą "#" na początku linii.
 * Jeśli chcesz, aby cały ich kod był uruchamiany, możesz wyczyścić ekran za pomocą `wyczyść ()`. 
 
-\--- /zawalić się \---
+\--- /collapse \---
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## tytuł: Materiały projektowe
+## title: Materiały do projektu
 
-## Zasoby projektu
+## Zasoby
 
-* [Plik .zip zawierający wszystkie zasoby projektu](resources/modern-art-project-resources.zip)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/modern-art-project-resources.zip)
 * [Online Trinket zawierający zasoby startowe "Modern Art"](http://jumpto.cc/modern-go)
 * [nowoczesna-sztuka / modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art / snippets.py](resources/modern-art-snippets.py)
 
-## Zasoby lidera klubu
+## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający wszystkie ukończone zasoby projektu](resources/modern-art-volunteer-resources.zip)
-* [Zakończony online projekt Trinket](https://trinket.io/python/47bbc2fc2b)
+* [Plik .zip zawierający zasoby z ukończonym projektem](resources/modern-art-volunteer-resources.zip)
+* [Ukończony projekt "Kolorowe Kreacje"](https://trinket.io/python/47bbc2fc2b)
 * [modern-art-finished / modern-art.py](resources/modern-art-finished-modern-art.py)
 
-\--- /zawalić się \---
+\--- /collapse \---
