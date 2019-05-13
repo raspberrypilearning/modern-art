@@ -10,34 +10,55 @@
     
     Ljubičasta se dobije miješanjem crvene i plave boje.
 
-+ Pokušaj odabrati neke druge brojeve kako bi dobio drugačije boje.
-    
-    Zapamti da svaki broj može biti od 0 do 255.
+\--- collapse \---
 
-+ Kako bi bilo da nasumično odaberemo boju?
+* * *
+
+## title: "Error - bad color sequence: (150, 0, 150)"
+
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    Izmijeni svoj kôd tako da za vrijednosti crvene, zelene i plave boje odabire nasumični broj između 0 i 255:
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
+    
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Klikni na ‘Run’ nekoliko puta da dobiješ kornjače različitih boja.
++ Click ‘Run’ a few times to get different coloured turtles.
 
-+ Zabavno je, ali i teško za zapamtiti i unositi svaki put kad želiš da se boja kornjače nasumično odredi. Također je i teško za čitati.
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
-    U Pythonu možemo upisati `def` i definirati funkciju koju možemo pozvati svaki put kad želimo nasumično odabrati boju kornjače.
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
-    Već smo pozivali funkcije, poput `color()` i `randint()` koje su bile unaprijed definirane.
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
-    Iskoristimo def kako bi u funkciju stavili dio kôda koji nasumično određuje boju:
+    Let’s put the random colour code into a function using def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Ne zaboravi uvući kôd unutar funkcije. Funkcije se obično pišu na početku programa, nakon naredbi import.
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
 
-+ Ako sada klikneš na ‘Run’, nećeš dobiti nasumično obojenu kornjaču. To je zato što si definirao svoju funkciju, ali ju nisi pozvao.
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
 
-+ Dodaj sljedeću liniju kôda za pozivanje svoje nove funkcije:
++ Add a line to call your new function:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Primijeti da je novi kôd puno lakši za razumijeti jer je komplicirani dio unutar funkcije. Lako je zaključiti što funkcija `nasumicnaBoja()` radi.
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
