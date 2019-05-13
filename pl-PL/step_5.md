@@ -20,7 +20,7 @@ Teraz stwórzmy nowoczesną sztukę, rysując wiele prostokątów o różnych ro
 
 + Dodaj następujący kod u dołu `main.py` , aby wywołać nową funkcję:
     
-    ![zrzut ekranu](images/modern-call-rect.png)
+    ![screenshot](images/modern-call-rect.png)
     
     Uruchom skrypt kilka razy, aby zobaczyć zmianę wysokości i szerokości.
 
