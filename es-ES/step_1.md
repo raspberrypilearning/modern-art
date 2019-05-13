@@ -8,13 +8,13 @@ En este proyecto crearás arte moderno generado por computadora. Usarás funcion
   <img src="images/modern-finished.png">
 </div>
 
-### Información adicional para los líderes del club
+### Información adicional para líderes de club
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title: Notas para el líder del club
+## título: Notas del líder del club
 
 ## Introducción:
 
@@ -26,30 +26,30 @@ Este proyecto introduce las funciones a través de un colorido generador de arte
 
 * ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-También hay un Trinket que contiene una solución de muestra a los retos:
+También hay un Trinket que contiene una solución de muestra a los desafíos:
 
 * ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Recursos sin conexión
 
-Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Recursos del proyecto' para este proyecto. Este enlace contiene una sección 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes ficheros:
+Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Recursos del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-También se puede encontrar una versión completa de los retos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
 * modern-art-finished/modern-art.py
 
 (Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-## Objetivos de aprendizaje
+## Objetivos del Aprendizaje
 
 * Funciones;
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combina estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combinar estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Retos
 
@@ -65,7 +65,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Materiales del proyecto
+## title: materiales del proyecto
 
 ## Recursos del proyecto
 
@@ -74,10 +74,10 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
-## Recursos del líder del club
+## Recursos para el líder del club
 
-* [archivo .zip que contiene todos los recursos del proyecto completados](resources/modern-art-volunteer-resources.zip)
-* [Proyecto Trinket completado y en línea](https://trinket.io/python/47bbc2fc2b)
+* [archivo .zip que contiene todos los recursos del proyecto](resources/modern-art-volunteer-resources.zip)
+* [Proyecto Trinket completado en línea](https://trinket.io/python/47bbc2fc2b)
 * [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
 
 \--- /collapse \---
