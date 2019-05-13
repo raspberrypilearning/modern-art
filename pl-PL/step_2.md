@@ -1,6 +1,6 @@
 ## Losowe kolory
 
-+ Otwórz tę bibelotkę: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Otwórz ten szablon: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
 + Możesz ustawić kolor żółwia mówiąc, ile czerwonego, zielonego i niebieskiego chcesz od 0 do 255.
     
@@ -10,34 +10,55 @@
     
     Fioletowy powstaje przez zmieszanie razem czerwonego i niebieskiego.
 
-+ Spróbuj różnych liczb, aby uzyskać różne kolory.
-    
-    Pamiętaj, że każda liczba może wynosić od 0 do 255.
+\--- collapse \---
 
-+ A może wybierzesz losowy kolor?
-    
-    Zaktualizuj swój kod, aby wybrać liczbę losową z zakresu od 0 do 255 dla wartości czerwonych, zielonych i niebieskich:
-    
-    ![zrzut ekranu](images/modern-random-colour.png)
+* * *
 
-+ Kliknij "Run" kilka razy, aby uzyskać różne kolorowe żółwie.
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-+ To zabawne, ale trzeba pamiętać i pisać za każdym razem, gdy chcesz ustawić żółwia na losowy kolor i nie jest to łatwe do odczytania.
-    
-    W Pythonie możemy napisać `def` , aby zdefiniować funkcję, którą możemy wywołać, gdy potrzebujemy ustawić żółwia na losowy kolor.
-    
-    Już wywoływałeś funkcje, `color ()` i `randint ()` to funkcje, które zostały dla ciebie zdefiniowane.
-    
-    Wstawmy losowy kod koloru do funkcji za pomocą def:
-    
-    ![zrzut ekranu](images/modern-colour-function.png)
-    
-    Upewnij się, że wciskasz kod wewnątrz funkcji. Funkcje są zwykle umieszczane u góry skryptu po imporcie.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-+ Jeśli teraz uruchomisz swój kod, nie dostaniesz losowego kolorowego żółwia. To dlatego, że zdefiniowałeś swoją funkcję, ale jeszcze nie nazwałeś jej.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
-+ Dodaj linię, aby zadzwonić do nowej funkcji:
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    ![zrzut ekranu](images/modern-call-colour.png)
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
     
-    Zauważ, że twój nowy kod jest dużo łatwiejszy do zrozumienia, ponieważ część złożona jest w funkcji. Łatwo ustalić, co robi `randomcolour ()`.
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    
+    ![screenshot](images/modern-random-colour.png)
+
++ Click ‘Run’ a few times to get different coloured turtles.
+
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
+    
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    
+    Let’s put the random colour code into a function using def:
+    
+    ![screenshot](images/modern-colour-function.png)
+    
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
+
++ Add a line to call your new function:
+    
+    ![screenshot](images/modern-call-colour.png)
+    
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
