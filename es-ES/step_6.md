@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- desafío \---
 
 ## Reto: Más arte moderno
 
@@ -10,10 +10,10 @@ Ideas:
 
 - Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
     
-    ![screenshot](images/modern-circles.png)
+    ![captura de pantalla](images/modern-circles.png)
 
 - Busca código de ejemplo en `snippets.py` para dibujar estrellas con la tortuga.
     
-    ![screenshot](images/modern-stars.png)
+    ![captura de pantalla](images/modern-stars.png)
 
 \--- /challenge \---
