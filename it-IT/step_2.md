@@ -10,34 +10,55 @@
     
     Il viola è ottenuto mescolando insieme rosso e blu.
 
-+ Prova valori diversi per ottenere colori diversi.
-    
-    Ricorda che ogni numero può essere compreso tra 0 e 255.
+\--- collapse \---
 
-+ Che ne dici di scegliere un colore casuale?
+* * *
+
+## title: "Error - bad color sequence: (150, 0, 150)"
+
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+\--- /collapse \---
+
++ Try some different numbers to get different colours.
     
-    Aggiorna il codice per scegliere un numero casuale compreso tra 0 e 255 per i valori rosso, verde e blu:
+    Remember each number can be from 0 to 255.
+
++ How about choosing a random colour?
+    
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Fai clic su "Esegui" un paio di volte per ottenere tartarughe di colori diversi.
++ Click ‘Run’ a few times to get different coloured turtles.
 
-+ È divertente, ma devi ricordare e scrivere molto codice ogni volta che vuoi impostare una tartaruga su un colore casuale. In più non è molto facile da leggere.
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
-    In Python possiamo scrivere `def` per definire una funzione che possiamo chiamare ogni volta che è necessario far comparire una tartaruga di colore diverso.
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
-    Hai già chiamato funzioni in precedenza, `color()` e `randint()` sono funzioni che abbiamo definito per te.
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
-    Mettiamo il codice del colore casuale in una funzione usando def:
+    Let’s put the random colour code into a function using def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Assicurati di indentare il codice all'interno della funzione. Le funzioni vengono generalmente posizionate nella parte superiore dello script dopo le istruzioni di import.
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
 
-+ Se ora clicchi su "Run" non ottieni una tartaruga colorata casualmente. Questo perché hai definito la tua funzione, ma non l'hai ancora chiamata.
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
 
-+ Aggiungi una linea per chiamare la tua nuova funzione:
++ Add a line to call your new function:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Nota che il tuo nuovo codice è molto più facile da capire perché la parte complessa è nella funzione. È facile capire cosa `colorecasuale()` faccia.
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
