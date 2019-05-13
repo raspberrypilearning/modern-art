@@ -1,12 +1,12 @@
-\--- challenge \---
+\--- desafío \---
 
 ## Reto: Arte con tortugas
 
 ¿Puedes definir una función `randomheading()` que haga que la tortuga apunte en una dirección aleatoria y que haga que el siguiente código funcione?
 
-![screenshot](images/modern-turtle-art.png)
+![captura de pantalla](images/modern-turtle-art.png)
 
-Pistas:
+Consejos:
 
 - `setheading(<number>)` cambiará la dirección a la que apunta la tortuga.
 
