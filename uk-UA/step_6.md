@@ -14,6 +14,6 @@
 
 - Подивіться `snippets.py` , наприклад, код, щоб малювати зірки з черепахою.
     
-    ![скріншот](images/modern-stars.png)
+    ![знімок екрану](images/modern-stars.png)
 
-\--- / виклик \---
+\--- /challenge \---
