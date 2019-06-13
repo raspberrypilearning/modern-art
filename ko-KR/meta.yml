@@ -1,31 +1,31 @@
 ---
-hero_image: images / banner.png
-theme: violet
+hero_image: images /banner.png
+theme: 보라색
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, 디자인 -0, 프로그래밍 -1, phys-comp-0, 제조 -0, 커뮤니티 -0
-title: Modern Art
-description: Code your own computer-generated modern art.
+title: 현대 미술
+description: 자신의 컴퓨터 생성 현대 미술을 코드화하십시오.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
 interests: art
-technologies: python
-site_areas: projects
+technologies: 파이선(Python)
+site_areas: 프로젝트
 hardware: ''
-software: python
+software: 파이썬 (Python)
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
     title: 소개
   - 
-    title: Random colours
+    title: 무작위 색상
   - 
-    title: Random place
+    title: 무작위 장소
   - 
-    title: 'Challenge: Turtle art'
+    title: '과제: 거북이 아트'
   - 
-    title: Create rectangle modern art
+    title: 사각형 모던 아트 만들기
   - 
-    title: 'Challenge: More modern art'
+    title: '과제: 보다 더 현대 예술'
