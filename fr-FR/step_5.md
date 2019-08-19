@@ -6,7 +6,7 @@ Maintenant créons de l'art moderne en dessinant beaucoup de rectangles de diff�
     
     ![capture d'écran](images/modern-reset.png)
 
-+ Tu peux commenter le code de ta propre tortue en plaçant un `#` devant le début de chaque ligne de manière à ce qu'il ne soit pas exécuté par la machine pendant que tu travailles sur tes rectangles. (Après tu pourras le décommenter pour montrer tout ton travaille)
++ Tu peux commenter le code de ta propre tortue en plaçant un `#` devant le début de chaque ligne de manière à ce qu'il ne soit pas exécuté par la machine pendant que tu travailles sur tes rectangles. (Après tu pourras le dé-commenter pour montrer tout ton travaille)
     
     ![capture d'écran](images/modern-comment.png)
 
@@ -18,7 +18,7 @@ Maintenant créons de l'art moderne en dessinant beaucoup de rectangles de diff�
     
     Regarde dans `snippets.py` pour quelque code d'aide si tu as envie d'économiser du temps de codage.
 
-+ Ajoute le code suivant à la fin de ton fichier `principal.py` pour appeler tes nouvelles fonctions:
++ Ajoute le code suivant à la fin de ton fichier `main.py` pour appeler tes nouvelles fonctions:
     
     ![capture d'écran](images/modern-call-rect.png)
     
@@ -26,7 +26,7 @@ Maintenant créons de l'art moderne en dessinant beaucoup de rectangles de diff�
 
 + Le rectangle est toujours de la même couleur et commence à la même position.
     
-    Maintenant tu auras besoin de définir une couleur aléatoire à ta tortue pour ensuite la déplacer à une position au hasard. Hey, mais n'as tu pas déjà créer des fonctions pour réaliser ces tâches ? Fantastique. Tu peux simplement les appeler au début de ta fonction dessinerectangle:
+    Maintenant tu auras besoin de définir une couleur aléatoire à ta tortue pour ensuite la déplacer à une position au hasard. Hé, mais n'as tu pas déjà créer des fonctions pour réaliser ces tâches ? Fantastique. Tu peux simplement les appeler au début de ta fonction dessinerectangle:
     
     ![capture d'écran](images/modern-random-rect.png)
     
