@@ -24,11 +24,11 @@ U ovom projektu se pomoću generatora za šaroliku modernu umjetnost uči o funk
 
 **U ovom projektu koristi se Python 3.** Predlažemo korištenje [trinketa](https://trinket.io/) za online pisanje u Pythonu. Ovaj projekt sadrži sljedeće Trinkete:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Moderna umjetnost' početni projekt -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Moderna umjetnost' dovršeni projekt -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline izvori
 
