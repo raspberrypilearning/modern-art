@@ -1,7 +1,7 @@
 #!/bin/python3
 
-# Code to draw a random-sized rectangle
-  hideturtle()
+# Code pour dessiner un rectangle de taille aléatoire
+  cachertortue()
   length = randint(10, 100)
   height = randint(10, 100)
   begin_fill()
@@ -15,7 +15,7 @@
   right(90)
   end_fill()
   
-# Code to draw a star
+# Code pour dessiner une étoile
   begin_fill()
   for side in range(5):
     left(144)
