@@ -10,7 +10,7 @@ Dans ce projet, tu vas créer de l'art moderne généré avec ton ordinateur. Tu
 
 ### Informations complémentaires pour les responsables de club
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/modern-art/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
@@ -24,22 +24,22 @@ Ce projet introduit les fonctions au travers d'un générateur d'art moderne col
 
 **Ce projet utilise Python 3.** Nous recommandons l'utilisation de [Trinket](https://trinket.io/) pour écrire du code Python en-ligne. Ce projet contient les Trinkets suivants :
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Point de départ "Art moderne" - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Il y a aussi un Trinket contenant un exemple de solution pour les défis:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Art moderne' terminé - rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Ressources hors-ligne
 
-Ce projet peut être [complété hors-ligne](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) si désiré. Tu peux accéder aux ressources du projet en cliquant sur le lien "Matériaux pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut être [complété hors-ligne](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour le projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter ce projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
 Vous pouvez aussi trouver une version complétée du défi dans la section "Ressources du bénévole" qui contient :
 
-* modern-art/modern-art.py
+* modern-art-finished/modern-art.py
 
 (Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers `.zip` projet et bénévole.)
 
@@ -47,19 +47,19 @@ Vous pouvez aussi trouver une version complétée du défi dans la section "Ress
 
 * Fonctions;
 
-Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](http://rpf.io/curriculum):
 
 * [Combine des constructions de programmation pour résoudre un problème.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Défis
 
-* L'art des tortues: définis une nouvelle fonction pour compléter le générateur d'art des tortue.
+* L'art de tortue: définis une nouvelle fonction pour compléter le générateur d'art de tortue.
 * Plus d'art moderne - créer une nouvelle fonction qui appelle les autres fonctions pour générer de l'art moderne.
 
 ## Foire aux questions
 
 * Pour éviter d'avoir à attendre que le code précédent soit exécuté lors de l'ajout au projet, les enfants peuvent commenter le code en utilisant un '#' au début d'une ligne.
-* S'ils veulent que tout leur code soit exécuté alors ` clear () ` peut être utilisé pour effacer l'écran. 
+* S'ils veulent que tout leur code soit exécuté alors `clear()` peut être utilisé pour effacer l'écran. 
 
 \--- /collapse \---
 
@@ -70,7 +70,7 @@ Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativit
 ## Ressources du projet
 
 * [Fichier .zip contenant toutes les ressources du projet](resources/modern-art-project-resources.zip)
-* [Trinket Online contenant des ressources de départ 'Modern Art'](http://jumpto.cc/modern-go)
+* [Trinket Online contenant des ressources de départ 'Art Moderne'](http://jumpto.cc/modern-go)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
@@ -78,6 +78,6 @@ Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativit
 
 * [Fichier .zip contenant toutes les ressources du projet](resources/modern-art-volunteer-resources.zip)
 * [Trinket Python en-ligne complet](https://trinket.io/python/47bbc2fc2b)
-* [modern-art/modern-art.py](resources/modern-art-finished-modern-art.py)
+* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
 
 \--- /collapse \---
