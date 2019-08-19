@@ -1,20 +1,20 @@
-## Random colours
+## 随机颜色
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ 打开此Trinket: <a href="http://jumpto.cc/modern-go" target="_blank"> jumpto.cc/modern-go </a>。
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ 你可以通过表明你想要的红色、绿色和蓝色色值（在 0 到 255 之间选择）来设置海龟的颜色。
     
-    Add the following code to get a purple turtle:
+    添加以下代码来获得一只紫色海龟：
     
     ![screenshot](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    紫色是通过混合红色和蓝色而得出的。
 
 \--- collapse \---
 
 * * *
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## title: "错误 - 颜色代码错误: (150, 0, 150)"
 
 Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
