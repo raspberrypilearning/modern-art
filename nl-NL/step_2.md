@@ -1,6 +1,6 @@
 ## Willekeurige kleuren
 
-+ Open deze trinket: <a href="https://trinket.io/python/153a641a44
++ Open deze trinket: <a href="https://trinket.io/python/8ce1ed5d67
 " target="_blank">trinket.io/python/153a641a44
 </a>.
 

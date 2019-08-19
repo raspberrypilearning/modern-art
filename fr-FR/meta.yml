@@ -16,9 +16,9 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Couleurs aléatoires
-  - title: Position aléatoire
-  - title: 'Défi: art avec une tortue'
-  - title: Créer de l'art moderne rectangulaire
-  - title: 'Défi: plus d'art moderne'
+- title: Introduction
+- title: Couleurs aléatoires
+- title: Position aléatoire
+- title: 'Défi: art avec une tortue'
+- title: Créer de l'art moderne rectangulaire
+- title: 'Défi: plus d'art moderne'

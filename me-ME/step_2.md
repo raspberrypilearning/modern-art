@@ -1,6 +1,6 @@
 ## Nasumične boje
 
-+ Otvori sljedeći trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Otvori sljedeći trinket: <a href="https://trinket.io/python/149983119a" target="_blank">jumpto.cc/modern-go</a>.
 
 + Možeš da podesiš boju kornjače tako što ćeš odrediti koliko želiš crvene, zelene i plave boje od 0 do 255.
     

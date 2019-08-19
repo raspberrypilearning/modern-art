@@ -24,7 +24,7 @@ Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Gene
 
 **Dieses Projekt verwendet Python 3.** Wir empfehlen die Verwendung von [trinket](https://trinket.io/), um Python-Programme online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
 
-* ['Turtle Race' Startpunkt - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Turtle Race' Startpunkt - jumpto.cc/modern-go](https://trinket.io/python/93f8b14fcd)
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
@@ -70,7 +70,7 @@ title: Projektmaterial
 ## Projektressourcen
 
 * [.zip-Datei, die alle Projektressourcen enthält](resources/modern-art-project-resources.zip)
-* [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](http://jumpto.cc/modern-go)
+* [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](https://trinket.io/python/93f8b14fcd)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 

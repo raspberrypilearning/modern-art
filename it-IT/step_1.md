@@ -24,7 +24,7 @@ Questo progetto introduce le funzioni attraverso un generatore di arte moderna c
 
 **Questo progetto utilizza Python 3.** Consigliamo di utilizzare [Trinket](https://trinket.io/) per scrivere in linguaggio Python online. Questo progetto contiene i seguenti Trinket:
 
-* ['Turtle Race' punto di partenza -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Turtle Race' punto di partenza -- jumpto.cc/modern-go](https://trinket.io/python/8edd3dc48d)
 
 È disponibile anche un file trinket con esempi di soluzioni alle sfide proposte:
 
@@ -70,7 +70,7 @@ title: Materiali del progetto
 ## Risorse del progetto
 
 * [File .zip contenente tutte le risorse del progetto](resources/modern-art-project-resources.zip)
-* [Trinket online contenente le risorse iniziali di "Arte moderna"](http://jumpto.cc/modern-go)
+* [Trinket online contenente le risorse iniziali di "Arte moderna"](https://trinket.io/python/8edd3dc48d)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 

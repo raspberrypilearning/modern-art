@@ -24,7 +24,7 @@ Dit project introduceert functies met behulp van een kleurrijke moderne kunstgen
 
 **Dit project maakt gebruik van Python 3.** We raden aan om [trinket](https://trinket.io/) te gebruiken om Python online te schrijven. Dit project bevat de volgende Trinkets:
 
-* ['Modern Art' startpunt -- trinket.io/python/153a641a44](https://trinket.io/python/153a641a44)
+* ['Modern Art' startpunt -- trinket.io/python/153a641a44](https://trinket.io/python/8ce1ed5d67)
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
@@ -70,7 +70,7 @@ title: Projectmaterialen
 ## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/modern-art-project-resources.zip)
-* [Online Trinket met 'Moderne Kunst' startbronnen](https://trinket.io/python/153a641a44)
+* [Online Trinket met 'Moderne Kunst' startbronnen](https://trinket.io/python/8ce1ed5d67)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 
