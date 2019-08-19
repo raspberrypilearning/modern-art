@@ -14,4 +14,4 @@ Pomoć:
 
 - Možeš koristiti `randint(1, 360)` za odabir broja između 1 i 360.
 
---- challenge ---
+--- /challenge ---
