@@ -16,9 +16,9 @@
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Krijg je de fout `bad color sequence: (150, 0, 150)` bij het uitvoeren van je code.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Dit is omdat trinket een andere kleurmodus gebruikt dan andere Python editors. Dit kan worden verholpen door de `colormode` te wijzigen in `255`.
 
 ```python
 from turtle import *
@@ -31,34 +31,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Probeer wat verschillende getallen om verschillende kleuren te krijgen.
     
-    Remember each number can be from 0 to 255.
+    Denk eraan dat het elk getal tussen 0 en 255 kan zijn.
 
-+ How about choosing a random colour?
++ Hoe kun je een willekeurige kleur kiezen?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Werk de code bij om een ​​willekeurig getal tussen 0 en 255 te kiezen voor de rode, groene en blauwe waarden:
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Klik een paar keer op 'Run' om verschillende gekleurde schildpadden te krijgen.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Erg leuk, maar om dat voor elke keer dat je een schildpad in een willekeurige kleur wilt plaatsen te onthouden en te typen is nogal wat en het is ook niet erg leesbaar.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    In Python kunnen we `def` gebruiken om een functie te definiëren die we kunnen oproepen als we de schildpad een willekeurige kleur willen geven.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Je hebt al functies aangeroepen, `color()` en `randint()` zijn functies die al voor je zijn gedefinieerd.
     
-    Let’s put the random colour code into a function using def:
+    Laten we de willekeurige kleurcode in een functie te zetten met def:
     
     ![screenshot](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Zorg ervoor dat de coderegels binnen de functie inspringen. Functies worden meestal bovenaan in het script gezet, na de importregels.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Als je nu met 'Run' de code uitvoert krijg je geen willekeurig gekleurde schildpad. Dat komt omdat je de functie wel hebt gedefinieerd, maar nog niet hebt aangeroepen.
 
-+ Add a line to call your new function:
++ Voeg een regel toe om je nieuwe functie aan te roepen:
     
     ![screenshot](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Het valt op dat je nieuwe code veel gemakkelijker te begrijpen is omdat het ingewikkelde deel in de functie zit. Het is eenvoudig om uit te zoeken wat `willekeurigekleur()` doet.
