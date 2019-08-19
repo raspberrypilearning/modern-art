@@ -6,7 +6,7 @@ Peux tu définir une fonction `directionaleatoire()` qui fera pointer ta tortue 
 
 ![capture d'écran](images/modern-turtle-art.png)
 
-Astuces:
+Indices:
 
 - `setheading(<number>)` changera la direction que la tortue pointe.
 
