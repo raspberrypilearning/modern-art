@@ -4,7 +4,7 @@ from turtle import *
 from random import *
 
 def randomcolour():
-  ###Uncomment the line below if you are not using trinket###
+  ###trinket를 사용하지 않고 있다면 아래의 줄을 주석 해제하세요.###
   #colormode(255)
   red = randint(0, 255)
   green = randint(0, 255)
@@ -48,7 +48,7 @@ for i in range(1, 30):
   randomheading()
   stamp()
 
-# Challenge - use built in dot function
+# 도전 과제 - 내장된 dot 함수를 사용하세요
 
 def drawcircle():
   radius = randint(5, 100)
@@ -62,7 +62,7 @@ def drawstar():
   randomheading()
   begin_fill()
   size = randint(20, 100)
-  #draw the star shape
+  #별 그리기
   for side in range(5):
     left(144)
     forward(size)
