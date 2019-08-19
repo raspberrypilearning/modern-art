@@ -1,8 +1,8 @@
 \--- challange \---
 
-## Défi: Plus que de l'art moderne
+## Défi : Plus d'art moderne
 
-Peux tu créer une fonction qui dessine une forme et qui appelle ta fonction `couleuraleatoire()` et/ou ta fonction `positionaleatoire()`?
+Peux tu créer une fonction qui dessine une forme et qui appelle ta fonction `couleuraleatoire()` et/ou ta fonction `endroitaleatoire()`?
 
 Tu peux appeler ta fonction à l'intérieur d'une boucle `for` comme tu l'as fait pour tes œuvres avec les rectangles pour générer de l'art moderne.
 
