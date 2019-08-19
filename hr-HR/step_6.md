@@ -16,7 +16,7 @@ Ideje:
     
     ![screenshot](images/modern-stars.png)
 
---- challenge ---
+--- /challenge ---
 
 
 **Prijevod članova zajednice**
