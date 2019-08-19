@@ -10,7 +10,7 @@ Met dit project maak je computergemaakte moderne kunst. Je gaat functies gebruik
 
 ### Aanvullende informatie voor clubleiders
 
-Als u dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/modern-art/print).
+Als u dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
@@ -24,11 +24,11 @@ Dit project introduceert functies met behulp van een kleurrijke moderne kunstgen
 
 **Dit project maakt gebruik van Python 3.** We raden aan om [trinket](https://trinket.io/) te gebruiken om Python online te schrijven. Dit project bevat de volgende Trinkets:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Moderne Kunst' startpunt - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Moderne Kunst' Voltooid - rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline bronnen
 
