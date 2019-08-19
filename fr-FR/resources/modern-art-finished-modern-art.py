@@ -3,28 +3,28 @@
 from turtle import *
 from random import *
 
-def randomcolour():
-  ###Uncomment the line below if you are not using trinket###
+def couleuraleatoire():
+  ###Décommente la ligne ci-dessous si tu n'utilises pas trinket###
   #colormode(255)
   red = randint(0, 255)
   green = randint(0, 255)
   blue = randint(0, 255)
   color(red, green, blue)
 
-def randomplace():
+def endroitaleatoire():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
 
-def randomheading():
+def directionaleatoire():
   heading = randint(0, 360)
   setheading(heading)
 
-def drawrectangle():
-  randomcolour()
-  randomplace()
+def dessinerrectangle():
+  couleuraleatoire()
+  endroitaleatoire()
   hideturtle()
   length = randint(10, 100)
   height = randint(10, 100)
@@ -43,26 +43,26 @@ shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  randomcolour()
-  randomplace()
-  randomheading()
+  couleuraleatoire()
+  endroitaleatoire()
+  directionaleatoire()
   stamp()
 
-# Challenge - use built in dot function
+# Défi - utiliser la fonction dot
 
-def drawcircle():
+def dessinercercle():
   radius = randint(5, 100)
-  randomcolour()
-  randomplace()
+  couleuraleatoire()
+  endroitaleatoire()
   dot(radius)
 
-def drawstar():
-  randomcolour()
-  randomplace()
-  randomheading()
+def dessineretoile():
+  couleuraleatoire()
+  endroitaleatoire()
+  directionaleatoire()
   begin_fill()
   size = randint(20, 100)
-  #draw the star shape
+  #dessiner la forme de l'étoile
   for side in range(5):
     left(144)
     forward(size)
@@ -73,14 +73,14 @@ clear()
 setheading(0)
 
 for i in range(20):
-  drawrectangle()
+  dessinerrectangle()
 
 clear()
 
 for i in range(50):
-  drawcircle()
+  dessinercercle()
 
 clear()
 
 for i in range(20):
-  drawstar()
+  dessineretoile()
