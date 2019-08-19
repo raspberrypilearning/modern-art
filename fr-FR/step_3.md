@@ -2,7 +2,7 @@
 
 Créons une autre fonction pour déplacer la tortue à un endroit aléatoire sur l'écran. Le centre de l'écran est (0,0) donc nous placerons les tortues dans une zone carrée autour du centre.
 
-+ Ajoute une fonction `positionaleatoire()`:
++ Ajoute une fonction `endroitaleatoire()`:
     
     ![capture d'écran](images/modern-place-function.png)
 
