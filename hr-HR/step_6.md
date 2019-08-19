@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Izazov: Još moderne umjetnosti
+## Izazov: još moderne umjetnosti
 
 Možeš li napisati funkciju koja crta neki oblik i poziva tvoje `nasumicnaBoja()` i/ili `nasumicnaPozicija()` funkcije?
 

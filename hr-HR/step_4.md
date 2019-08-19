@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Izazov: Kornjačina umjetnost
+## Izazov: kornjačina umjetnost
 
 Možeš li definirati funkciju `nasumicanSmjer()` kojom će kornjača pokazivati u nasumičnom smjeru i koja će učiniti da sljedeći kôd radi?
 
