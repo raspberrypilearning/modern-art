@@ -24,7 +24,7 @@ title: Σημειώσεις συντονιστή ομάδας
 
 **Αυτό το έργο χρησιμοποιεί Python 3.** Συνιστούμε να χρησιμοποιήσετε το [trinket](https://trinket.io/) για να γράψετε Python online. Το έργο αυτό περιλαμβάνει τα ακόλουθα Trinkets:
 
-* ["Σύγχρονη Τέχνη" αρχικό -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ["Σύγχρονη Τέχνη" αρχικό -- jumpto.cc/modern-go](https://trinket.io/python/791cafc9f7)
 
 Υπάρχει επίσης ένα trinket που περιέχει μια υποδειγματική λύση στις προκλήσεις:
 
@@ -70,7 +70,7 @@ title: Υλικό έργου
 ## Πόροι έργου
 
 * [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/modern-art-project-resources.zip)
-* [Online Trinket που περιέχει τους αρχικούς πόρους για το έργο "Σύγχρονη Τέχνη"](http://jumpto.cc/modern-go)
+* [Online Trinket που περιέχει τους αρχικούς πόρους για το έργο "Σύγχρονη Τέχνη"](https://trinket.io/python/791cafc9f7)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 

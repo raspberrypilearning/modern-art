@@ -1,6 +1,6 @@
 ## Zufällige Farben
 
-+ Öffne diesen Trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Öffne diesen Trinket: <a href="https://trinket.io/python/93f8b14fcd" target="_blank">jumpto.cc/modern-go</a>.
 
 + Du kannst die Farbe einer Schildkröte einstellen, indem du Rot, Grün und Blau mischt, jeweils mit Werten zwischen 0 und 255.
     

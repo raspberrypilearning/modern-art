@@ -1,6 +1,6 @@
 ## Colori casuali
 
-+ Apri questo trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Apri questo trinket: <a href="https://trinket.io/python/8edd3dc48d" target="_blank">jumpto.cc/modern-go</a>.
 
 + Puoi impostare il colore di una tartaruga scegliendo la quantità di rosso, verde e blu che desideri da 0 a 255.
     

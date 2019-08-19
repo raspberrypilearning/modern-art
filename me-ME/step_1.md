@@ -24,7 +24,7 @@ U ovom projektu predstavljene su funkcije preko generatora moderne umjetnosti u 
 
 **U ovom projektu koristi se Python 3.** Preporučujemo korišćenje [trinketa](https://trinket.io/) za online pisanje u Pythonu. Ovaj projekat sadrži sljedeće Trinkete:
 
-* [Početak projekta 'Moderna umjetnost' -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Početak projekta 'Moderna umjetnost' -- jumpto.cc/modern-go](https://trinket.io/python/149983119a)
 
 Takođe postoji trinket koji sadrži primjer rješenja izazova:
 
@@ -70,7 +70,7 @@ title: Projektni materijali
 ## Izvori projekta
 
 * [.zip datoteka koja sadrži sve izvore projekta](resources/modern-art-project-resources.zip)
-* [Online Trinket koji sadrži početne izvore projekta 'Moderna umjetnost'](http://jumpto.cc/modern-go)
+* [Online Trinket koji sadrži početne izvore projekta 'Moderna umjetnost'](https://trinket.io/python/149983119a)
 * [modern-art/modern-art.py](resources/modern-art-modern-art.py)
 * [modern-art/snippets.py](resources/modern-art-snippets.py)
 

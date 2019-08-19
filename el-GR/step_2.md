@@ -1,6 +1,6 @@
 ## Τυχαία χρώματα
 
-+ Άνοιξε αυτό το trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Άνοιξε αυτό το trinket: <a href="https://trinket.io/python/791cafc9f7" target="_blank">jumpto.cc/modern-go</a>.
 
 + Μπορείς να ορίσεις το χρώμα λέγοντας πόσο κόκκινο, πράσινο και μπλε θα ήθελες από 0 έως 255.
     

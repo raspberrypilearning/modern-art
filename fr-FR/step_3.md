@@ -1,20 +1,19 @@
-## Emplacement aléatoire
+## Position aléatoire
 
-Créons une autre fonction pour déplacer la tortue vers un point aléatoire à l'écran. Le centre de l'écran est (0,0) donc nous allons placer les tortues dans un carré autour du centre.
+Créons une autre fonction pour déplacer la tortue à un endroit aléatoire sur l'écran. Le centre de l'écran est (0,0) donc nous placerons les tortues dans une zone carrée autour du centre.
 
-+ Ajoute une fonction `randomplace()` :
-
++ Ajoute une fonction `endroitaleatoire()`:
+    
     ![capture d'écran](images/modern-place-function.png)
 
-+ Essaie ta nouvelle fonction en l'appelant puis en appeant `stamp()`, tu peux l'appeler plus d'une fois :
-
++ Essaie ta nouvelle fonction en l'appelant puis en appelant `stamp()`, tu peux l'appeler plus d'une fois:
+    
     ![capture d'écran](images/modern-call-place.png)
 
-+ Ooops, la tortue écrit quand elle se déplace. Mettons le stylo en position relevée au début puis en position baissée à la fin pour que la tortue n'écrive pas pendant son déplacement :
-
++ Ooops, la tortue dessine quand elle bouge. Levons le stylo au début et baissons le à la fin du mouvement afin que la tortue ne dessine pas pendant qu'elle bouge:
+    
     ![capture d'écran](images/modern-place-pen.png)
+    
+    As-tu remarqué que tu n'avais qu'à «réparer» le code à un endroit? C'est une autre fonctionnalités des fonctions.
 
-    As-tu remarqué que tu as dû 'corriger' le code à un seul endroit ? C'est encore quelquechose de très appréciable à propos des fonctions.
-
-+ Maintenant teste ton code plusieurs fois.
-
++ Maintenant, teste ton code quelques fois.
