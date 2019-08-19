@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Modern Art
-description: Code your own computer-generated modern art.
+title: Современное искусство
+description: Создай современное искусство, сгенерировав его из компьютерного кода.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
 interests: art
 technologies: python
@@ -18,14 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Введение
   - 
-    title: Random colours
+    title: Случайные цвета
   - 
-    title: Random place
+    title: Случайное место
   - 
-    title: 'Challenge: Turtle art'
+    title: 'Задача: черепашье искусство'
   - 
-    title: Create rectangle modern art
+    title: Прямоугольное современное искусство
   - 
-    title: 'Challenge: More modern art'
+    title: 'Задача: ещё больше современного искусства'
