@@ -14,51 +14,51 @@
 
 * * *
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## tytuł: „Błąd - niewłaściwa sekwencja kolorów: (150, 0, 150)”
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Czy pojawia się błąd `niewłaściwa sekwencja kolorów: (150, 0, 150)` podczas uruchamiania kodu.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Jest tak, ponieważ bibelot używa innego trybu kolorów niż inne edytory Python. Można to naprawić, zmieniając kolor `` na `255`.
 
 ```python
-from turtle import *
+z importu żółwia *
 
-colormode(255)
+colormode (255)
 
-shape("turtle")
-color(150,0,150)
+kształt („żółw”)
+kolory (150,0150)
 ```
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Wypróbuj różne liczby, aby uzyskać różne kolory.
     
-    Remember each number can be from 0 to 255.
+    Pamiętaj, że każda liczba może wynosić od 0 do 255.
 
-+ How about choosing a random colour?
++ Co powiesz na wybór losowego koloru?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Zaktualizuj kod, aby wybrać losową liczbę od 0 do 255 dla wartości czerwonej, zielonej i niebieskiej:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![zrzut ekranu](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Kliknij kilka razy „Uruchom”, aby uzyskać żółwie w różnych kolorach.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ To zabawne, ale dużo trzeba pamiętać i pisać za każdym razem, gdy chcesz ustawić żółwia na losowy kolor i nie jest to łatwe do odczytania.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    W Pythonie możemy napisać `def` aby zdefiniować funkcję, którą możemy wywołać za każdym razem, gdy musimy ustawić żółwia na losowy kolor.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Wywołujesz już funkcje, `color ()` i `randint ()` to funkcje, które zostały zdefiniowane dla Ciebie.
     
-    Let’s put the random colour code into a function using def:
+    Umieśćmy losowy kod koloru w funkcji za pomocą def:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![zrzut ekranu](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Upewnij się, że wpisałeś kod wewnątrz funkcji. Funkcje są zwykle umieszczane u góry skryptu po imporcie.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Jeśli teraz „uruchomisz” swój kod, nie otrzymasz żółwia o losowych kolorach. To dlatego, że zdefiniowałeś swoją funkcję, ale jeszcze jej nie wywołałeś.
 
-+ Add a line to call your new function:
++ Dodaj linię, aby wywołać nową funkcję:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![zrzut ekranu](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Zauważ, że twój nowy kod jest znacznie łatwiejszy do zrozumienia, ponieważ część złożona jest w funkcji. Łatwo jest ustalić, co robi `losowych kolorów ()`.
