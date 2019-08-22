@@ -24,11 +24,11 @@ Ten projekt wprowadza funkcje poprzez kolorowy generator sztuki współczesnej. 
 
 **Ten projekt używa języka Python 3.** Do pisania kodu w Pythonie zalecamy użycie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Punkt wyjścia „Sztuka współczesna” - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Dostępny jest również szablon zawierający przykładowe rozwiązanie dla wyzwań:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* [„Modern Art” Finished - rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Zasoby Offline
 
