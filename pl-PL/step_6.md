@@ -2,13 +2,13 @@
 
 ## Wyzwanie: bardziej nowoczesna sztuka
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+Czy potrafisz stworzyć funkcję, która rysuje kształt i wywołuje funkcje `loscolour ()` i / lub `randomplace ()`?
 
 Możesz wywoływać swoją funkcję z wnętrza `dla pętli` , tak jak w sztuce prostokątnej, aby wygenerować nowoczesną sztukę.
 
 Pomysły:
 
-- Żółwie mają funkcję zwaną kropką, która przyjmuje promień (odległość od środka do krawędzi koła) jako wejście. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- Żółwie mają funkcję zwaną kropką, która przyjmuje promień (odległość od środka do krawędzi koła) jako wejście. Np. Turtle.dot (10) Możesz utworzyć funkcję `drawcircle ()` która rysuje okrąg o losowym promieniu.
     
     ![zrzut ekranu](images/modern-circles.png)
 
