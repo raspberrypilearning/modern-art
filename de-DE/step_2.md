@@ -6,7 +6,7 @@
     
     Füge den folgenden Code hinzu, um eine lila Schildkröte zu erhalten:
     
-    ![screenshot](images/modern-purple.png)
+    ![Screenshot](images/modern-purple.png)
     
     Lila wird durch Mischen von Rot und Blau hergestellt.
 
@@ -16,9 +16,9 @@
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Bekommst du die Fehlermeldung `bad color sequence: (150, 0, 150)` wenn du deinen Code laufen läßt.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Dies liegt daran, dass trinket einen anderen Farbmodus als andere Python-Editoren verwendet. Dies kann durch Ändern des `Farbmodus` zu `255` behoben werden.
 
 ```python
 from turtle import *
@@ -31,34 +31,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Probiere verschiedene Zahlen aus, um andere Farben zu erhalten.
     
-    Remember each number can be from 0 to 255.
+    Denke daran, dass jede Zahl zwischen 0 und 255 liegen kann.
 
-+ How about choosing a random colour?
++ Wie wäre es mit einer zufälligen Farbe?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Aktualisiere deinen Code, um eine Zufallszahl zwischen 0 und 255 für die roten, grünen und blauen Werte auszuwählen:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![Bildschirmfoto](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Klicke ein paar Mal auf "Run", um verschiedenfarbige Schildkröten zu erhalten.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Das macht Spaß, aber du musst dir viel merken und tippen, wenn du eine Schildkröte auf eine zufällige Farbe setzen möchtest. Außerdem ist es nicht sehr einfach zu lesen.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    In Python können wir `def` schreiben um eine Funktion zu definieren, die wir jedesmal aufrufen können, wenn wir die Schildkröte auf eine zufällige Farbe setzen müssen.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Du hast bereits Funktionen aufgerufen, `color()` und `randint()` sind Funktionen, die für dich definiert wurden.
     
-    Let’s put the random colour code into a function using def:
+    Machen wir mit def aus dem Code für eine zufällige Farbe eine Funktion:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![Bildschirmfoto](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Stelle sicher, dass du den Code innerhalb der Funktion einrückst. Funktionen werden normalerweise nach den Importen an den Anfang des Skripts gestellt.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Wenn du deinen Code jetzt mit "Run" ausführst, erhältst du keine zufällig gefärbte Schildkröte. Das liegt daran, dass du deine Funktion zwar definiert hast, sie aber noch nicht aufgerufen hast.
 
-+ Add a line to call your new function:
++ Füge eine Zeile hinzu, um deine neue Funktion aufzurufen:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![Bildschirmfoto](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Beachte, dass dein neuer Code viel einfacher zu verstehen ist, da sich der komplexe Teil in der Funktion befindet. Es ist leicht herauszufinden, was `zufallsfarbe()` macht.
