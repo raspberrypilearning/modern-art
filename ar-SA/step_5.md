@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## إنشاء فن حديث باستخدام أشكال مستطيلة
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+الآن لنقم بإنشاء بعض الأعمال الفنية الحديثة من خلال رسم الكثير من المستطيلات ذات الأحجام والألوان المختلفة.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ أولاً قم بإضافة الكود التالي إلى أسفل البرنامج النصي ، بعد رمز التحدي الخاص بك ، لمسح الشاشة بعد فن السلاحف الخاص بك وتوجيه السلاحف في اتجاهها المعتاد:
     
     ![لقطة الشاشة](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ يمكنك التعليق على شفرة فنون السلاحف الخاصة بك عن طريق وضع `#` في بداية كل سطر بحيث لا يعمل أثناء عملك على فن مستطيل. (بعد ذلك يمكنك إلغاء الضغط عليه لاحقًا لعرض جميع أعمالك.)
     
     ![لقطة الشاشة](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ الآن ، دعونا نضيف وظيفة لرسم مستطيل عشوائي الحجم بلون عشوائي في مكان عشوائي!
     
-    Add a `drawrectangle()` function after your other functions:
+    أضف `دالة مستقيمة ()` بعد وظائفك الأخرى:
     
     ![لقطة الشاشة](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    ابحث في `snippets.py` عن بعض التعليمات البرمجية المساعدة إذا كنت تريد توفير بعض الوقت في الكتابة.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ أضف الكود التالي في أسفل `main.py` لاستدعاء وظيفتك الجديدة:
     
     ![لقطة الشاشة](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    قم بتشغيل البرنامج النصي عدة مرات لرؤية تغيير الطول والعرض.
 
-+ The rectangle is always the same colour and starts at the same location.
++ المستطيل هو دائما نفس اللون ويبدأ في نفس الموقع.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    ستحتاج الآن إلى تعيين السلحفاة على لون عشوائي ثم نقله إلى مكان عشوائي. مهلا ، ألم تقم بالفعل بإنشاء وظائف للقيام بذلك؟ مدهش. يمكنك فقط الاتصال بهم من بداية وظيفة drawrectangle:
     
     ![لقطة الشاشة](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    نجاح باهر كان أقل بكثير من العمل ، وأنه من الأسهل قراءة.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ الآن دعنا ندعو `drawrectangle ()` في حلقة لإنشاء بعض الفن الحديث بارد:
     
     ![لقطة الشاشة](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ يا إلهي كان بطيئا بعض الشيء أليس كذلك! لحسن الحظ يمكنك تسريع السلحفاة.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    ابحث عن السطر الذي قمت بتعيين الشكل فيه على "turtle" وأضف الرمز المميز:
     
     ![لقطة الشاشة](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `السرعة (0)` هي الأسرع أو يمكنك استخدام الأرقام من 1 (بطيء) إلى 10 (سريع.) قم بالتجربة حتى تجد السرعة التي تريدها.
