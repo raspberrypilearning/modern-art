@@ -69,15 +69,10 @@
 
 ## 項目資源
 
-* [包含所有項目資源的.zip文件](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [包含“現代藝術”首發資源的在線飾品](http://jumpto.cc/modern-go)
-* [現代藝術/ modern-art.py](resources/modern-art-modern-art.py)
-* [現代藝術/ snippets.py](resources/modern-art-snippets.py)
 
 ## 俱樂部領導資源
 
-* [包含所有已完成項目資源的.zip文件](resources/modern-art-volunteer-resources.zip)
-* [在線完成Trinket項目](https://trinket.io/python/47bbc2fc2b)
-* [現代藝術成品/ modern-art.py](resources/modern-art-finished-modern-art.py)
-
-- - /坍方 - -
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
