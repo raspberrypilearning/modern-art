@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Aufgabe: Schildkröten-Kunst
+## Herausforderung: Schildkröten-Kunst
 
 Kannst du eine Funktion `zufallsrichtung()` definieren, die die Schildkröte in eine zufällige Richtung zeigen läßt und den folgenden Code zum Laufen bringt?
 
