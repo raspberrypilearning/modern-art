@@ -69,15 +69,10 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry
 
 ## Resursi projekta
 
-* [.zip datoteka koja sadrži sve materijale projekta](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket koji sadrži početne materijale projekta 'Moderna umjetnost'](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## Materijali za voditelja Kluba
 
-* [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/modern-art-volunteer-resources.zip)
-* [Dovršeni Online Trinket projekt](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
