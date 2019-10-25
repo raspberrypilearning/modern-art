@@ -3,7 +3,7 @@
 In diesem Projekt wirst du computer-generierte moderne Kunst schaffen. Du wirst Funktionen verwenden um Code zu schreiben, den du immer wieder verwenden kannst.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/6b631ae91e?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/modern-finished.png">
 </div>
@@ -16,6 +16,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 ---
 title: Hinweise für Gruppenleiter
 ---
+
 ## Einleitung:
 
 Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Generator für moderne Kunst. Mit Funktionen werden nützlicher Schildkröten-Grafikcode so verpackt, dass er leicht zur Erstellung von lustiger Kunst verwendet werden kann.
@@ -24,11 +25,11 @@ Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Gene
 
 **Dieses Projekt verwendet Python 3.** Wir empfehlen die Verwendung von [trinket](https://trinket.io/), um Python-Programme online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
 
-* ['Turtle Race' Startpunkt - jumpto.cc/modern-go](https://trinket.io/python/93f8b14fcd)
+* ['Modern Art' Einstieg -- trinket.io/python/93f8b14fcd](https://trinket.io/python/93f8b14fcd)
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
-* [Fertiges Projekt 'Moderne Kunst' - trinket.io/python/6b631ae91e](https://trinket.io/python/6b631ae91e)
+* ['Modern Art' komplett -- trinket.io/python/6b631ae91e](https://trinket.io/python/6b631ae91e)
 
 ## Offline-Ressourcen
 
@@ -51,14 +52,14 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 
 * [Kombiniere zur Problemlösung verschiedene Programmierkonstrukte.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Aufgaben
+## Herausforderungen
 
-* Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
-* Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen. 
+* Turtle Art - Definiere eine neue Funktion, um den Turtle Art (Schildkröten-Kunst) Generator zu vervollständigen.
+* Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen.
 
 ## Häufig gestellte Fragen
 
-* Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren. 
+* Um beim Hinzufügen von Code zum Projekt nicht warten zu müssen dass früherer Code abläuft, können die Kinder Codeteile mit '#'-Zeichen am Zeilenanfang auskommentieren.
 * Wenn sie den gesamten Code laufen lassen wollen, können sie den Bildschirm mit `clear()` löschen. 
 
 --- /collapse ---
@@ -67,17 +68,13 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 ---
 title: Projektmaterial
 ---
+
 ## Projektressourcen
 
-* [.zip-Datei, die alle Projektressourcen enthält](resources/modern-art-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](http://rpf.io/p/de-DE/modern-art-go){:target="_blank"}
 * [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](https://trinket.io/python/93f8b14fcd)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/modern-art-volunteer-resources.zip)
-* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/6b631ae91e)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
---- /collapse ---
+* [.zip Datei mit allen abgeschlossenen Projektressourcen](http://rpf.io/p/de-DE/modern-art-get){:target="_blank"}
+* [Online abgeschlossenes Trinket-Projekt](https://trinket.io/python/6b631ae91e) --- /collapse ---

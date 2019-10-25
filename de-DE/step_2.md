@@ -1,14 +1,34 @@
-## Zufällige Farben
+## Zufällig ausgesuchte Farbe
 
-+ Öffne diesen Trinket: <a href="https://trinket.io/python/93f8b14fcd" target="_blank">jumpto.cc/modern-go</a>.
++ Öffne diesen Trinket: <a href="https://trinket.io/python/93f8b14fcd" target="_blank">trinket.io/python/93f8b14fcd</a>.
 
 + Du kannst die Farbe einer Schildkröte einstellen, indem du Rot, Grün und Blau mischt, jeweils mit Werten zwischen 0 und 255.
     
     Füge den folgenden Code hinzu, um eine lila Schildkröte zu erhalten:
     
-    ![screenshot](images/modern-purple.png)
+    ![Screenshot](images/modern-purple.png)
     
     Lila wird durch Mischen von Rot und Blau hergestellt.
+
+--- collapse ---
+---
+title: "Error - bad color sequence: (150, 0, 150)"
+---
+
+Bekommst du die Fehlermeldung `bad color sequence: (150, 0, 150)` wenn du deinen Code laufen läßt.
+
+Dies liegt daran, dass trinket einen anderen Farbmodus als andere Python-Editoren verwendet. Dies kann durch Ändern des `Farbmodus` zu `255` behoben werden.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+--- /collapse ---
 
 + Probiere verschiedene Zahlen aus, um andere Farben zu erhalten.
     
@@ -18,7 +38,7 @@
     
     Aktualisiere deinen Code, um eine Zufallszahl zwischen 0 und 255 für die roten, grünen und blauen Werte auszuwählen:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![Bildschirmfoto](images/modern-random-colour.png)
 
 + Klicke ein paar Mal auf "Run", um verschiedenfarbige Schildkröten zu erhalten.
 
@@ -30,7 +50,7 @@
     
     Machen wir mit def aus dem Code für eine zufällige Farbe eine Funktion:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![Bildschirmfoto](images/modern-colour-function.png)
     
     Stelle sicher, dass du den Code innerhalb der Funktion einrückst. Funktionen werden normalerweise nach den Importen an den Anfang des Skripts gestellt.
 
@@ -38,6 +58,6 @@
 
 + Füge eine Zeile hinzu, um deine neue Funktion aufzurufen:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![Bildschirmfoto](images/modern-call-colour.png)
     
     Beachte, dass dein neuer Code viel einfacher zu verstehen ist, da sich der komplexe Teil in der Funktion befindet. Es ist leicht herauszufinden, was `zufallsfarbe()` macht.
