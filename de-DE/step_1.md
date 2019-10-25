@@ -69,10 +69,10 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 
 ## Projektressourcen
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip-Datei mit allen Projektressourcen](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](http://jumpto.cc/modern-go)
 
 ## Ressourcen für Clubleiter
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [.zip Datei mit allen abgeschlossenen Projektressourcen](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online abgeschlossenes Trinket-Projekt](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
