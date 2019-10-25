@@ -69,15 +69,10 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket met 'Moderne Kunst' startbronnen](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectbronnen](resources/modern-art-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
