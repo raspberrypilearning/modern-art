@@ -69,15 +69,10 @@
 
 ## 프로젝트 리소스
 
-* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * ['현대 미술' 리소스가 포함 된 온라인 Trinket 자료](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## 교육자를 위한 자료
 
-* [완료된 프로젝트 리소스가 담긴 .zip 파일](resources/modern-art-volunteer-resources.zip)
-* [완성된 온라인 Trinket 프로젝트](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
