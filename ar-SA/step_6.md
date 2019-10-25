@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## التحدي: المزيد من الفن الحديث
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+يمكنك إنشاء دالة الذي يرسم شكل والمكالمات `randomcolour ()` و / أو `randomplace ()` وظائف؟
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+يمكنك استدعاء وظيفتك من داخل حلقة `مقابل` كما فعلت في الفن المستطيل لإنشاء الفن الحديث.
 
-Ideas:
+الأفكار:
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- السلاحف لها وظيفة تسمى النقطة التي تأخذ نصف قطرها (المسافة من المركز إلى حافة الدائرة) كمدخل. على سبيل المثال turtle.dot (10) يمكنك إنشاء دالة `drawcircle ()` التي ترسم دائرة بنصف قطر عشوائي.
     
     ![لقطة الشاشة](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- ابحث في `snippets.py` للحصول على رمز على سبيل المثال لرسم النجوم باستخدام السلاحف.
     
     ![لقطة الشاشة](images/modern-stars.png)
 
