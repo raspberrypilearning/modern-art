@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto crearás arte moderno generado por computadora. Usarás funciones para escribir código que puede usar una y otra vez.
+En este proyecto crearás arte moderno generado por ordenador. Usarás funciones para escribir código que podrás usar una y otra vez.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,7 +14,7 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## \--- collapse \---
 
-## título: Notas del líder del club
+## title: Notas para el líder del club
 
 ## Introducción:
 
@@ -24,11 +24,11 @@ Este proyecto introduce las funciones a través de un colorido generador de arte
 
 **Este proyecto usa Python 3.** Recomendamos el uso de [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los Trinkets siguientes:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Punto de partida de 'Arte Moderno' - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-También hay un Trinket que contiene una solución de muestra a los desafíos:
+También hay un Trinket que contiene una solución de muestra de los desafíos:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Arte Moderno' terminado - rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Recursos sin conexión
 
@@ -43,15 +43,15 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 (Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-## Objetivos del Aprendizaje
+## Objetivos de Aprendizaje
 
 * Funciones;
 
-Este proyecto incluye elementos de los siguientes aspectos del [currículo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Creación Digital de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Combinar estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Retos
+## Desafíos
 
 * Arte con tortugas: define una nueva función para completar el generador de arte con tortugas.
 * Más arte moderno: crea una nueva función que llame a otras funciones para generar arte moderno.
@@ -65,19 +65,14 @@ Este proyecto incluye elementos de los siguientes aspectos del [currículo de di
 
 ## \--- collapse \---
 
-## title: materiales del proyecto
+## title: Materiales del proyecto
 
 ## Recursos del proyecto
 
-* [archivo .zip que contiene todos los recursos del proyecto](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Trinket en línea que contiene los recursos iniciales de 'Arte moderno'](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## Recursos para el líder del club
 
-* [archivo .zip que contiene todos los recursos del proyecto](resources/modern-art-volunteer-resources.zip)
-* [Proyecto Trinket completado en línea](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
