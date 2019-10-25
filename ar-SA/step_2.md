@@ -1,64 +1,64 @@
-## Random colours
+## ألوان عشوائية
 
 + افتح مشروع trinket هذا: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ يمكنك ضبط لون السلحفاة من خلال تحديد مقدار اللون الأحمر والأخضر والأزرق الذي تريده من 0 إلى 255.
     
-    Add the following code to get a purple turtle:
+    أضف الكود التالي للحصول على سلحفاة أرجوانية:
     
     ![لقطة الشاشة](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    يتكون الأرجواني عن طريق خلط الأحمر والأزرق معا.
 
 \--- collapse \---
 
 * * *
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## العنوان: "خطأ - تسلسل لون غير صحيح: (150 ، 0 ، 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+هل حصلت على الخطأ `تتابع اللون السيئ: (150 ، 0 ، 150)` عند تشغيل الكود.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+وذلك لأن حلية يستخدم وضع لون مختلف لمحرري بيثون الآخرين. ويمكن أن تكون ثابتة عن طريق تغيير `colormode` إلى `255`.
 
 ```python
-from turtle import *
+من السلاحف استيراد *
 
-colormode(255)
+colormode (255)
 
-shape("turtle")
-color(150,0,150)
+شكل ( "سلحفاة")
+اللون (150،0،150)
 ```
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ جرب بعض الأرقام المختلفة للحصول على ألوان مختلفة.
     
-    Remember each number can be from 0 to 255.
+    تذكر أن كل رقم يمكن أن يكون من 0 إلى 255.
 
-+ How about choosing a random colour?
++ ماذا عن اختيار لون عشوائي؟
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    قم بتحديث الكود الخاص بك لاختيار رقم عشوائي بين 0 و 255 للقيم الحمراء والخضراء والزرقاء:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![لقطة الشاشة](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ انقر فوق "تشغيل" عدة مرات للحصول على السلاحف الملونة المختلفة.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ إنه أمر ممتع ، لكن يجب تذكره وكتابته في كل مرة تريد فيها تعيين سلحفاة بلون عشوائي وليس من السهل قراءتها.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    في Python ، يمكننا كتابة `def` لتحديد وظيفة يمكننا الاتصال بها كلما احتجنا إلى تعيين السلحفاة على لون عشوائي.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    لقد قمت باستدعاء وظائف بالفعل ، `اللون ()` و `randint ()` هي وظائف تم تحديدها لك.
     
-    Let’s put the random colour code into a function using def:
+    دعونا نضع رمز اللون العشوائي في وظيفة باستخدام def:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![لقطة الشاشة](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    تأكد من المسافة البادئة للرمز داخل الوظيفة. توضع الوظائف عادةً في الجزء العلوي من البرنامج النصي بعد الاستيراد.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ إذا قمت "بتشغيل" الكود الآن ، فلن تحصل على سلحفاة ملونة عشوائية. ذلك لأنك حددت وظيفتك ، لكنك لم تسميها بعد.
 
-+ Add a line to call your new function:
++ أضف خطًا للاتصال بوظيفتك الجديدة:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![لقطة الشاشة](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    لاحظ أن الشفرة الجديدة أسهل بكثير في فهمها لأن الجزء المعقد في الوظيفة. من السهل معرفة ما يفعله `randomcolour ()`.
