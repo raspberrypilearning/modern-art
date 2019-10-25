@@ -24,11 +24,11 @@ Dieses Projekt zeigt die Verwendung von Funktionen durch einen farbenfrohen Gene
 
 **Dieses Projekt verwendet Python 3.** Wir empfehlen die Verwendung von [trinket](https://trinket.io/), um Python-Programme online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' Einstieg -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Modern Art' komplett -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline-Ressourcen
 
@@ -51,9 +51,9 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 
 * [Kombiniere zur Problemlösung verschiedene Programmierkonstrukte.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Aufgaben
+## Herausforderungen
 
-* Turtle Art - Definiere eine neue Funktion, um den Turtle Art Generator zu vervollständigen.
+* Turtle Art - Definiere eine neue Funktion, um den Turtle Art (Schildkröten-Kunst) Generator zu vervollständigen.
 * Mehr moderne Kunst - schaffe eine neue Funktion, die andere Funktionen aufruft um moderne Kunst zu erzeugen.
 
 ## Häufig gestellte Fragen
@@ -69,15 +69,10 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 
 ## Projektressourcen
 
-* [.zip-Datei, die alle Projektressourcen enthält](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket mit allen Ressourcen des 'Modern Art'-Projekts](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/modern-art-volunteer-resources.zip)
-* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
