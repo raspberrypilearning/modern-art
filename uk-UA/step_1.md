@@ -69,15 +69,10 @@
 
 ## Проектні ресурси
 
-* [.zip файли, що містять всі проектні ресурси](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Інтернет-брелок із ресурсами для початківців "Сучасне мистецтво"](http://jumpto.cc/modern-go)
-* [сучасний мистецтво / modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art / snippets.py](resources/modern-art-snippets.py)
 
 ## Ресурси керівника клубу
 
-* [.zip-файл, що містить всі ресурси завершеного проекту](resources/modern-art-volunteer-resources.zip)
-* [Завершений "Трінкет" проект](https://trinket.io/python/47bbc2fc2b)
-* [сучасний-арт-закінчений / modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\---collapse\---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
