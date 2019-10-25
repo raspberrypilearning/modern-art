@@ -69,15 +69,10 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création
 
 ## Ressources du projet
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Trinket Online contenant des ressources de départ 'Art Moderne'](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## Ressources pour le responsable de club
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/modern-art-volunteer-resources.zip)
-* [Trinket Python en-ligne complet](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
