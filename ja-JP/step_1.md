@@ -69,15 +69,10 @@
 
 ## プロジェクト資料
 
-* [全プロジェクト・リソースの入った.zipファイル](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [「モダンアート」プロジェクト・リソースの入ったのオンラインtrinket](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## クラブ・リーダー向けリソース
 
-* [全プロジェクトの完成版リソースの入った.zipファイル](resources/modern-art-volunteer-resources.zip)
-* [完成版プロジェクトのオンラインtrinket](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
