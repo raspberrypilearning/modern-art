@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Turtle art
+## التحدي: رسومات السلحفاة
 
-Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
+هل يمكنك تحديد دالة `randomheading ()` التي تجعل نقطة السلحفاة في اتجاه عشوائي وتجعل الكود التالي يعمل؟
 
 ![لقطة شاشة](images/modern-turtle-art.png)
 
-Hints:
+تلميح:
 
-- `setheading(<number>)` will change the direction the turtle is facing in.
+- `setheading (<number>)` سيغير الاتجاه الذي تواجهه السلحفاة.
 
-- `<number>` should be between 1 and 360 (the number of degrees in a circle)
+- يجب أن تكون `<number>` بين 1 و 360 (عدد الدرجات في دائرة)
 
-- You can use `randint(1, 360)` to choose a number between 1 and 360.
+- يمكنك استخدام `randint (1، 360)` لاختيار رقم يتراوح بين 1 و 360.
 
 \--- challenge/ \---
