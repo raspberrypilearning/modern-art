@@ -1,19 +1,19 @@
-## Random place
+## مكان عشوائي
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+لنقم بإنشاء وظيفة أخرى لنقل السلاحف إلى مكان عشوائي على الشاشة. مركز الشاشة هو (0،0) لذلك سنضع السلاحف في منطقة مربعة حول المركز.
 
-+ Add a `randomplace()` function:
++ أضف `عشوائيًا () وظيفة`:
     
     ![لقطة الشاشة](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ جرب وظيفتك الجديدة عن طريق الاتصال بها ثم استدعاء `stamp ()`، يمكنك الاتصال بها أكثر من مرة:
     
     ![لقطة الشاشة](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ عفوًا ، ترسم السلاحف عندما تتحرك. دعنا نضع القلم لأعلى في البداية وإلى الأسفل في النهاية حتى لا ترسم السلاحف أثناء تحركها:
     
     ![لقطة الشاشة](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    هل لاحظت أنه كان عليك فقط "إصلاح" الكود في مكان واحد؟ هذا شيء جيد آخر عن الوظائف.
 
-+ Now test your code a few times.
++ الآن اختبار التعليمات البرمجية الخاصة بك عدة مرات.
