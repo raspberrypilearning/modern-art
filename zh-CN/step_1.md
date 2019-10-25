@@ -69,15 +69,10 @@
 
 ## 项目资源
 
-* [包含所有项目资源的.zip压缩包](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [包含“现代艺术”资源的在线 Trinket](http://jumpto.cc/modern-go)
-* [modern-art/modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art/snippets.py](resources/modern-art-snippets.py)
 
 ## 俱乐部导师资源
 
-* [包含所有完整版项目资源的.zip压缩包](resources/modern-art-volunteer-resources.zip)
-* [在线完整版Trinket项目](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished/modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
