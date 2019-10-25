@@ -69,15 +69,10 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do projeto
 
-* [Arquivo .zip contendo todos os recursos do projeto](resources/modern-art-project-resources.zip)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket contendo recursos iniciais de 'Arte Moderna'](http://jumpto.cc/modern-go)
-* [modern-art / modern-art.py](resources/modern-art-modern-art.py)
-* [modern-art / snippets.py](resources/modern-art-snippets.py)
 
 ## Recursos para o Líder do Clube
 
-* [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/modern-art-volunteer-resources.zip)
-* [Projeto Trinket concluído online](https://trinket.io/python/47bbc2fc2b)
-* [modern-art-finished / modern-art.py](resources/modern-art-finished-modern-art.py)
-
-\--- /collapse \---
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
