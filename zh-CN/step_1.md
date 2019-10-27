@@ -1,4 +1,4 @@
-## 介绍
+## 简介
 
 在这个项目中，你将创建电脑合成的现代艺术。 你将使用函数来编写可重复多次使用的代码。
 
@@ -14,7 +14,7 @@
 
 ## \--- collapse \---
 
-## title: 俱乐部导师说明
+## title: 俱乐部导师笔记
 
 ## 介绍：
 
@@ -24,7 +24,7 @@
 
 **本项目使用Python 3。**我们建议使用[ trinket](https://trinket.io/)在线编写Python代码。 这个项目包含如下Trinket代码:
 
-* [“现代艺术”开始 -- trinket.io/python/9339862606](http://jumpto.cc/modern-go)
+* [“现代艺术”的起点 -- tjumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 以下的trinket代码包含挑战的示范解决方案：
 
@@ -32,7 +32,7 @@
 
 ## 离线资源
 
-如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
+如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以通过点击“项目资料”链接访问该项目的资源。 链接里包含了 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
@@ -69,10 +69,10 @@
 
 ## 项目资源
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip文件，其中包含所有项目资源](http://rpf.io/p/en/modern-art-go) {:target =“ _ blank”}
 * [包含“现代艺术”资源的在线 Trinket](http://jumpto.cc/modern-go)
 
 ## 俱乐部导师资源
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip文件，其中包含所有项目资源](http://rpf.io/p/en/modern-art-get) {:target =“ _ blank”}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
