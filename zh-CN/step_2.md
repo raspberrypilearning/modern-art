@@ -31,17 +31,17 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ 尝试一些不同的数字以获得不同的颜色。
     
-    Remember each number can be from 0 to 255.
+    请记住，每个数字只能在0到255之间。
 
-+ How about choosing a random colour?
++ 如何选择随机颜色？
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    更新代码，为红色，绿色和蓝色值选择一个介于0到255之间的随机数：
     
     ![screenshot](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ 多次单击“Run”以获取不同颜色的乌龟。
 
 + That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
