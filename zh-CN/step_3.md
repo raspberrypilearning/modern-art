@@ -1,4 +1,4 @@
-## Random place
+## 随机位置
 
 Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
 
