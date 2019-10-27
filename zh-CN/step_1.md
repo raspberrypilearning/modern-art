@@ -75,4 +75,4 @@
 ## 俱乐部导师资源
 
 * [.zip文件，其中包含所有项目资源](http://rpf.io/p/en/modern-art-get) {:target =“ _ blank”}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [在线完整版Trinket项目](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
