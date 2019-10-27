@@ -6,7 +6,7 @@
     
     添加以下代码来获得一只紫色海龟：
     
-    ![screenshot](images/modern-purple.png)
+    ![截图](images/modern-purple.png)
     
     紫色是通过混合红色和蓝色而得到的。
 
@@ -39,7 +39,7 @@ color(150,0,150)
     
     更新代码，为红色，绿色和蓝色值选择一个介于0到255之间的随机数：
     
-    ![screenshot](images/modern-random-colour.png)
+    ![截图](images/modern-random-colour.png)
 
 + 多次单击“Run”以获取不同颜色的乌龟。
 
@@ -51,14 +51,14 @@ color(150,0,150)
     
     让我们把随机颜色的代码放入 def 定义的函数中：
     
-    ![screenshot](images/modern-colour-function.png)
+    ![截图](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    请确保您在函数内缩进代码。 函数通常放在导入脚本后的顶部。
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ 如果你现在“Run”你的代码却没有得到一个随机颜色的海龟。 那是因为你定义了函数，但尚未调用它。
 
-+ Add a line to call your new function:
++ 添加一行代码以调用新函数：
     
-    ![screenshot](images/modern-call-colour.png)
+    ![截图](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    注意，新代码更容易理解，因为复杂的部分都在函数。 很容易理解` randomcolour() `做了什么。
