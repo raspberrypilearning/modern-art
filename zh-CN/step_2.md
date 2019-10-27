@@ -43,13 +43,13 @@ color(150,0,150)
 
 + 多次单击“Run”以获取不同颜色的乌龟。
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ 这很有趣，但你每次想要为一只海龟设置随机颜色时，都要记住这段代码并重新输入，而且这样不便于阅读。
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    在 Python 中，可以用 `def`来定义一个随机设置海龟颜色的函数，以便我们随时调用。
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    您已经调用过函数，` color() `和` randint() `就是已为您定义好功能的函数。
     
-    Let’s put the random colour code into a function using def:
+    让我们把随机颜色的代码放入 def 定义的函数中：
     
     ![screenshot](images/modern-colour-function.png)
     
