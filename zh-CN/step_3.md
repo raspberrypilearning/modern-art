@@ -4,16 +4,16 @@
 
 + 添加`randomplace()`函数：
     
-    ![screenshot](images/modern-place-function.png)
+    ![截图](images/modern-place-function.png)
 
 + 通过调用来尝试你的新函数，然后调用 `stamp()`，你可以多次调用它：
     
-    ![screenshot](images/modern-call-place.png)
+    ![截图](images/modern-call-place.png)
 
 + 糟糕，海龟移动时也会绘制。 让我们在开始时拿起笔，在结束时放下笔，这样乌龟在移动时就不会绘制：
     
-    ![screenshot](images/modern-place-pen.png)
+    ![截图](images/modern-place-pen.png)
     
-    你注意到了吗，只需要在一个地方修复代码？ That's another good thing about functions.
+    你注意到了吗，只需要在一个地方修复代码？ 这就是函数的另一个好处。
 
-+ Now test your code a few times.
++ 现在多测试几次你的代码。
