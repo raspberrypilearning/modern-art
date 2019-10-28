@@ -1,7 +1,7 @@
 #!/bin/python3
 
-# Code to draw a random-sized rectangle
-  hideturtle()
+# رمز لرسم مستطيل عشوائي الحجم
+  اخفاء السلحفاة ()
   length = randint(10, 100)
   height = randint(10, 100)
   begin_fill()
