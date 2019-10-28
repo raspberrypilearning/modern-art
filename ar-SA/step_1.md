@@ -18,7 +18,7 @@
 
 ## مقدمة:
 
-يقدم هذا المشروع وظائف من خلال مولد فني ملون حديث. تستخدم الوظائف لتعبئة رمز رسومات السلاحف المفيدة والتي يمكن استخدامها بسهولة لإنشاء فن غير تقليدي.
+يقدم هذا المشروع وظائف من خلال مولد فني حديث ملون. تستخدم الوظائف لتعبئة رمز رسومات السلاحف المفيدة والتي يمكن استخدامها بسهولة لإنشاء فن غير تقليدي.
 
 ## الموارد المتوفرة على الإنترنت
 
@@ -28,7 +28,7 @@
 
 كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
 
-* ["الفن الحديث" انتهى - rpf.io/modern- الانتهاء](https://rpf.io/modern-finished)
+* ["الفن الحديث" انتهى-- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
@@ -53,7 +53,7 @@
 
 ## التحديات
 
-* سلحفاة الفن - تحديد وظيفة جديدة لإكمال مولد الفن السلاحف.
+* سلحفاة الفن - تحديد وظيفة جديدة لإكمال مولد السلاحف الفنية.
 * فن أكثر حداثة - قم بإنشاء وظيفة جديدة تستدعي وظائف أخرى لتوليد فن حديث.
 
 ## الأسئلة الشائعة
@@ -69,10 +69,10 @@
 
 ## موارد المشروع
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* [حلية على الإنترنت تحتوي على موارد بداية "الفن الحديث"](http://jumpto.cc/modern-go)
+* [. ملف مضغوط يحتوي على جميع موارد المشروع resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [Trinket على الإنترنت تحتوي على موارد بداية "الفن الحديث"](http://jumpto.cc/modern-go)
 
 ## موارد قادة النادي
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [. ملف مضغوط يحتوي على جميع موارد المشروع resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [مشروع Trinket مكتمل على الانترنت](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
