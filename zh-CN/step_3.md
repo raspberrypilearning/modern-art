@@ -1,6 +1,6 @@
 ## 随机位置
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+让我们创建另一个函数，将海龟移动到屏幕上的随机位置。 The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
 
 + Add a `randomplace()` function:
     
