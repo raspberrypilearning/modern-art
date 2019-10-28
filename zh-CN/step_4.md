@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Turtle art
+## 挑战：海龟艺术
 
-Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
+你可以定义一个`randomheading()`函数，使海龟朝向一个随机方向，并让以下代码也工作吗？
 
-![screenshot](images/modern-turtle-art.png)
+![截图](images/modern-turtle-art.png)
 
-Hints:
+提示：
 
-- `setheading(<number>)` will change the direction the turtle is facing in.
+- ` setheading(<number>)`改变乌龟面对的方向。
 
-- `<number>` should be between 1 and 360 (the number of degrees in a circle)
+- `<number>`应该在1到360之间（圆的度数）
 
-- You can use `randint(1, 360)` to choose a number between 1 and 360.
+- 你可以使用`randint(1，360)`在1到360之间选择一个数。
 
 \--- /challenge \---
