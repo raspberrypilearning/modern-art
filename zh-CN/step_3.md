@@ -10,10 +10,10 @@
     
     ![screenshot](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ 糟糕，海龟移动时也会绘制。 让我们在开始时拿起笔，在结束时放下笔，这样乌龟在移动时就不会绘制：
     
     ![screenshot](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    你注意到了吗，只需要在一个地方修复代码？ That's another good thing about functions.
 
 + Now test your code a few times.
