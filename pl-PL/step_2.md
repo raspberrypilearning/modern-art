@@ -1,7 +1,5 @@
 ## Losowe kolory
 
-
-
 + Otwórz ten szablon: <a href="https://trinket.io/python/c56f0fa287" target="_blank">trinket.io/python/c56f0fa287</a>.
 
 + Możesz ustawić kolor żółwia mówiąc, ile chcesz czerwonego, zielonego i niebieskiego od 0 do 255.
@@ -13,12 +11,11 @@
     Fioletowy powstaje przez zmieszanie czerwonego i niebieskiego.
 
 --- collapse ---
-
 ---
-title: „Błąd - niewłaściwa sekwencja kolorów: (150, 0, 150)”
+title: „Error - bad color sequence: (150, 0, 150)”
 ---
 
-Czy pojawia się błąd `niewłaściwa sekwencja kolorów: (150, 0, 150)` podczas uruchamiania kodu.
+Czy pojawia się błąd `bad color sequence: (150, 0, 150)` podczas uruchamiania kodu.
 
 Jest tak, ponieważ edytor trinket używa innego trybu kolorów niż inne edytory Python. Można to naprawić, zmieniając `colormode` na `255`.
 
@@ -55,7 +52,7 @@ color(150,0,150)
     
     ![zrzut ekranu](images/modern-colour-function.png)
     
- Upewnij się, że wpisałeś ten kod wewnątrz funkcji. Funkcje są zwykle umieszczane u góry skryptu po imporcie.
+    Upewnij się, że wpisałeś ten kod wewnątrz funkcji. Funkcje są zwykle umieszczane u góry skryptu po imporcie.
 
 + Jeśli teraz uruchomisz swój kod wciskając "Run", nie otrzymasz żółwia o losowych kolorach. To dlatego, że zdefiniowałeś swoją funkcję, ale jeszcze jej nie wywołałeś.
 
