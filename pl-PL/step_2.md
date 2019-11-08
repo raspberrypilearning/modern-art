@@ -1,6 +1,6 @@
 ## Losowe kolory
 
-+ Otwórz ten trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Otwórz ten szablon: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
 + Możesz ustawić kolor żółwia mówiąc, ile chcesz czerwonego, zielonego i niebieskiego od 0 do 255.
     
@@ -14,11 +14,11 @@
 
 * * *
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## tytuł: „Błąd - niewłaściwa sekwencja kolorów: (150, 0, 150)”
 
-Pojawia się błąd `bad color sequence: (150, 0, 150)` podczas uruchamiania kodu?
+Czy pojawia się błąd `niewłaściwa sekwencja kolorów: (150, 0, 150)` podczas uruchamiania kodu.
 
-Jest tak, ponieważ trinket używa innego trybu kolorów niż inne edytory Python. Można to naprawić, zmieniając `colormode` na `255`.
+Jest tak, ponieważ edytor trinket używa innego trybu kolorów niż inne edytory Python. Można to naprawić, zmieniając `colormode` na `255`.
 
 ```python
 from turtle import *
