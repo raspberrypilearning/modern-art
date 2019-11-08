@@ -52,7 +52,7 @@ color(150,0,150)
     
     ![zrzut ekranu](images/modern-colour-function.png)
     
-    Upewnij się, że wpisałeś ten kod wewnątrz funkcji. Funkcje są zwykle umieszczane u góry skryptu po imporcie.
+ Upewnij się, że wpisałeś ten kod wewnątrz funkcji. Funkcje są zwykle umieszczane u góry skryptu po imporcie.
 
 + Jeśli teraz uruchomisz swój kod wciskając "Run", nie otrzymasz żółwia o losowych kolorach. To dlatego, że zdefiniowałeś swoją funkcję, ale jeszcze jej nie wywołałeś.
 
