@@ -9,12 +9,11 @@ Dodaj następujący kod, aby uzyskać fioletowego żółwia:
 ![zrzut ekranu](images/modern-purple.png)
     
 Fioletowy powstaje przez zmieszanie czerwonego i niebieskiego.
-
 --- collapse ---
----
-title: „Error - bad color sequence: (150, 0, 150)”
----
 
+---
+title: "Error - bad color sequence: (150, 0, 150)"
+---
 Czy pojawia się błąd `bad color sequence: (150, 0, 150)` podczas uruchamiania kodu.
 
 Jest tak, ponieważ edytor trinket używa innego trybu kolorów niż inne edytory Python. Można to naprawić, zmieniając `colormode` na `255`.
