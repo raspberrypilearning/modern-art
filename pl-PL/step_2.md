@@ -1,5 +1,7 @@
 ## Losowe kolory
 
+
+
 + Otwórz ten szablon: <a href="https://trinket.io/python/c56f0fa287" target="_blank">trinket.io/python/c56f0fa287</a>.
 
 + Możesz ustawić kolor żółwia mówiąc, ile chcesz czerwonego, zielonego i niebieskiego od 0 do 255.
@@ -11,6 +13,7 @@
     Fioletowy powstaje przez zmieszanie czerwonego i niebieskiego.
 
 --- collapse ---
+
 ---
 title: „Błąd - niewłaściwa sekwencja kolorów: (150, 0, 150)”
 ---
