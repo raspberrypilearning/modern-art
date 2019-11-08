@@ -8,7 +8,7 @@ Możesz wywoływać swoją funkcję z wnętrza pętli `for` tak jak to było w s
 
 Pomysły:
 
-- Żółwie mają funkcję zwaną dot, która przyjmuje promień (odległość od środka do krawędzi koła) jako wejście. Np. turtle.dot(10) Możesz utworzyć funkcję `rysujkolo()` która rysuje okrąg o losowym promieniu.
+- Żółwie mają funkcję zwaną dot, która przyjmuje promień (odległość od środka do krawędzi koła) jako argument. Np. turtle.dot(10) Możesz utworzyć funkcję `rysujkolo()` która rysuje okrąg o losowym promieniu.
     
     ![zrzut ekranu](images/modern-circles.png)
 
