@@ -11,6 +11,7 @@
     Fioletowy powstaje przez zmieszanie czerwonego i niebieskiego.
 
 --- collapse ---
+
 ---
 title: „Error - bad color sequence: (150, 0, 150)”
 ---
