@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## 挑战：更多现代艺术
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+你是否可以创建一个函数用来绘制形状，并且调用`randomcolour()`和/或`randomplace()`这些函数？
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+你可以在一个`for`循环内调用你的函数，就像在矩形艺术中所做的那样生成现代艺术。
 
-Ideas:
+创意：
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- Turtles有一个叫dot的函数，该函数以半径（从圆心到圆边缘的距离）作为输入。 例如turtle.dot(10)。你可以创建一个`drawcircle()`函数绘制半径随机的圆。
     
-    ![screenshot](images/modern-circles.png)
+    ![截图](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- 查看`snippets.py`中的示例代码用turtle画星星。
     
-    ![screenshot](images/modern-stars.png)
+    ![截图](images/modern-stars.png)
 
 \--- /challenge \---
