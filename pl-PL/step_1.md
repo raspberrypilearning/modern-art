@@ -58,8 +58,8 @@ Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital
 
 ## Najczęściej Zadawane Pytania
 
-* Aby uniknąć czekania na uruchomienie wcześniejszego kodu podczas dodawania do projektu, dzieci mogą komentować kod za pomocą "#" na początku linii.
-* Jeśli chcesz, aby cały ich kod działał, możesz wyczyścić ekran za pomocą `clear()`. 
+* Aby uniknąć czekania na uruchomienie wcześniejszego kodu podczas dodawania do projektu, dzieci mogą skomentować kod za pomocą "#" na początku linii.
+* Jeśli chcesz, aby cały kod działał, możesz wyczyścić ekran za pomocą `clear()`. 
 
 \--- /collapse \---
 
@@ -69,10 +69,10 @@ Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital
 
 ## Zasoby projektu
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* [Szablon Online zawierający zasoby startowe "Modern Art"](http://jumpto.cc/modern-go)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [Szablon Online zawierający zasoby startowe „Sztuka nowoczesna”](http://jumpto.cc/modern-go)
 
 ## Zasoby dla lidera klubu
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Plik .zip zawierający zasoby z ukończonym projektem](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Trinket zawierający ukończony projekt](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
