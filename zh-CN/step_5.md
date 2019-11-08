@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## 创建矩形现代艺术
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+现在让我们通过绘制大量不同大小和颜色的矩形来创建一些现代艺术。
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ 首先，在你的挑战代码后面，将以下代码添加到脚本底部，以清除绘制海龟艺术后的屏幕，并将乌龟指向其惯例的方向：
     
-    ![screenshot](images/modern-reset.png)
+    ![截图](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ 你可以在每一行开头用`#`注释海龟艺术的代码，这样在创作矩形艺术的时候它就可以不运行了。 (之后可以稍后取消注释来展示您所有的作品。)
     
-    ![screenshot](images/modern-comment.png)
+    ![截图](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ 现在，让我们添加一个函数，以便在随机的位置绘制一个大小随机，颜色随机的矩形！
     
-    Add a `drawrectangle()` function after your other functions:
+    在其他函数后添加一个 `drawrectangle()` 函数：
     
-    ![screenshot](images/modern-rect-function.png)
+    ![截图](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    如果你想节省一些输入时间，可以在`snipets.py`中寻找一些帮助代码。
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ 在`main.py`的底部添加以下代码来调用你的新函数：
     
-    ![screenshot](images/modern-call-rect.png)
+    ![截图](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    多次运行你的脚本，看看高度和宽度的变化。
 
-+ The rectangle is always the same colour and starts at the same location.
++ 矩形总是同一颜色，并从同一位置开始。
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    现在你需要为海龟随机设置一个颜色，然后移动到随机位置。 嘿，你不是已经创建了函数来做这些吗？ 太棒了。 你只需要从drawrectangle函数开始处调用它们：
     
-    ![screenshot](images/modern-random-rect.png)
+    ![截图](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    哇，工作量少了很多，而且阅读起来也容易得多。
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ 现在让我们在一个循环中调用 `drawrectangle()` 来创建一些很酷的现代艺术：
     
-    ![screenshot](images/modern-rect-art.png)
+    ![截图](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ 天哪，那不是有点慢吗！ 幸运的是，你可以加快海龟的速度。
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    找到将形状设置为“ turtle”的代码行，并添加高亮的代码：
     
-    ![screenshot](images/modern-speed.png)
+    ![截图](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0) `是最快的，或者您可以使用1（慢）到10（快速）之间的数字进行实验，直到找到所需的速度为止。
