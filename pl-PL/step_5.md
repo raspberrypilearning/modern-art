@@ -1,4 +1,4 @@
-## Twórz prostokąt sztuki nowoczesnej
+## Utwórz prostokąt sztuki nowoczesnej
 
 Teraz stwórzmy sztukę nowoczesną, rysując wiele prostokątów o różnych rozmiarach i kolorach.
 
@@ -30,7 +30,7 @@ Teraz stwórzmy sztukę nowoczesną, rysując wiele prostokątów o różnych ro
     
     ![zrzut ekranu](images/modern-random-rect.png)
     
-    Wow to było o wiele mniej pracy i dużo łatwiej było ją odczytać.
+    Wow, to było o wiele mniej pracy i jest o wiele łatwiejsze do odczytania.
 
 + Teraz wywołajmy `rysujprostokat()` w pętli, aby stworzyć fajną sztukę nowoczesną:
     
