@@ -8,7 +8,7 @@
 
 创意：
 
-- Turtles有一个叫dot的函数，该函数以半径（从圆心到圆边缘的距离）作为输入。 例如turtle.dot(10)。你可以创建一个`drawcircle()`函数绘制半径随机的圆。
+- Turtles库有一个叫dot的函数，该函数以半径（从圆心到圆边缘的距离）作为输入。 例如turtle.dot(10)。你可以创建一个`drawcircle()`函数绘制半径随机的圆。
     
     ![截图](images/modern-circles.png)
 
