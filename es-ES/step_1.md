@@ -78,3 +78,5 @@ title: Materiales del proyecto
 
 * [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/es-ES/modern-art-get){:target="_blank"}
 * [El proyecto de trinket completo en línea](https://trinket.io/python/0e8336ecd0)
+
+--- /collapse ---
