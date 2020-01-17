@@ -24,11 +24,11 @@ Questo progetto introduce le funzioni attraverso un generatore di arte moderna c
 
 **Questo progetto utilizza Python 3.** Consigliamo di utilizzare [Trinket](https://trinket.io/) per scrivere in linguaggio Python online. Questo progetto contiene i seguenti Trinket:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Arte Moderna' punto d'inizio - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 È disponibile anche un file trinket con esempi di soluzioni alle sfide proposte:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Arte Moderna' completato - jumpto.cc/modern-finished](https://rpf.io/modern-finished)
 
 ## Risorse offline
 
@@ -69,10 +69,10 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 
 ## Risorse del progetto
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [File .zip contenente tutte le risorse del progetto ](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Trinket online contenente le risorse iniziali di "Arte moderna"](http://jumpto.cc/modern-go)
 
 ## Risorse per gli organizzatori del club
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [File .zip contenente tutte le risorse del progetto ](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Progetto online completo su Trinket](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
