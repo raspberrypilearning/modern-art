@@ -2,11 +2,11 @@
 
 Vamos a crear otra función para mover la tortuga a un lugar aleatorio de la pantalla. El centro de la pantalla es (0,0) así que colocaremos las tortugas en un área cuadrada alrededor del centro.
 
-+ Añade la función `randomplace()` (lugar aleatorio):
++ Añade la función `lugar_aleatorio()`:
     
     ![captura de pantalla](images/modern-place-function.png)
 
-+ Prueba tu nueva función llamándola y luego llamando `stamp()`, puedes llamarla más de una vez:
++ Prueba tu nueva función llamándola y luego llamando a la función `stamp()`, puedes invocarlas más de una vez:
     
     ![captura de pantalla](images/modern-call-place.png)
 
