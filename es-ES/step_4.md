@@ -1,18 +1,17 @@
 --- challenge ---
-## Reto: Arte de tortuga 
-¿Puedes definir una función `randomheading()` que haga que la tortuga apunte en una dirección aleatoria y lograr que el siguiente código funcione?
 
-![screenshot](images/modern-turtle-art.png)
+## Desafío: Arte con tortugas
 
-Sugerencias:
+¿Puedes definir una función `rumbo_aleatorio()` que haga que la tortuga apunte en una dirección aleatoria y hacer que el siguiente código funcione?
 
-- `setheading(<number>)` cambiará la dirección de la tortuga.
+![captura de pantalla](images/modern-turtle-art.png)
 
-- `<number>` debe encontrarse entre 1 y 360 (los grados de un círculo)
+Pistas:
 
-- Puedes usar `randint(1, 360)` para seleccionar un número entre 1 y 360.
+- `setheading(<number>)` cambiará la dirección a la que apunta la tortuga.
 
+- `<number>` debe ser un número entre 1 y 360 (el número de grados de un círculo)
 
-
+- Puedes usar `randint(1, 360)` para elegir un número entre 1 y 360.
 
 --- /challenge ---

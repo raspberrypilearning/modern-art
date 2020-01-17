@@ -1,22 +1,19 @@
 ## Lugar aleatorio
 
-Creemos otra función que mueva la tortuga a un lugar aleatorio de la pantalla. El centro de la pantalla es (0,0), por lo que colocaremos a las tortugas en un cuadrado alrededor del centro. 
+Vamos a crear otra función para mover la tortuga a un lugar aleatorio de la pantalla. El centro de la pantalla es (0,0) así que colocaremos las tortugas en un área cuadrada alrededor del centro.
 
-+ Añade una función `randomplace()`:
-
-    ![screenshot](images/modern-place-function.png)
++ Añade la función `lugar_aleatorio()`:
     
-+ Prueba tu nueva función recuperándola y recuperando `stamp()`; puedes recuperarla más de una vez:
+    ![captura de pantalla](images/modern-place-function.png)
 
-    ![screenshot](images/modern-call-place.png)
-
-+ ¡Ohhh!, la tortuga dibuja mientras se mueve. Subamos el lápiz al principio y al final de modo que la tortuga no dibuje mientras se mueve: 
-
-    ![screenshot](images/modern-place-pen.png)
++ Prueba tu nueva función llamándola y luego llamando a la función `stamp()`, puedes invocarlas más de una vez:
     
-    ¿Has notado que solamente tienes que arreglar el código en un solo lugar? Esta es otra de las ventajas de las funciones. 
+    ![captura de pantalla](images/modern-call-place.png)
 
-+ Ahora prueba tu código varias veces.
++ ¡Fíjate! La tortuga dibuja una línea cuando se mueve. Vamos a levantar el bolígrafo al principio y bajarlo al final para que la tortuga no dibuje la línea mientras se mueve:
+    
+    ![captura de pantalla](images/modern-place-pen.png)
+    
+    ¿Te has dado cuenta de que has tenido que 'arreglar' el código solo en un lugar? Esta es otra cosa buena de las funciones.
 
-
-
++ Ahora prueba tu código unas cuantas veces.

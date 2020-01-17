@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 theme: violet
 duration: 2
@@ -6,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Arte moderno
-description: Codifica tu propio arte moderno generado por ordenador.
+description: Programa tu propio arte moderno generado por ordenador.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
 interests: art
 technologies: python
@@ -15,10 +16,10 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introducción
-- title: Colores aleatorios
-- title: Lugar aleatorio
-- title: 'Reto: Arte de tortuga'
-- title: Crea arte moderno rectangular
-- title: 'Reto: Más arte moderno'
+steps:
+  - title: Introducción
+  - title: Colores aleatorios
+  - title: Lugar aleatorio
+  - title: 'Desafío: Arte con tortugas'
+  - title: Crea arte moderno rectangular
+  - title: 'Desafío: Más arte moderno'
