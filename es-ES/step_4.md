@@ -2,7 +2,7 @@
 
 ## Desafío: Arte con tortugas
 
-¿Puedes definir una función `randomheading()` que haga que la tortuga apunte en una dirección aleatoria y hacer que el siguiente código funcione?
+¿Puedes definir una función `rumbo_aleatorio()` que haga que la tortuga apunte en una dirección aleatoria y hacer que el siguiente código funcione?
 
 ![captura de pantalla](images/modern-turtle-art.png)
 
