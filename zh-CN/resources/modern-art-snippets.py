@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# Code to draw a random-sized rectangle
+# 绘制随机大小矩形的代码
   hideturtle()
   length = randint(10, 100)
   height = randint(10, 100)
@@ -15,7 +15,7 @@
   right(90)
   end_fill()
   
-# Code to draw a star
+# 绘制星星的代码
   begin_fill()
   for side in range(5):
     left(144)
