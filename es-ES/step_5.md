@@ -1,46 +1,45 @@
 ## Crea arte moderno rectangular
 
-Creemos arte moderno dibujando muchos rectángulos de distintos tamaños y colores. 
+Ahora vamos a crear arte moderno dibujando muchos rectángulos de diferentes tamaños y colores.
 
-+ En primer lugar, añade el siguiente código en la parte inferior de tu script, después de tu código reto, para borrar la pantalla y orientar la tortuga en la dirección estándar:
-
-    ![screenshot](images/modern-reset.png)
-
-+ Puedes comentar el código de arte de tortuga colocando una `#` al principio de cada línea de modo que no se ejecute mientras trabajas en el rectángulo. (A continuación, podrás eliminar el comentario para mostrar completamente tu obra de arte).
-
-    ![screenshot](images/modern-comment.png)
- 
-+ ¡Añadamos una función que dibuje un rectángulo de color y tamaño aleatorios en una ubicación aleatoria! 
++ En primer lugar, añade el siguiente código al final de las otras instrucciones, después del código del desafío, para limpiar la pantalla después ejecutar tu "arte con tortugas" y para que la tortuga apunte en su dirección habitual:
     
-    Añade una función `drawrectangle()` después de las otras funciones:
+    ![captura de pantalla](images/modern-reset.png)
 
-    ![screenshot](images/modern-rect-function.png)
++ Puedes comentar el código de "arte con tortugas" colocando un `#` al comienzo de cada línea para que esa línea no se ejecute mientras trabajas en tu "creación de arte rectangular". (Puedes descomentarlo más tarde para mostrar todo tu trabajo).
     
-    Consulta `snippets.py` parar lograr asistencia con los códigos si quieres ahorrar tiempo escribiendo. 
-    
-+ Añade el siguiente código a la parte inferior de `main.py` para recuperar tu nueva función:
+    ![captura de pantalla](images/modern-comment.png)
 
-    ![screenshot](images/modern-call-rect.png)
++ ¡Vamos a añadir una función para dibujar un rectángulo de tamaño aleatorio de color aleatorio y en una ubicación aleatoria!
     
-    Ejecuta tu script un par de veces para ver los cambios de altura y anchura. 
-   
-+ El rectángulo siempre es del mismo color y comienza siempre en la misma ubicación. 
+    Añade la función `dibujar_rectangulo()` después de las funciones que ya has añadido:
+    
+    ![captura de pantalla](images/modern-rect-function.png)
+    
+    Investiga en `snippets.py` para hallar código de ayuda si quieres ahorrarte tiempo tecleando.
 
-    Ahora necesitarás asignar a la tortuga un color aleatorio y moverla a un lugar aleatorio. ¡Un momento!, ¿no has creado ya funciones que lo hagan? Fantástico. Simplemente recupéralas desde el principio de la función 'drawrectangle': 
++ Añade el siguiente código en la parte inferior de `main.py` para llamar a la nueva función:
     
-    ![screenshot](images/modern-random-rect.png)
+    ![captura de pantalla](images/modern-call-rect.png)
     
-    Increíble. ¡Casi no ha costado nada y es mucho más fácil de leer! 
+    Ejecuta tu código varias veces para ver el cambio de altura y anchura.
 
++ El rectángulo siempre tiene el mismo color y se sitúa en la misma ubicación.
     
-+ Ahora, recuperemos `drawrectangle()` en un bucle para crear increíbles obras de arte moderno.
-
-    ![screenshot](images/modern-rect-art.png)
-
-+ Vaya, un poco lento ¿verdad? Afortunadamente puedes hacer que la tortuga vaya más rápido. 
-
-    Encuentra la línea en donde estableciste la forma de la tortuga y añade el código marcado: 
+    Ahora tendrás que definir un color aleatorio para la tortuga y, a continuación, moverla a un lugar aleatorio. Pero... ¿no has creado antes funciones para hacer eso? ¡Genial! Puedes llamarlas desde el comienzo de la función dibujar_rectangulo:
     
-    ![screenshot](images/modern-speed.png)
+    ![captura de pantalla](images/modern-random-rect.png)
     
-    `speed(0)` es la velocidad más rápida; o puedes usar números entre 1 (lento) y 10 (rápido). Experimenta hasta que encuentres la velocidad deseada. 
+    ¡Muy bien! Nos hemos ahorrado trabajo y es mucho más fácil de leer.
+
++ Vamos a llamar a `dibujar_rectangulo()` en un bucle para crear arte moderno alucinante:
+    
+    ![captura de pantalla](images/modern-rect-art.png)
+
++ Caramba, es un poco lento, ¿no? Afortunadamente puedes hacer que la tortuga vaya más rápida.
+    
+    Encuentra la línea donde das forma de tortuga -shape("turtle")- y añade el código resaltado:
+    
+    ![captura de pantalla](images/modern-speed.png)
+    
+    `speed(0)` es la velocidad más rápida. Puedes usar los números del 1 (lento) al 10 (rápido). Haz pruebas hasta encontrar la velocidad que te guste.

@@ -1,59 +1,80 @@
 ## Introducción
 
-En este proyecto crearás arte moderno generado por ordenador. Usarás funciones para escribir un código que podrás usar una y otra vez. 
- 
+En este proyecto crearás arte moderno generado por ordenador. Usarás funciones para escribir código que podrás usar una y otra vez.
+
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/0e8336ecd0?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/modern-finished.png">
 </div>
 
+### Información adicional para líderes de club
+
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/modern-art/print).
 
 --- collapse ---
 ---
-title: Notas para los Líderes de Club
+title: Notas para el líder del club
 ---
 
-
 ## Introducción:
-Este proyecto introduce las funciones a través de un generador de arte moderno colorido. Las funciones se usan para contener códigos de gráficas de tortuga útiles que puedan usarse fácilmente para crear arte increíble. 
+
+Este proyecto introduce las funciones a través de un colorido generador de arte moderno. Las funciones se usan para empaquetar el código de gráficos de la tortuga para que se pueda utilizar fácilmente para crear arte divertido.
 
 ## Recursos en línea
 
-__Este proyecto usa Python 3.__ Recomendamos usar [trinket](https://trinket.io/) para escribir Python online. Este proyecto contiene los siguientes Trinkets:
+**Este proyecto usa Python 3.** Recomendamos el uso de [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los Trinkets siguientes:
 
-+ [Punto de inicio 'Carrera de tortugas' -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Punto de partida de 'Arte Moderno' -- trinket.io/python/b9fe277238](https://trinket.io/python/b9fe277238)
 
-Existe igualmente un trinket con una solución a los retos a modo de ejemplo:
+También hay un Trinket que contiene una solución de muestra de los desafíos:
 
-+ ['Arte moderno' terminado -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
+* ['Arte Moderno' terminado -- trinket.io/python/0e8336ecd0](https://trinket.io/python/0e8336ecd0)
 
-## Recursos offline
-Este proyecto puede completarse igualmente [offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Podrá acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' de este proyecto. Este enlace contiene una sección denominada 'Recursos del proyecto', la cual incluye recursos que los niños necesitarán para completar este proyecto offline. Asegúrese de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+## Recursos sin conexión
 
-+ modern-art/modern-art.py
-+ modern-art/snippets.py
+Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Recursos del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
-Existe igualmente una versión terminada de los retos del proyecto en la sección 'Recursos voluntarios', la cual incluye:
+* modern-art/modern-art.py
+* modern-art/snippets.py
 
-+ modern-art-finished/modern-art.py
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
-(Todos los recursos anteriores pueden descargarse igualmente como archivos de proyecto y archivos voluntarios en formato `.zip`).
+* modern-art-finished/modern-art.py
 
-## Objetivos de aprendizaje
-+ Funciones;
+(Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-Este proyecto cubre elementos de los siguientes hilos del [Programa digital de Raspberry Pi](http://rpf.io/curriculum):
+## Objetivos de Aprendizaje
 
-+ [Combina construcciones de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
+* Funciones;
 
-## Retos
-+ Arte de tortuga - define una nueva función para completar el generador de arte de tortuga.
-+ Más arte moderno - crea una nueva función que recupere otras funciones para generar arte moderno. 
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Creación Digital de Raspberry Pi](http://rpf.io/curriculum):
 
+* [Combinar estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
+
+## Desafíos
+
+* Arte con tortugas: define una nueva función para completar el generador de arte con tortugas.
+* Más arte moderno: crea una nueva función que llame a otras funciones para generar arte moderno.
 
 ## Preguntas frecuentes
-+ Para evitar esperar hasta que el código anterior se ejecute al añadir al proyecto, los niños pueden comentar el código usando una  '#' al principio de una línea. 
-+ Si desean ejecutar todo su código, deberán usar `clear()` para borrar la pantalla.  
+
+* Para evitar tener que esperar a que se ejecute el código anterior cuando se añade nuevo código al proyecto, los niños pueden comentar el código usando '#' al inicio de la línea.
+* Si quieren que todo su código se ejecute, entonces se puede utilizar `clear()` para borrar la pantalla. 
 
 --- /collapse ---
+
+--- collapse ---
+---
+title: Materiales del proyecto
+---
+
+## Recursos del proyecto
+
+* [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/es-ES/modern-art-go){:target="_blank"}
+* [Trinket en línea que contiene los recursos iniciales de 'Arte moderno'](https://trinket.io/python/b9fe277238)
+
+## Recursos para el líder del club
+
+* [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/es-ES/modern-art-get){:target="_blank"}
+* [El proyecto de trinket completo en línea](https://trinket.io/python/0e8336ecd0)

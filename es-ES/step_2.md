@@ -1,43 +1,63 @@
 ## Colores aleatorios
 
-+ Abre este trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>. 
++ Abre este Trinket: <a href="https://trinket.io/python/b9fe277238" target="_blank">trinket.io/python/b9fe277238</a>.
 
-+ Puedes ajustar el color de una tortuga indicando la cantidad de rojo, verde y azul deseada de 0 a 255. 
-
-    Añade el siguiente código para obtener una tortuga púrpura.
-
-    ![screenshot](images/modern-purple.png)
-   
-    El color púrpura se logra mezclando el color rojo y el color azul.
-
-+ Prueba con números distintos para lograr colores diferentes. 
-
-    Recuerda que cada número puede ajustarse entre 0 y 255. 
-
-+ ¿Por qué no intentar seleccionar un color aleatorio?
-
-    Actualiza tu código de modo que seleccione un número aleatorio entre 0 y 255 para los valores del color rojo, verde y azul:
++ Puedes definir el color de la tortuga diciendo cuánto rojo, verde y azul te gustaría que tuviera, del 0 al 255.
     
-    ![screenshot](images/modern-random-colour.png)
-
-+ Haz clic en 'Run' varias veces para obtener tortugas de colores distintos.
-
-+ Divertido, sin embargo, tienes que recordar y escribir demasiadas cosas cada vez que quieras una tortuga de color aleatorio y, además, no resulta fácil de leer. 
-
-    En Python podemos escribir `def` para definir una función que recuperaremos cada vez que queramos crear una tortuga con un color aleatorio. 
-
-    Ya has recuperado funciones anteriormente. `color()` y `randint()` son funciones que ha sido definidas para ti. 
-
-    Apliquemos un código de color aleatorio usando `def`:
-  
-    ![screenshot](images/modern-colour-function.png)
+    Añade el siguiente código para obtener una tortuga violeta:
     
-  Asegúrate de sangrar el código dentro de la función. Las funciones normalmente se encuentran en la parte superior del script después de las importaciones. 
-  
-+ Si ejecutas tu código en estos momentos, no obtendrás una tortuga de color aleatorio. Esto se debe a que has definido la función pero todavía no las has recuperado. 
-  
-+ Añade una línea para recuperar tu nueva función:
-  
-    ![screenshot](images/modern-call-colour.png)
+    ![captura de pantalla](images/modern-purple.png)
+    
+    El violeta se hace mezclando el rojo y el azul.
 
-    Ten en cuenta que tu nuevo código es mucho más fácil de entender porque la parte más compleja es la función. Es muy sencillo averiguar qué es lo que hace `randomcolour()`. 
+--- collapse ---
+---
+title: "Error - bad color sequence: (150, 0, 150)"
+---
+
+¿Te aparece el error `bad color sequence: (150, 0, 150)` cuando ejecutas tu código?.
+
+Esto se debe a que Trinket utiliza un modo de color diferente al de otros editores de Python. Se puede solucionar cambiando el `colormode` (modo de color) a `255`.
+
+```python
+from turtle import *
+
+colormode(255)
+
+shape("turtle")
+color(150,0,150)
+```
+
+--- /collapse ---
+
++ Prueba con números diferentes para obtener diferentes colores.
+    
+    Recuerda que cada número puede ser del 0 al 255.
+
++ ¿Y si elegimos un color aleatorio?
+    
+    Actualiza el código para elegir un número aleatorio entre 0 y 255 para los valores rojo, verde y azul:
+    
+    ![captura de pantalla](images/modern-random-colour.png)
+
++ Haz clic en 'Run' varias veces para obtener tortugas de diferentes colores.
+
++ ¡Qué divertido! Pero es mucho texto para recordar y escribir cada vez que quieres asignarle a la tortuga un color aleatorio, y además no es muy fácil de leer.
+    
+    En Python podemos escribir `def` para definir una función a la que podamos llamar cada vez que necesitemos asignar a la tortuga un color aleatorio.
+    
+    Ya has estado haciendo llamadas a funciones, `color()` y `randint()` son funciones que vienen predefinidas.
+    
+    Vamos a poner en una función el código para el color aleatorio usando def:
+    
+    ![captura de pantalla](images/modern-colour-function.png)
+    
+    Asegúrate de poner una sangría al código dentro de la función. Las funciones generalmente se colocan en la parte superior del código, justo después de los import.
+
++ Si ejecutas el código ahora con 'Run', no obtendrás una tortuga de color aleatorio. Esto se debe a que has definido su función, pero aún no la has llamado.
+
++ Añade una línea para llamar a tu nueva función:
+    
+    ![captura de pantalla](images/modern-call-colour.png)
+    
+    Observa que el nuevo código es mucho más fácil de entender porque la parte compleja se encuentra en la función. Es fácil entender qué hace `color_aleatorio()`.
