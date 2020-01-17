@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Dikdörtgenlerle modern sanat eseri yaratın
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Şimdi farklı boyut ve renklerde çok sayıda dikdörtgen çizerek modern bir sanat eseri yaratalım.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ İlk önce aşağıdaki kodu, kaplumbağa sanatınızdan sonra ekranı temizleyen ve kaplumbağayı her zamanki baktığı yöne alan, meydan okuduğunuz kodlamanın en altına ekleyin:
     
-    ![screenshot](images/modern-reset.png)
+    ![ekran görüntüsü](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Kaplumbağa sanatı kodunuzun her satırının başına `#` işareti ekleyerek onu yorum haline getirebilirsiniz böylece dikdörtgen sanatı üzerinde çalışırken bu şekildeki kodlar çalışmayacak ve işlevsiz hale gelecektir. (Sonrasında bu işaretleri kaldırarak tüm çalışmanızı gösterebilirsiniz.)
     
-    ![screenshot](images/modern-comment.png)
+    ![ekran görüntüsü](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Şimdi rastgele bir yerde, rastgele boyutlu, rastgele renkli dikdörtgen çizmek için bir işlev ekleyelim!
     
-    Add a `drawrectangle()` function after your other functions:
+    Diğer işlevlerinizden sonra bir `drawrectangle()` işlevi ekleyin:
     
-    ![screenshot](images/modern-rect-function.png)
+    ![ekran görüntüsü](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Eğer zamandan tasarruf etmek istiyorsanız bazı yardımcı kodlamalar için `snippets.py` dosyasının içine bakın.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Yeni işlevinizi çağırmak için aşağıdaki kodu `main.py` kod bloğunuzun en sonuna ekleyin:
     
-    ![screenshot](images/modern-call-rect.png)
+    ![ekran görüntüsü](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Yükseklik ve genişlik değişikliğini görmek için komut dosyanızı birkaç kez çalıştırın.
 
-+ The rectangle is always the same colour and starts at the same location.
++ Dikdörtgen her zaman aynı renkte ve aynı yerde başlıyor.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Şimdi kaplumbağayı rastgele bir renge ayarlamanız ve ardından rastgele bir yere taşımanız gerekir. Hey, zaten bunu yapmak için işlevler oluşturmamış mıydın? Harika. Öyleyse bunları sadece dikdörtgen çiz fonkiyonundan önce çağırabilirsin:
     
-    ![screenshot](images/modern-random-rect.png)
+    ![ekran görüntüsü](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Vay canına bu çok daha az iş gerektirdi ve okuması çok daha kolay oldu.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Şimdi `drawrectangle()` işlevini bir döngü içinde çağırarak biraz daha havalı modern sanat eseri oluşturalım:
     
-    ![screenshot](images/modern-rect-art.png)
+    ![ekran görüntüsü](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Tanrım, bu biraz yavaştı değil mi! Neyse ki turtle modülünü hızlandırabilirsin.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    'Kaplumbağa' şeklini ayarladığın kod satırını bul ve vurgulanmış kodu ekle:
     
-    ![screenshot](images/modern-speed.png)
+    ![ekran görüntüsü](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` değeri en hızlısıdır ya da 1 (yavaş) ile 10 (hızlı) arasında bir sayı kullanabilirsin. Hoşuna gidecek hızı bulana kadar deneyimle.
