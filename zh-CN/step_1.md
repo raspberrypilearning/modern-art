@@ -10,15 +10,15 @@
 
 ### 俱乐部导师的附加信息
 
-如果您需要打印本项目文件，请使用[合适的打印版本](https://projects.raspberrypi.org/en/projects/modern-art/print)
+如果你需要打印本项目文件，请使用[适合打印的版本](https://projects.raspberrypi.org/en/projects/modern-art/print)
 
 ## \--- collapse \---
 
-## title: 俱乐部导师笔记
+## title: 俱乐部导师说明
 
 ## 介绍：
 
-本项目通过一个彩色现代艺术生成器来介绍函数。 函数用于打包有用的海龟图形代码，随后可轻松使用该代码创建时髦的艺术。
+本项目通过一个彩色现代艺术生成器来介绍函数。 我们使用函数来打包有用的海龟图形代码，随后可轻松使用它创建时髦的艺术。
 
 ## 在线资源
 
@@ -32,7 +32,7 @@
 
 ## 离线资源
 
-如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以通过点击“项目资料”链接访问该项目的资源。 链接里包含了 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
+如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 链接里包含了 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
@@ -59,7 +59,7 @@
 ## 常见问题
 
 * 为避免在添加到项目时，必须等待先前的代码运行，孩子们可以在一行开头使用“#”注释掉代码。
-* 如果他们希望所有的代码都能运行，可使用 `clear()`（清除）来清空屏幕。 
+* 如果他们希望运行他们所有的代码，可使用 `clear()`（清除）来清空屏幕。 
 
 \--- /collapse \---
 
@@ -70,7 +70,7 @@
 ## 项目资源
 
 * [.zip文件，其中包含所有项目资源](http://rpf.io/p/en/modern-art-go) {:target =“ _ blank”}
-* [包含“现代艺术”资源的在线 Trinket](http://jumpto.cc/modern-go)
+* [包含“现代艺术”资源的在线Trinket](http://jumpto.cc/modern-go)
 
 ## 俱乐部导师资源
 
