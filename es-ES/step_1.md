@@ -24,11 +24,11 @@ Este proyecto introduce las funciones a través de un colorido generador de arte
 
 **Este proyecto usa Python 3.** Recomendamos el uso de [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los Trinkets siguientes:
 
-* [Punto de partida de 'Arte Moderno' - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Punto de partida de 'Arte Moderno' -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
 También hay un Trinket que contiene una solución de muestra de los desafíos:
 
-* ['Arte Moderno' terminado - rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Arte Moderno' terminado -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Recursos sin conexión
 
@@ -69,10 +69,10 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Cr
 
 ## Recursos del proyecto
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Trinket en línea que contiene los recursos iniciales de 'Arte moderno'](http://jumpto.cc/modern-go)
 
 ## Recursos para el líder del club
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [El proyecto de trinket completo en línea](https://trinket.io/python/47bbc2fc2b)
