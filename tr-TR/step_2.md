@@ -1,24 +1,24 @@
-## Random colours
+## Rastgele renkler
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Şu trinketi açın: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ 0 ile 255 sayıları arasında ne kadar kırmızı, yeşil ve mavi istediğinizi söyleyerek bir kaplumbağanın rengini ayarlayabilirsiniz.
     
-    Add the following code to get a purple turtle:
+    Mor bir kaplumbağa elde etmek için aşağıdaki kodu ekleyin:
     
-    ![screenshot](images/modern-purple.png)
+    ![ekran görüntüsü](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    Mor, kırmızı ve mavi karıştırılarak elde edilir.
 
 \--- collapse \---
 
 * * *
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## title: "Hata - bozuk renk dizisi: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Kodunuzu çalıştırırken `bad color sequence: (150, 0, 150)` hatasını alıyor musunuz?
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Bunun sebebi diğer Python editörlerinden farklı olarak trinket değişik bir renk modu kullanmaktadır. Bu hata `colormode` işlevinin değerini `255` yapılarak düzeltilebilir.
 
 ```python
 from turtle import *
@@ -31,34 +31,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Farklı renkler elde etmek için farklı sayılar deneyin.
     
-    Remember each number can be from 0 to 255.
+    Her sayının 0 ile 255 arasında olabileceğini unutmayın.
 
-+ How about choosing a random colour?
++ Rastgele bir renk seçmeye ne dersiniz?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Kırmızı, yeşil ve mavi değerler için 0 ile 255 arasında rastgele bir sayı seçmek üzere kodunuzu güncelleyin:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![ekran görüntüsü](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Farklı renkte kaplumbağalar elde etmek için birkaç kez 'Run' düğmesine tıklayın.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Bu eğlenceli ama her seferinde bir kaplumbağayı rastgele bir renge ayarlamak istediğinizde bunları hatırlamak ve yazmak için çok iş var ve okuması da çok kolay değil.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    Python'da ne zaman bir kaplumbağayı rastgele bir renge ayarlamak istediğimizde `def` komutuyla bir işlev tanımlayıp bunu istediğimizde çağırabiliriz.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Zaten işlevleri çağırıyordunuz, `color()` ve `randint()` işlevleri sizin için önceden tanımlanmış fonksiyonlardır.
     
-    Let’s put the random colour code into a function using def:
+    Rastgele renk kodunu def kullanarak bir fonksiyona koyalım:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![ekran görüntüsü](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    İşlevin içindeki kodu girintili yaptığınızdan emin olun. İşlevler, içe aktarma işleminden sonra genellikle komut dosyasının en üstüne yerleştirilir.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Kodunuzu şimdi 'çalıştırırsanız' rastgele renkli bir kaplumbağa elde edemezsiniz. Çünkü işlevinizi tanımladınız, ancak henüz onu çağırmadınız.
 
-+ Add a line to call your new function:
++ Yeni işlevinizi çağırmak için bir satır ekleyin:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![ekran görüntüsü](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Yeni kodunuzun anlaşılması çok daha kolay olduğuna dikkat edin çünkü karmaşık kısım işlevin tanımında kaldı. `rastgelerenk()` işlevinin yaptıklarıyla çalışması daha kolay.
