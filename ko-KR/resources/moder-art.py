@@ -1,4 +1,4 @@
 #!/bin/파이썬3
 
-from turtle import *
+거북이를 불러들이세요
 
