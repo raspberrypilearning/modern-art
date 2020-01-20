@@ -10,15 +10,13 @@
     
     O roxo é feito misturando vermelho e azul.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Você recebe o erro `bad color sequence: (150, 0, 150)` ao executar o seu código.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Isso ocorre porque o Trinket usa um modo de cor diferente de outros editores Python. Pode ser corrigido alterando o `colormode` para `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
