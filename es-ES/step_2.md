@@ -10,15 +10,13 @@
     
     El violeta se hace mezclando el rojo y el azul.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-¿Te aparece el error `bad color sequence: (150, 0, 150)` cuando ejecutas tu código?.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Esto se debe a que Trinket utiliza un modo de color diferente al de otros editores de Python. Se puede solucionar cambiando el `colormode` (modo de color) a `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
