@@ -1,5 +1,7 @@
 --- challenge ---
+
 ## Challenge: More modern art
+
 Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions? 
 
 You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art. 
@@ -13,10 +15,5 @@ Ideas:
 - Look in `snippets.py` for example code to draw stars with the turtle.
     
     ![screenshot](images/modern-stars.png) 
-
-
-
-
-
 
 --- /challenge ---

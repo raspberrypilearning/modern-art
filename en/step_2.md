@@ -1,7 +1,5 @@
 ## Random colours
 
-
-
 + Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>. 
 
 + You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255. 
@@ -13,7 +11,6 @@
     Purple is made by mixing together red and blue.
 
 --- collapse ---
-
 ---
 title: "Error - bad color sequence: (150, 0, 150)"
 ---

@@ -1,7 +1,5 @@
 ## Random place
 
-
-
 Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre. 
 
 + Add a `randomplace()` function:
@@ -19,6 +17,3 @@ Let’s create another function to move the turtle to a random place on the scre
     Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions. 
 
 + Now test your code a few times.
-
-
-

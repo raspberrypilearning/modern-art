@@ -1,7 +1,5 @@
 ## Create rectangle modern art
 
-
-
 Now let’s create some modern art by drawing lots of rectangles of different sizes and colours. 
 
 + First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
@@ -33,8 +31,7 @@ Now let’s create some modern art by drawing lots of rectangles of different si
     ![screenshot](images/modern-random-rect.png)
     
     Wow that was a lot less work, and it’s much easier to read. 
-
-    
+  
 + Now let's call `drawrectangle()` in a loop to create some cool modern art:
 
     ![screenshot](images/modern-rect-art.png)
