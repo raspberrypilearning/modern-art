@@ -10,9 +10,7 @@
     
     Il viola è ottenuto mescolando insieme rosso e blu.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
