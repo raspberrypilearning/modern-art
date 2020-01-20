@@ -10,15 +10,13 @@
     
     보라색은 빨간색과 파란색을 섞어서 만듭니다.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## title: "오류 - bad color sequence: (150, 0, 150)"
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-코드를 실행할 때 `bad color sequence: (150, 0, 150)` 오류가 발생하나요?
-
-Trinket은 다른 파이썬 편집기와 다른 색 모드를 사용하기 때문입니다. ` colormode `를 ` 255 `로 변경하여 수정할 수 있습니다.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
@@ -29,7 +27,7 @@ shape("turtle")
 color(150,0,150)
 ```
 
-\--- / collapse \---
+\--- /collapse \---
 
 + 색깔의 값에 다른 수를 사용해서 여러가지 색상을 만들어보세요.
     
