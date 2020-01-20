@@ -75,4 +75,6 @@ Dieses Projekt umfasst Elemente aus den folgenden Zweigen des [Raspberry Pi Digi
 ## Ressourcen für Clubleiter
 
 * [.zip Datei mit allen abgeschlossenen Projektressourcen](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online abgeschlossenes Trinket-Projekt](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
