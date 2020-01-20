@@ -75,4 +75,6 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 ## Risorse per gli organizzatori del club
 
 * [File .zip contenente tutte le risorse del progetto ](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Progetto online completo su Trinket](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
