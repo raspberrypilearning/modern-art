@@ -10,15 +10,13 @@
     
     Le mauve est fait en mélangeant le rouge et le bleu.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## title: "Erreur - mauvaise séquence de couleurs: (150, 0, 150)"
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Obtiens-tu l'erreur ` séquence de couleurs incorrecte: (150, 0, 150) ` lors de l'exécution de ton code.
-
-C'est parce que trinket utilise un mode de couleur différent pour d'autres éditeurs Python. Il peut être corrigé en changeant le `mode couleur` en `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
