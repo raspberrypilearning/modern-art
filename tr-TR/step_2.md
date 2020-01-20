@@ -10,15 +10,13 @@
     
     Mor, kırmızı ve mavi karıştırılarak elde edilir.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## title: "Hata - bozuk renk dizisi: (150, 0, 150)"
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Kodunuzu çalıştırırken `bad color sequence: (150, 0, 150)` hatasını alıyor musunuz?
-
-Bunun sebebi diğer Python editörlerinden farklı olarak trinket değişik bir renk modu kullanmaktadır. Bu hata `colormode` işlevinin değerini `255` yapılarak düzeltilebilir.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
