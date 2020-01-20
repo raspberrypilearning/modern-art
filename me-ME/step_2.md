@@ -10,9 +10,7 @@
     
     Ljubičasta se dobije kada se pomiješaju crvena i plava boja.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
