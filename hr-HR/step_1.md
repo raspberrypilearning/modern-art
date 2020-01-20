@@ -75,4 +75,6 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry
 ## Materijali za voditelja Kluba
 
 * [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
