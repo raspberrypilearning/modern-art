@@ -75,4 +75,6 @@
 ## 교육자를 위한 자료
 
 * 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](http://rpf.io/p/en/modern-art-get) {: target="_blank"}
-* [ 온라인 완료 Trinket 프로젝트 ](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
