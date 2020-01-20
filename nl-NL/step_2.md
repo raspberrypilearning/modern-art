@@ -10,15 +10,13 @@
     
     Paars wordt gemaakt door rood en blauw te mengen.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Krijg je de fout `bad color sequence: (150, 0, 150)` bij het uitvoeren van je code.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Dit is omdat trinket een andere kleurmodus gebruikt dan andere Python editors. Dit kan worden verholpen door de `colormode` te wijzigen in `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
