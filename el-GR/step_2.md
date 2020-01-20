@@ -10,9 +10,7 @@
     
     Το μωβ γίνεται με ανάμειξη κόκκινου και μπλε.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
