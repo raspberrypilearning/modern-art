@@ -10,15 +10,13 @@
     
     Пурпурный получается путём смешивания красного и синего.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## title: «Ошибка — неправильная последовательность цветов: (150, 0, 150)»
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Ты получаешь ошибку `bad color sequence: (150, 0, 150)` («неправильная последовательность цветов: (150, 0, 150)») при запуске твоего кода?
-
-Это потому, что trinket использует другой цветовой режим для других редакторов Python. Это можно исправить, изменив `colormode` (цветовой режим) на `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
