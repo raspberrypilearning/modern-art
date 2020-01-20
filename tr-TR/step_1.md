@@ -75,4 +75,6 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un
 ## Kulüp lideri için kaynaklar
 
 * [Tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
