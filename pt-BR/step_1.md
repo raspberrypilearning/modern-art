@@ -75,4 +75,6 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 ## Recursos para o Líder do Clube
 
 * [Arquivo .zip contendo todos os recursos concluídos do projeto](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Projeto Trinket concluído online](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
