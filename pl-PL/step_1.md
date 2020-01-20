@@ -75,4 +75,6 @@ Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital
 ## Zasoby dla lidera klubu
 
 * [Plik .zip zawierający zasoby z ukończonym projektem](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Trinket zawierający ukończony projekt](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
