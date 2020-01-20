@@ -75,4 +75,6 @@
 ## موارد قادة النادي
 
 * [. ملف مضغوط يحتوي على جميع موارد المشروع resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [مشروع Trinket مكتمل على الانترنت](https://trinket.io/python/47bbc2fc2b) \--- /collapse \---
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
