@@ -10,15 +10,13 @@
     
     يتكون الأرجواني عن طريق خلط الأحمر والأزرق معا.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## العنوان: "خطأ - تسلسل لون غير صحيح: (150 ، 0 ، 150)"
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-هل حصلت على الخطأ `تتابع اللون السيئ: (150 ، 0 ، 150)` عند تشغيل الكود.
-
-وذلك لأن trinket يستخدم وضع لون مختلف لمحرري python الآخرين. ويمكن أن تكون ثابتة عن طريق تغيير `colormode` إلى `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 من استدعاء السلاحف *
