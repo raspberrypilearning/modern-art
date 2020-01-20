@@ -10,15 +10,13 @@
     
     Lila wird durch Mischen von Rot und Blau hergestellt.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Bekommst du die Fehlermeldung `bad color sequence: (150, 0, 150)` wenn du deinen Code laufen läßt.
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Dies liegt daran, dass trinket einen anderen Farbmodus als andere Python-Editoren verwendet. Dies kann durch Ändern des `Farbmodus` zu `255` behoben werden.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
