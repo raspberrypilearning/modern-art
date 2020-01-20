@@ -10,15 +10,13 @@
     
     Fioletowy powstaje przez zmieszanie czerwonego i niebieskiego.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## tytuł: „Błąd - niewłaściwa sekwencja kolorów: (150, 0, 150)”
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Czy pojawia się błąd `niewłaściwa sekwencja kolorów: (150, 0, 150)` podczas uruchamiania kodu.
-
-Jest tak, ponieważ edytor trinket używa innego trybu kolorów niż inne edytory Python. Można to naprawić, zmieniając `colormode` na `255`.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
