@@ -10,9 +10,7 @@
     
     紫は、赤と青を混ぜ合わせることで作られます。
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
