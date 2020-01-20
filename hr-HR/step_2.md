@@ -10,15 +10,13 @@
     
     Ljubičasta se dobije miješanjem crvene i plave boje.
 
-\--- collapse \---
+## \--- collapse \---
 
-* * *
+## title: "Error - bad color sequence: (150, 0, 150)"
 
-## title: "Pogreška - loš slijed boja: (150, 0, 150)"
+Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
 
-Dobivaš li ti grešku `loš slijed boja(150, 0, 150) `kad pokreneš kreneš svoj program.
-
-To je zato što trinket koristi drugi način rada u bojama za razliku od drugih Python uređivaća. Može se popraviti promjenom moda boje` ` do ` 255 `.
+This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
 
 ```python
 from turtle import *
