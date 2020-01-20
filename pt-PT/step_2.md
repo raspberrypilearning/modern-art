@@ -10,9 +10,7 @@
     
     O roxo é feito misturando vermelho e azul.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
