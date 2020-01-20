@@ -10,9 +10,7 @@
     
     紫色是將紅色和藍色混合在一起而製成的。
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
