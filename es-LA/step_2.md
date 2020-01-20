@@ -10,9 +10,7 @@
     
     Purple is made by mixing together red and blue.
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
