@@ -75,4 +75,6 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Cr
 ## Recursos para el líder del club
 
 * [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [El proyecto de trinket completo en línea](https://trinket.io/python/47bbc2fc2b)
+* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+
+\--- /collapse \---
