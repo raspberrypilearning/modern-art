@@ -1,14 +1,14 @@
-## Cores aleatórias
+## Random colours
 
-+ Abra este trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ Você pode definir a cor de uma tartaruga dizendo quanto vermelho, verde e azul você gostaria de 0 a 255.
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    Adicione o seguinte código para obter uma tartaruga roxa:
+    Add the following code to get a purple turtle:
     
-    ![captura de tela](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
-    O roxo é feito misturando vermelho e azul.
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
