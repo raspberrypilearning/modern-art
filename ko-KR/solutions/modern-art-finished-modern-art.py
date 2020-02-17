@@ -1,10 +1,10 @@
 #!/bin/python3
 
-거북이를 불러들이세요
-랜덤(무작위 추첨) 을 불러들이세요
+from turtle import *
+from random import *
 
 def randomcolour():
-  ###trinket를 사용하지 않고 있다면 아래의 줄을 주석 해제하세요.(주석은 메모를 의미합니다)###
+  ###Uncomment the line below if you are not using trinket###
   #colormode(255)
   red = randint(0, 255)
   green = randint(0, 255)
@@ -12,26 +12,26 @@ def randomcolour():
   color(red, green, blue)
 
 def randomplace():
-  펜을 올리세요()
+  penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
-  (x,y)로 가라
-  펜 내리기()
+  goto(x, y)
+  pendown()
 
-향할 곳을 랜덤으로 지정():
-  향하는 곳 = randint(0, 360)
-  제목 (제목)
+def randomheading():
+  heading = randint(0, 360)
+  setheading(heading)
 
-직각삼각형 그리기를 정의():
-  랜덤색상()
-  랜덤장소()
-  거북이 숨기기()
-  길이 = randit(10,100)
-  높이(세로) = randint(10, 100)
-  채우기_시작()
-  앞으로 (길이)
-  오른쪽 (90)
-  앞으로 (높이)
+def drawrectangle():
+  randomcolour()
+  randomplace()
+  hideturtle()
+  length = randint(10, 100)
+  height = randint(10, 100)
+  begin_fill()
+  forward(length)
+  right(90)
+  forward(height)
   right(90)
   forward(length)
   right(90)
