@@ -4,7 +4,7 @@
 
 Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
 
-![स्क्रीनशॉट](images/modern-turtle-art.png)
+![screenshot](images/modern-turtle-art.png)
 
 Hints:
 
