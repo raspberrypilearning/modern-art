@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## チャレンジ：カメのアート
+## Challenge: Turtle art
 
-ランダムな方向にカメを向かせる`randomheading()` 関数を定義して、次のコードを動作させることができますか？
+Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
 
-![スクリーンショット](images/modern-turtle-art.png)
+![screenshot](images/modern-turtle-art.png)
 
-ヒント:
+Hints:
 
-- `setheading(<number>)`は、カメが向いている方向を変えます。
+- `setheading(<number>)` will change the direction the turtle is facing in.
 
-- `<number>`は、1〜360（円の度数）にする必要があります。
+- `<number>` should be between 1 and 360 (the number of degrees in a circle)
 
-- `randint(1, 360)`を使用して1〜360の数値を選択できます。
+- You can use `randint(1, 360)` to choose a number between 1 and 360.
 
 \--- /challenge \---
