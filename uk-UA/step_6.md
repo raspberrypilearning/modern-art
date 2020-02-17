@@ -1,19 +1,19 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: Більше сучасного мистецтва
+## Challenge: More modern art
 
-Ви можете створити функцію, яка малює форму, і називає `randomcolour ()` та / або `randomless ()` функціями?
+Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
 
-Ви можете викликати вашу функцію зсередини `для циклі` , як і в прямокутному мистецтві для створення сучасного мистецтва.
+You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
 
-Ідеї:
+Ideas:
 
-- Черепахи мають функцію, яка називається точка, яка приймає радіус (відстань від центру до краю кола) як вхідний. Наприклад, turtle.dot (10) Ви можете створити `функцію drawcircle ()` , яка малює колі з довільним радіусом.
+- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
     
-    ![скріншот](images/modern-circles.png)
+    ![screenshot](images/modern-circles.png)
 
-- Подивіться `snippets.py` , наприклад, код, щоб малювати зірки з черепахою.
+- Look in `snippets.py` for example code to draw stars with the turtle.
     
-    ![знімок екрану](images/modern-stars.png)
+    ![screenshot](images/modern-stars.png)
 
 \--- /challenge \---
