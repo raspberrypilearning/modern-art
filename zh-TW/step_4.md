@@ -1,17 +1,17 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：海龜藝術
+## Challenge: Turtle art
 
-你能定義一個 `randomheading（）` 函數，它將使烏龜點在一個隨機的方向，並使下面的代碼工作？
+Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
 
-![截圖](images/modern-turtle-art.png)
+![screenshot](images/modern-turtle-art.png)
 
-提示：
+Hints:
 
-- `setheading（<number>）` 將改變烏龜面向的方向。
+- `setheading(<number>)` will change the direction the turtle is facing in.
 
-- `<number>` 應該在1到360之間（圓圈中的度數）
+- `<number>` should be between 1 and 360 (the number of degrees in a circle)
 
-- 您可以使用 `randint（1,360）` 來選擇</code>到360之間的數字。
+- You can use `randint(1, 360)` to choose a number between 1 and 360.
 
-\--- /挑戰\---
+\--- /challenge \---
