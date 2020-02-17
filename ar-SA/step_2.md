@@ -20,12 +20,12 @@ title: "Error - bad color sequence: (150, 0, 150)"
 وذلك لأن trinket يستخدم وضع لون مختلف لمحرري python الآخرين. ويمكن أن تكون ثابتة عن طريق تغيير `colormode` إلى `255`.
 
 ```python
-من استدعاء السلاحف *
+from turtle import *
 
 colormode(255)
 
-الشكل("turtle")
-اللون(150,0,150)
+shape("turtle")
+color(150,0,150)
 ```
 
 --- /collapse ---
