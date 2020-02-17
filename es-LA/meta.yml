@@ -9,16 +9,16 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Modern Art
 description: Code your own computer-generated modern art.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
-interests: arte
-technologies: pitón
-site_areas: proyectos
+interests: art
+technologies: python
+site_areas: projects
 hardware: ''
-software: pitón
+software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Robot parlanchín
+    title: Introduction
   - 
     title: Random colours
   - 
