@@ -1,19 +1,19 @@
-## ランダムに配置する
+## Random place
 
-カメを画面上のランダムな場所に移動する、別の関数を作成しましょう。 画面の中心は(0, 0) なので、中心付近の四角いエリアにカメを配置します。
+Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
 
-+ `randomplace()` 関数を追加します。
++ Add a `randomplace()` function:
     
-    ![スクリーンショット](images/modern-place-function.png)
+    ![screenshot](images/modern-place-function.png)
 
-+ あなたの作った新しい関数を呼び出してみてから、`stamp()`を呼び出すと、それを複数回呼び出すことができます：
++ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
     
-    ![スクリーンショット](images/modern-call-place.png)
+    ![screenshot](images/modern-call-place.png)
 
-+ おっと！カメは動くと線を描きますね。 カメが動いている時に線を描かない様に、動き始めにはペンを持ち上げ、動き終わりにペンを下ろしてみましょう。
++ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
     
-    ![スクリーンショット](images/modern-place-pen.png)
+    ![screenshot](images/modern-place-pen.png)
     
-    コードを1カ所修正するだけで済むことに、気付きましたか？ それは関数についての、もう一つの良いことです。
+    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
 
-+ 今度はコードを数回テストしてみてください。
++ Now test your code a few times.
