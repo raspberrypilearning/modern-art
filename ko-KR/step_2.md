@@ -1,14 +1,14 @@
-## 무작위 색상
+## Random colours
 
-+ 다음 Trinket 파일을 열어주세요. <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ 거북이의 색깔은 빨간색, 초록색, 파란색을 섞어서 만들 수 있습니다. 빨강, 초록, 파랑의 밝기를 각각 0부터 255까지의 값으로 지정해서 섞을 수 있습니다.
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    다음 코드를 추가해서 보라색 거북이를 만들어보세요:
+    Add the following code to get a purple turtle:
     
-    ![스크린샷](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
-    보라색은 빨간색과 파란색을 섞어서 만듭니다.
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ 색깔의 값에 다른 수를 사용해서 여러가지 색상을 만들어보세요.
++ Try some different numbers to get different colours.
     
-    각각의 수는 0에서 255까지 가능하다는 것을 기억해주세요.
+    Remember each number can be from 0 to 255.
 
-+ 색상을 무작위로 만들어볼까요?
++ How about choosing a random colour?
     
-    빨간색, 초록색, 파란색 값에 대해 0에서 255까지의 임의의 수를 선택하도록 코드를 수정해봅시다:
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
-    ![스크린샷](images/modern-random-colour.png)
+    ![screenshot](images/modern-random-colour.png)
 
-+ 코드를 여러 번 실행해서 다양한 색상의 거북이를 만들어보세요.
++ Click ‘Run’ a few times to get different coloured turtles.
 
-+ 꽤 재밌죠? 하지만 이러면 거북이를 무작위 색상으로 설정하고 싶을 때마다 매번 똑같은 코드를 외워서 쳐야 합니다. 게다가 코드를 읽고 이해하기도 쉽지 않습니다.
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
-    파이썬에서는 `def`를 써서 함수를 정의할 수 있습니다. 예를 들어 거북이를 무작위 색상으로 설정하고 싶을 때 호출하는 함수를 정의할 수 있습니다.
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
-    사실 우리는 함수를 이미 호출해봤습니다. 바로 `color()`와 `randint()`가 우리를 위해 미리 정의된 함수입니다.
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
-    이제 무작위 색상 설정 코드를 함수에 넣어봅시다! def를 사용하세요:
+    Let’s put the random colour code into a function using def:
     
-    ![스크린샷](images/modern-colour-function.png)
+    ![screenshot](images/modern-colour-function.png)
     
-    함수 내부의 코드는 들여쓰기를 해야 한다는 것을 알아두세요. 함수는 주로 파일 위쪽에, import 문들 다음에 위치합니다.
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
 
-+ 이제 코드를 실행해보면, 기대와는 달리 거북이가 무작위 색상으로 생성되지 않을 것입니다. 걱정하지 마세요. 이런 이유는 우리가 함수를 정의만 했고, 호출을 하지 않았기 때문입니다.
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
 
-+ 다음 줄을 추가해서 우리가 정의한 함수를 호출하세요:
++ Add a line to call your new function:
     
-    ![스크린샷](images/modern-call-colour.png)
+    ![screenshot](images/modern-call-colour.png)
     
-    복잡한 부분을 함수에 넣음으로써, 우리의 코드가 훨씬 이해하기 쉬워졌습니다. `randomcolour()`가 무엇을 하는지 알아내는 것은 간단합니다.
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
