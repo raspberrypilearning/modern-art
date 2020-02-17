@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Meydan Okuma: Daha fazla modern sanat
+## Challenge: More modern art
 
-Bir şekil çizen, `rastgelerenk()` ve/veya `rastgeleyer()` işlevlerinizi çağıran bir fonksiyon oluşturabilir misiniz?
+Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
 
-Daha önce dikdörtgenlerle modern sanat eseri oluştururken yaptığın gibi işlevini `for` döngüsü içinde çağırabilirsin.
+You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
 
-Fikirler:
+Ideas:
 
-- Turtle modülünün, girdiyi yarıçap olarak alan (merkezden dairenin kenarına kadar olan mesafe) dot isimli bir fonksiyonu vardır. Örneğin, turtle.dot(10). Rastgele çapta daire çizen bir `drawcircle()` işlevi yaratabilirsiniz.
+- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
     
-    ![ekran görüntüsü](images/modern-circles.png)
+    ![screenshot](images/modern-circles.png)
 
-- Turtle modülüyle yıldız çizmek için `snippets.py` dosyasındaki örnek kodlamaya bakın.
+- Look in `snippets.py` for example code to draw stars with the turtle.
     
-    ![ekran görüntüsü](images/modern-stars.png)
+    ![screenshot](images/modern-stars.png)
 
 \--- /challenge \---
