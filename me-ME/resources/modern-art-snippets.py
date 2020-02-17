@@ -1,23 +1,23 @@
 #!/bin/python3
 
-# Kôd za crtanje pravougaonika nasumične veličine
+# Code to draw a random-sized rectangle
   hideturtle()
-  duzina = randint(10, 100)
-  visina = randint(10, 100)
+  length = randint(10, 100)
+  height = randint(10, 100)
   begin_fill()
-  forward(duzina)
+  forward(length)
   right(90)
-  forward(visina)
+  forward(height)
   right(90)
-  forward(duzina)
+  forward(length)
   right(90)
-  forward(visina)
+  forward(height)
   right(90)
   end_fill()
   
-# Kôd za crtanje zvijezde
+# Code to draw a star
   begin_fill()
-  for stranica in range(5):
+  for side in range(5):
     left(144)
     forward(50)
   end_fill()
