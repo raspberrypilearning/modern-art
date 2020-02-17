@@ -1,45 +1,45 @@
-## 創建矩形現代藝術
+## Create rectangle modern art
 
-現在讓我們通過繪製大量不同大小和顏色的矩形來創造一些現代藝術。
+Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
 
-+ 首先在挑戰代碼之後將以下代碼添加到腳本底部，以便在您的烏龜藝術之後清除屏幕並將烏龜指向其通常的方向：
++ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
     
-    ![截圖](images/modern-reset.png)
+    ![screenshot](images/modern-reset.png)
 
-+ 您可以通過在每行的開頭放置 `＃` 來註釋掉您的烏龜藝術代碼，以便在您處理矩形藝術時它不會運行。 （然後您可以稍後取消註釋以展示您的所有工作。）
++ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
     
-    ![截圖](images/modern-comment.png)
+    ![screenshot](images/modern-comment.png)
 
-+ 現在讓我們添加一個函數，在隨機位置繪製隨機大小的隨機顏色矩形！
++ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
     
-    在其他函數之後添加 `drawrectangle（）` 函數：
+    Add a `drawrectangle()` function after your other functions:
     
-    ![截圖](images/modern-rect-function.png)
+    ![screenshot](images/modern-rect-function.png)
     
-    如果你想節省一些打字時間，請查看 `snippets.py` 中的一些幫助程序代碼。
+    Look in `snippets.py` for some helper code if you want to save some typing time.
 
-+ 在 `main.py` 的底部添加以下代碼以調用您的新函數：
++ Add the following code at the bottom of `main.py` to call your new function:
     
-    ![截圖](images/modern-call-rect.png)
+    ![screenshot](images/modern-call-rect.png)
     
-    運行幾次腳本以查看高度和寬度的變化。
+    Run your script a few times to see the height and width change.
 
-+ 矩形始終為相同顏色，並從相同位置開始。
++ The rectangle is always the same colour and starts at the same location.
     
-    現在，您需要將烏龜設置為隨機顏色，然後將其移動到隨機位置。 嘿，你不是已經創建了這樣做的功能嗎？ 真棒。 你可以從drawrectangle函數的開頭調用它們：
+    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
     
-    ![截圖](images/modern-random-rect.png)
+    ![screenshot](images/modern-random-rect.png)
     
-    哇，工作少得多，而且閱讀起來容易得多。
+    Wow that was a lot less work, and it’s much easier to read.
 
-+ 現在讓我們在循環中調用 `drawrectangle（）` 來創建一些很酷的現代藝術：
++ Now let's call `drawrectangle()` in a loop to create some cool modern art:
     
-    ![截圖](images/modern-rect-art.png)
+    ![screenshot](images/modern-rect-art.png)
 
-+ 天哪有點慢不是嗎！ 幸運的是，你可以加快龜的速度。
++ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
     
-    找到將形狀設置為“turtle”的行並添加突出顯示的代碼：
+    Find the line where you set the shape to 'turtle' and add the highlighted code:
     
-    ![截圖](images/modern-speed.png)
+    ![screenshot](images/modern-speed.png)
     
-    `速度（0）` 是最快的，或者您可以使用從1（慢）到10（快速）的數字。實驗直到找到您喜歡的速度。
+    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
