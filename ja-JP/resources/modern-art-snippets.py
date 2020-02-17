@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# ランダムなサイズの長方形を描くコード
+# Code to draw a random-sized rectangle
   hideturtle()
   length = randint(10, 100)
   height = randint(10, 100)
@@ -15,7 +15,7 @@
   right(90)
   end_fill()
   
-＃星を描くコード
+# Code to draw a star
   begin_fill()
   for side in range(5):
     left(144)
