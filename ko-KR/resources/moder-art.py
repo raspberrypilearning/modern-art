@@ -1,4 +1,4 @@
-#!/bin/파이썬3
+#!/bin/python3
 
-거북이를 불러들이세요
+from turtle import *
 
