@@ -1,14 +1,14 @@
-## ランダムな色
+## Random colours
 
-+ Trinketをひらく: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ あなたは赤、緑、青が0から255まで、それぞれどれくらいの量かを言って、カメ(turtle)の色を設定することができます。
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    紫色のカメを手に入れる為には、次のコードを追加します。
+    Add the following code to get a purple turtle:
     
-    ![スクリーンショット](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
-    紫は、赤と青を混ぜ合わせることで作られます。
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
