@@ -1,45 +1,45 @@
-## Створити прямокутник сучасного мистецтва
+## Create rectangle modern art
 
-Тепер давайте створимо якесь сучасне мистецтво, залучивши багато прямокутників різних розмірів та кольорів.
+Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
 
-+ Спочатку додайте наступний код донизу вашого сценарію, після коду завдання, щоб очистити екран після твоєї мистецтва черепахи і вкажіть черепаху у звичайному напрямку:
++ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
     
-    ![скріншот](images/modern-reset.png)
+    ![screenshot](images/modern-reset.png)
 
-+ Ви можете коментувати ваш код мистецтва черепаху, розмістивши `#` на початку кожного рядка, щоб він не запускався під час роботи над прямокутним мистецтвом. (Тоді ви можете пізніше розкоментувати це, щоб показати всю вашу роботу.)
++ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
     
-    ![знімок екрану](images/modern-comment.png)
+    ![screenshot](images/modern-comment.png)
 
-+ Тепер давайте додамо функцію, щоб намалювати випадковий розмір випадкового кольору прямокутника у випадковому місці!
++ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
     
-    Додайте функцію `drawrectangle ()` після інших функцій:
+    Add a `drawrectangle()` function after your other functions:
     
-    ![скріншот](images/modern-rect-function.png)
+    ![screenshot](images/modern-rect-function.png)
     
-    Подивіться в `snippets.py` для деякого помічника, якщо ви хочете зберегти час набору тексту.
+    Look in `snippets.py` for some helper code if you want to save some typing time.
 
-+ Додайте наступний код у нижній частині `main.py` , щоб викликати свою нову функцію:
++ Add the following code at the bottom of `main.py` to call your new function:
     
-    ![скріншот](images/modern-call-rect.png)
+    ![screenshot](images/modern-call-rect.png)
     
-    Запустіть свій сценарій кілька разів, щоб побачити зміни висоти та ширини.
+    Run your script a few times to see the height and width change.
 
-+ Прямокутник завжди однаковий і починається з того ж місця.
++ The rectangle is always the same colour and starts at the same location.
     
-    Тепер вам доведеться встановити черепаху до випадкового кольору, а потім перемістити його в випадкове місце. Привіт, ти вже не створив функції для цього? Чудово. Ви можете просто назвати їх з початку функції прямокутника:
+    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
     
-    ![скріншот](images/modern-random-rect.png)
+    ![screenshot](images/modern-random-rect.png)
     
-    Вау, що було набагато менше роботи, і це набагато простіше для читання.
+    Wow that was a lot less work, and it’s much easier to read.
 
-+ Тепер назвемо `drawrectangle ()` в циклі, щоб створити якесь класове сучасне мистецтво:
++ Now let's call `drawrectangle()` in a loop to create some cool modern art:
     
-    ![скріншот](images/modern-rect-art.png)
+    ![screenshot](images/modern-rect-art.png)
 
-+ Гош це трохи повільно було не так! На щастя, ви можете прискорити черепаху.
++ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
     
-    Знайдіть рядок, де ви встановили форму "черепаху" і додайте виділений код:
+    Find the line where you set the shape to 'turtle' and add the highlighted code:
     
-    ![скріншот](images/modern-speed.png)
+    ![screenshot](images/modern-speed.png)
     
-    `швидкість (0)` є найшвидшим або ви можете використовувати цифри від 1 (повільно) до 10 (швидко.) Експеримент, поки ви не знайдете бажану швидкість.
+    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
