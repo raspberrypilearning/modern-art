@@ -3,39 +3,39 @@
 from turtle import *
 from random import *
 
-def coraleatoria():
-  ###remova o comentário da linha abaixo se você não estiver usando o trinket###
+def randomcolour():
+  ###Uncomment the line below if you are not using trinket###
   #colormode(255)
-  vermelha = randint(0, 255)
-  verde = randint(0, 255)
-  azul = randint(0, 255)
-  color(vermelha, verde, azul)
+  red = randint(0, 255)
+  green = randint(0, 255)
+  blue = randint(0, 255)
+  color(red, green, blue)
 
-def lugaraleatorio():
+def randomplace():
   penup()
   x = randint(-100, 100)
   y = randint(-100, 100)
   goto(x, y)
   pendown()
 
-def posicaoaleatoria():
-  posicao = randint(0, 360)
-  setheading(posicao)
+def randomheading():
+  heading = randint(0, 360)
+  setheading(heading)
 
-def desenharetangulo():
-  coraleatoria()
-  lugaraleatorio()
+def drawrectangle():
+  randomcolour()
+  randomplace()
   hideturtle()
-  comprimento = randint(10, 100)
-  altura = randint(10, 100)
+  length = randint(10, 100)
+  height = randint(10, 100)
   begin_fill()
-  forward(comprimento)
+  forward(length)
   right(90)
-  forward(altura)
+  forward(height)
   right(90)
-  forward(comprimento)
+  forward(length)
   right(90)
-  forward(altura)
+  forward(height)
   right(90)
   end_fill()
 
@@ -43,29 +43,29 @@ shape("turtle")
 speed(0)
 
 for i in range(1, 30):
-  coraleatoria()
-  lugaraleatorio()
-  posicaoaleatoria()
+  randomcolour()
+  randomplace()
+  randomheading()
   stamp()
 
-# Desafio - use a função embutida dot
+# Challenge - use built in dot function
 
-def desenhacirculo():
-  raio = randint(5, 100)
-  coraleatoria()
-  lugaraleatorio()
-  dot(raio)
+def drawcircle():
+  radius = randint(5, 100)
+  randomcolour()
+  randomplace()
+  dot(radius)
 
-def desenhaestrela():
-  coraleatoria()
-  lugaraleatorio()
-  posicaoaleatoria()
+def drawstar():
+  randomcolour()
+  randomplace()
+  randomheading()
   begin_fill()
-  tamanho = randint(20, 100)
-  #desenha a forma de uma estrela
-  for lado in range(5):
+  size = randint(20, 100)
+  #draw the star shape
+  for side in range(5):
     left(144)
-    forward(tamanho)
+    forward(size)
 
   end_fill()
 
@@ -73,14 +73,14 @@ clear()
 setheading(0)
 
 for i in range(20):
-  desenharetangulo()
+  drawrectangle()
 
 clear()
 
 for i in range(50):
-  desenhacirculo()
+  drawcircle()
 
 clear()
 
 for i in range(20):
-  desenhaestrela()
+  drawstar()
