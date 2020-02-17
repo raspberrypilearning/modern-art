@@ -1,6 +1,6 @@
-## Giriş
+## Introduction
 
-Bu projede bilgisayar tarafından üretilen modern sanat eseri yaratacaksınız. Tekrar tekrar kullanabileceğiniz kodu yazmak için işlevleri kullanacaksınız.
+In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ Bu projede bilgisayar tarafından üretilen modern sanat eseri yaratacaksınız.
   <img src="images/modern-finished.png">
 </div>
 
-### Kulüp liderleri için ek bilgi
+### Additional information for club leaders
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/modern-art/print) kullanın.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title: Kulüp lideri notları
+## title: Club leader notes
 
-## Giriş:
+## Introduction:
 
-Bu proje renkli ve modern bir sanat oluşturucusu aracılığıyla fonksiyonları tanıtıyor. Fonksiyonlar yararlı turtle modülü grafik kodlarını paketlemek için kullanılır, bu daha sonra eğlenceli sanat eserleri oluşturmak için kolayca kullanılabilir.
+This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
 
-## Çevrimiçi Kaynaklar
+## Online Resources
 
-**Bu proje Python 3'ü kullanıyor.** Çevrimiçi Python programlama için [trinket](https://trinket.io/) kullanmanızı tavsiye ederiz. Bu proje aşağıdaki trinketleri içeriyor:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* ['Modern Sanat' başlangıç noktası -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-Ayrıca meydan okumalara örnek bir çözüm içeren trinket da var:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Modern Sanat' Tamamlanmış - rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
-## Çevrimdışı Kaynaklar
+## Offline Resources
 
-Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) olarak tamamlanabilir. Bu proje için proje kaynaklarına, 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-Bu projenin, 'Gönüllü Kaynaklar' bölümünde, meydan okumalarının tamamlanmış bir versiyonunu şuradan bulabilirsiniz:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 * modern-art-finished/modern-art.py
 
-(Yukarıdaki kaynakların tümü proje ve gönüllü olarak indirilebilen `.zip` dosyalarıdır)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Kazanımlar
+## Learning Objectives
 
-* Fonksiyonlar;
+* Functions;
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Bir problemi çözmek için programlama yapılarını birleştirin.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Meydan Okumalar
+## Challenges
 
-* Turtle Modül sanatı - turtle sanat oluşturucusunu tamamlamak için yeni bir işlev tanımlayın.
-* Daha fazla modern sanat - modern sanat üretmek için diğer işlevleri çağıran yeni bir işlev oluşturun.
+* Turtle art - define a new function to complete the turtle art generator.
+* More modern art - create a new function that calls other functions to generate modern art.
 
-## Sıkça Sorulan Sorular
+## Frequently Asked Questions
 
-* Projeye eklerken önceki kodun çalışmasını beklemek zorunda kalmamak için çocuklar bir satırın başında '#' işaretini kullanarak kodu yorum haline dönüştürebilir.
-* Eğer tüm kodlarının çalışmasını istiyorlarsa ekranı temizlemek için `clear()` komutu kullanılabilir. 
+* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line.
+* If they do want all of their code to run then `clear()` can be used to clear the screen. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Proje materyalleri
+## title: Project materials
 
-## Proje kaynakları
+## Project resources
 
-* [Tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* ['Modern Sanat' başlangıç kaynaklarını içeren Çevrimiçi Trinket](http://jumpto.cc/modern-go)
+* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
 
-## Kulüp lideri için kaynaklar
+## Club leader resources
 
-* [Tüm proje kaynaklarını içeren .zip dosyası](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
