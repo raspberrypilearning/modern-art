@@ -1,19 +1,19 @@
-## 隨機的地方
+## Random place
 
-讓我們創建另一個函數將烏龜移動到屏幕上的隨機位置。 屏幕的中心是（0,0）所以我們將烏龜放在中心周圍的方形區域。
+Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
 
-+ 添加 `randomplace（）` 函數：
++ Add a `randomplace()` function:
     
-    ![截圖](images/modern-place-function.png)
+    ![screenshot](images/modern-place-function.png)
 
-+ 通過調用它然後調用 `stamp（）`嘗試新功能，你可以多次調用它：
++ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
     
-    ![截圖](images/modern-call-place.png)
+    ![screenshot](images/modern-call-place.png)
 
-+ 哎呀，烏龜在移動時會掠過。 讓我們把筆放在開頭，然後放在最後，這樣龜就不會在它移動時畫出：
++ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
     
-    ![截圖](images/modern-place-pen.png)
+    ![screenshot](images/modern-place-pen.png)
     
-    您是否注意到您只需要在一個地方“修復”代碼？ 這是功能的另一個好處。
+    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
 
-+ 現在測試你的代碼幾次。
++ Now test your code a few times.
