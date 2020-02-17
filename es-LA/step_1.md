@@ -1,4 +1,4 @@
-## Introducción
+## Introduction
 
 In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
@@ -8,15 +8,15 @@ In this project you will create computer generated modern art. You will use func
   <img src="images/modern-finished.png">
 </div>
 
-### Información adicional para los líderes del club
+### Additional information for club leaders
 
-Si necesita imprimir este proyecto, use la [versión para imprimir](https://projects.raspberrypi.org/en/projects/modern-art/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title: Notas para el líder del club
+## title: Club leader notes
 
-## Introducción:
+## Introduction:
 
 This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
 
@@ -43,15 +43,15 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objetivos del Aprendizaje
+## Learning Objectives
 
 * Functions;
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Desafíos
+## Challenges
 
 * Turtle art - define a new function to complete the turtle art generator.
 * More modern art - create a new function that calls other functions to generate modern art.
@@ -65,14 +65,14 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Materiales del proyecto
+## title: Project materials
 
 ## Project resources
 
 * [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
 
-## Recursos del líder del club
+## Club leader resources
 
 * [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
