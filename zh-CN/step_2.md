@@ -14,9 +14,9 @@
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+当你运行代码时是否遇到`bad color sequence: (150, 0, 150)`这个错误。
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+这是因为Trinket使用了与其他Python编辑器不同的颜色模式。 可以通过更改`colormode`（颜色模式）至` 255 `解决这个问题 。
 
 ```python
 from turtle import *
