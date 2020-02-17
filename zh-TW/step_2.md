@@ -1,14 +1,14 @@
-## 隨機顏色
+## Random colours
 
-+ 打開這個小飾品： <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>。
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ 你可以通過說明從0到255你想要多少紅色，綠色和藍色來設置烏龜的顏色。
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    添加以下代碼以獲得紫龜：
+    Add the following code to get a purple turtle:
     
-    ![截圖](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
-    紫色是將紅色和藍色混合在一起而製成的。
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
