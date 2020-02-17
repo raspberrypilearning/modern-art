@@ -1,14 +1,14 @@
-## Rastgele renkler
+## Random colours
 
-+ Şu trinketi açın: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ 0 ile 255 sayıları arasında ne kadar kırmızı, yeşil ve mavi istediğinizi söyleyerek bir kaplumbağanın rengini ayarlayabilirsiniz.
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    Mor bir kaplumbağa elde etmek için aşağıdaki kodu ekleyin:
+    Add the following code to get a purple turtle:
     
-    ![ekran görüntüsü](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
-    Mor, kırmızı ve mavi karıştırılarak elde edilir.
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Farklı renkler elde etmek için farklı sayılar deneyin.
++ Try some different numbers to get different colours.
     
-    Her sayının 0 ile 255 arasında olabileceğini unutmayın.
+    Remember each number can be from 0 to 255.
 
-+ Rastgele bir renk seçmeye ne dersiniz?
++ How about choosing a random colour?
     
-    Kırmızı, yeşil ve mavi değerler için 0 ile 255 arasında rastgele bir sayı seçmek üzere kodunuzu güncelleyin:
+    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
     
-    ![ekran görüntüsü](images/modern-random-colour.png)
+    ![screenshot](images/modern-random-colour.png)
 
-+ Farklı renkte kaplumbağalar elde etmek için birkaç kez 'Run' düğmesine tıklayın.
++ Click ‘Run’ a few times to get different coloured turtles.
 
-+ Bu eğlenceli ama her seferinde bir kaplumbağayı rastgele bir renge ayarlamak istediğinizde bunları hatırlamak ve yazmak için çok iş var ve okuması da çok kolay değil.
++ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
     
-    Python'da ne zaman bir kaplumbağayı rastgele bir renge ayarlamak istediğimizde `def` komutuyla bir işlev tanımlayıp bunu istediğimizde çağırabiliriz.
+    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
-    Zaten işlevleri çağırıyordunuz, `color()` ve `randint()` işlevleri sizin için önceden tanımlanmış fonksiyonlardır.
+    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
     
-    Rastgele renk kodunu def kullanarak bir fonksiyona koyalım:
+    Let’s put the random colour code into a function using def:
     
-    ![ekran görüntüsü](images/modern-colour-function.png)
+    ![screenshot](images/modern-colour-function.png)
     
-    İşlevin içindeki kodu girintili yaptığınızdan emin olun. İşlevler, içe aktarma işleminden sonra genellikle komut dosyasının en üstüne yerleştirilir.
+    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
 
-+ Kodunuzu şimdi 'çalıştırırsanız' rastgele renkli bir kaplumbağa elde edemezsiniz. Çünkü işlevinizi tanımladınız, ancak henüz onu çağırmadınız.
++ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
 
-+ Yeni işlevinizi çağırmak için bir satır ekleyin:
++ Add a line to call your new function:
     
-    ![ekran görüntüsü](images/modern-call-colour.png)
+    ![screenshot](images/modern-call-colour.png)
     
-    Yeni kodunuzun anlaşılması çok daha kolay olduğuna dikkat edin çünkü karmaşık kısım işlevin tanımında kaldı. `rastgelerenk()` işlevinin yaptıklarıyla çalışması daha kolay.
+    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
