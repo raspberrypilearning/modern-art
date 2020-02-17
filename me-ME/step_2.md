@@ -1,14 +1,14 @@
-## Nasumične boje
+## Random colours
 
-+ Otvori sljedeći trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ Možeš da podesiš boju kornjače tako što ćeš odrediti koliko želiš crvene, zelene i plave boje od 0 do 255.
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    Dodaj sljedeći kôd da tvoja kornjača bude ljubičasta:
+    Add the following code to get a purple turtle:
     
     ![screenshot](images/modern-purple.png)
     
-    Ljubičasta se dobije kada se pomiješaju crvena i plava boja.
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
