@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Задача: черепашье искусство
+## Challenge: Turtle art
 
-Можешь ли ты определить функцию `randomheading()` («случайноенаправление()»), которая заставит черепаху смотреть в случайном направлении и заставит работать следующий код?
+Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
 
-![снимок экрана](images/modern-turtle-art.png)
+![screenshot](images/modern-turtle-art.png)
 
-Подсказки:
+Hints:
 
-- `setheading(<number>)` изменит направление, в которое смотрит черепаха.
+- `setheading(<number>)` will change the direction the turtle is facing in.
 
-- `<number>` (число) должно быть от 1 до 360 (количество градусов в круге)
+- `<number>` should be between 1 and 360 (the number of degrees in a circle)
 
-- Ты можешь использовать `randint(1, 360)` для выбора случайного числа от 1 до 360.
+- You can use `randint(1, 360)` to choose a number between 1 and 360.
 
 \--- /challenge \---
