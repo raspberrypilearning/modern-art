@@ -6,7 +6,7 @@
     
     Add the following code to get a purple turtle:
     
-    ![स्क्रीनशॉट](images/modern-purple.png)
+    ![screenshot](images/modern-purple.png)
     
     Purple is made by mixing together red and blue.
 
