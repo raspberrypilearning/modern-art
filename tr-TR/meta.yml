@@ -1,31 +1,31 @@
 ---
 hero_image: images/banner.png
-theme: menekşe
+theme: violet
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-0, programlama-1, fiziksel-hesaplama-0, üretim-0, topluluk-0
-title: Modern Sanat
-description: Kendi bilgisayar destekli çağdaş sanat eserinizi kodlayın.
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Modern Art
+description: Code your own computer-generated modern art.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
-interests: sanat
+interests: art
 technologies: python
-site_areas: projeler
+site_areas: projects
 hardware: ''
 software: python
 version: 3
-last_tested: 01/01/2017
+last_tested: 2017-01-01
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
-    title: Rastgele renkler
+    title: Random colours
   - 
-    title: Rastgele yer
+    title: Random place
   - 
-    title: 'Meydan Okuma: Turtle modül sanatı'
+    title: 'Challenge: Turtle art'
   - 
-    title: Dikdörtgen modern sanat yaratın
+    title: Create rectangle modern art
   - 
-    title: 'Meydan Okuma: Daha fazla modern sanat'
+    title: 'Challenge: More modern art'
