@@ -1,6 +1,6 @@
 ---
 hero_image: images/banner.png
-theme: violet
+theme: اللون البنفسجي
 duration: 2
 listed: true
 ingredient: false
@@ -9,11 +9,11 @@ curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, commun
 title: الفن الحديث
 description: اكتب التعليمات البرمجية لإنشاء فن حديث بواسطة الكمبيوتر.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
-interests: art&design
-technologies: python
-site_areas: codeclub, python
+interests: الفن
+technologies: لغة python البرمجية
+site_areas: المشاريع
 hardware: ''
-software: python
+software: لغة python البرمجية
 version: 3
 last_tested: 2017-01-01
 steps:
@@ -24,8 +24,8 @@ steps:
   - 
     title: مكان عشوائي
   - 
-    title: 'التحدي: رسومات السلحفاة'
+    title: 'التحدي: فن رسم السلحفاة'
   - 
-    title: إنشاء فن حديث باستخدام أشكال مستطيلة
+    title: صناعة مستطيل بواسطة الفن الحديث
   - 
     title: 'التحدي: المزيد من الفن الحديث'
