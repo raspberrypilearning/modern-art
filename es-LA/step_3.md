@@ -4,15 +4,15 @@ Let’s create another function to move the turtle to a random place on the scre
 
 + Add a `randomplace()` function:
     
-    ![captura de pantalla](images/modern-place-function.png)
+    ![screenshot](images/modern-place-function.png)
 
 + Try your new function by calling it and then calling `stamp()`, you can call it more than once:
     
-    ![captura de pantalla](images/modern-call-place.png)
+    ![screenshot](images/modern-call-place.png)
 
 + Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
     
-    ![captura de pantalla](images/modern-place-pen.png)
+    ![screenshot](images/modern-place-pen.png)
     
     Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
 
