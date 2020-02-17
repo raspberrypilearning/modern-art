@@ -1,6 +1,6 @@
-## 介紹
+## Introduction
 
-在這個項目中，您將創建計算機生成的現代藝術。 您將使用函數編寫可以反複使用的代碼。
+In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,71 +8,71 @@
   <img src="images/modern-finished.png">
 </div>
 
-### 俱樂部領導的其他信息
+### Additional information for club leaders
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/modern-art/print)。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
-## - - 坍方 - -
+## \--- collapse \---
 
-## 標題：俱樂部領導說明
+## title: Club leader notes
 
-## 介紹：
+## Introduction:
 
-該項目通過豐富多彩的現代藝術發生器介紹功能。 函數用於打包有用的龜圖形代碼，然後可以輕鬆地用於創建時髦的藝術。
+This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
 
-## 在線資源
+## Online Resources
 
-**這個項目使用Python 3.** 我們建議使用 [trinket](https://trinket.io/) 在線編寫Python。 該項目包含以下小飾品：
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* ['現代藝術'的起點 - jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-還有一個飾品包含挑戰的樣本解決方案：
+There is also a trinket containing a sample solution to the challenges:
 
-* ['現代藝術'完成 - rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
-## 離線資源
+## Offline Resources
 
-該項目可 [完成脫機](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) ，如果首選。 您可以通過單擊此項目的“項目材料”鏈接來訪問項目資源。 此鏈接包含“項目資源”部分，其中包含兒童離線完成此項目所需的資源。 確保每個孩子都可以訪問這些資源的副本。 本節包括以下文件：
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* 現代藝術/ modern-art.py
-* 現代藝術/ snippets.py
+* modern-art/modern-art.py
+* modern-art/snippets.py
 
-您還可以在“志願者資源”部分找到該項目挑戰的完整版本，其中包含：
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* 現代藝術成品/ modern-art.py
+* modern-art-finished/modern-art.py
 
-（以上所有資源也可以作為項目和志願者 `.zip` 文件下載。）
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## 學習目標
+## Learning Objectives
 
-* 功能;
+* Functions;
 
-該項目涵蓋了 [Raspberry Pi數字製作課程](http://rpf.io/curriculum)的以下幾個元素：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [結合編程結構來解決問題。](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## 挑戰
+## Challenges
 
-* 海龜藝術 - 定義一個新功能來完成海龜藝術發生器。
-* 更現代的藝術 - 創造一種新的功能，呼籲其他功能，以產生現代藝術。
+* Turtle art - define a new function to complete the turtle art generator.
+* More modern art - create a new function that calls other functions to generate modern art.
 
-## 經常問的問題
+## Frequently Asked Questions
 
-* 為了避免在添加到項目時必須等待早期代碼運行，孩子們可以在行的開頭使用“＃”註釋掉代碼。
-* 如果他們確實想要運行所有代碼，則可以使用 `clear（）` 來清除屏幕。 
+* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line.
+* If they do want all of their code to run then `clear()` can be used to clear the screen. 
 
-- - /坍方 - -
+\--- /collapse \---
 
-## - - 坍方 - -
+## \--- collapse \---
 
-## 標題：項目材料
+## title: Project materials
 
-## 項目資源
+## Project resources
 
 * [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* [包含“現代藝術”首發資源的在線飾品](http://jumpto.cc/modern-go)
+* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
 
-## 俱樂部領導資源
+## Club leader resources
 
 * [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
