@@ -6,26 +6,26 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Сучасне мистецтво
-description: Кодуй власне, комп'ютерно-створене сучасне мистецтво.
+title: Modern Art
+description: Code your own computer-generated modern art.
 original_url: https://codeclubprojects.org/en-GB/python/modern-art
-interests: мистецтво
+interests: art
 technologies: python
-site_areas: проекти
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Вступ
+    title: Introduction
   - 
-    title: Випадкові кольори
+    title: Random colours
   - 
-    title: Випадкове місце
+    title: Random place
   - 
-    title: 'Завдання: Мистецтво черепахи'
+    title: 'Challenge: Turtle art'
   - 
-    title: Створити прямокутне сучасне мистецтво
+    title: Create rectangle modern art
   - 
-    title: 'Завдання: більше сучасного мистецтва'
+    title: 'Challenge: More modern art'
