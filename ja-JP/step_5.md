@@ -1,45 +1,45 @@
-## 四角形のモダンアートを作る。
+## Create rectangle modern art
 
-さあ、いろんなサイズと色の四角形をたくさん描いてモダンアートを作ってみましょう。
+Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
 
-+ 最初に、次のコードをあなたのスクリプトの下に追加し、あなたがカメのアートのコードを試した後に画面をクリアし、通常の方向にカメを向ける様にして下さい。
++ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
     
-    ![スクリーンショット](images/modern-reset.png)
+    ![screenshot](images/modern-reset.png)
 
-+ カメのアートコードのそれぞれの行の先頭に`#`を置いてコメントアウトすると、四角形のモダンアートの作業をしている間、実行しないようすることができます。 （そうすれば、後でコメントを外してすべての作業を表示することができます。）
++ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
     
-    ![スクリーンショット](images/modern-comment.png)
+    ![screenshot](images/modern-comment.png)
 
-+ では、ランダムな大きさで、ランダムな色の四角形をランダムな場所に描く関数を追加しましょう！
++ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
     
-    あなたの他の関数の後に、`drawrectangle()` 関数を追加して下さい。
+    Add a `drawrectangle()` function after your other functions:
     
-    ![スクリーンショット](images/modern-rect-function.png)
+    ![screenshot](images/modern-rect-function.png)
     
-    入力する時間を節約したい場合は、`snippets.py `のヘルパーコードを調べてください。
+    Look in `snippets.py` for some helper code if you want to save some typing time.
 
-+ `main.py `の最後に次のコードを追加して、あなたの新しい関数を呼び出します。
++ Add the following code at the bottom of `main.py` to call your new function:
     
-    ![スクリーンショット](images/modern-call-rect.png)
+    ![screenshot](images/modern-call-rect.png)
     
-    スクリプトを何回か実行して、高さと幅の違いを見てみましょう。
+    Run your script a few times to see the height and width change.
 
-+ その長方形は常に同じ色で、同じ場所から始まりますね。
++ The rectangle is always the same colour and starts at the same location.
     
-    今度は、カメをランダムな色に設定して、それをランダムな場所に移動する必要があります。 ねえ、あなたはすでにそれを行うための関数を作りませんでしたか？ すばらしい！ drawrectangle関数の最初から、それを呼び出すだけですみます。
+    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
     
-    ![スクリーンショット](images/modern-random-rect.png)
+    ![screenshot](images/modern-random-rect.png)
     
-    うわー、それははるかに少ない作業で、読むのがずっと簡単ですね。
+    Wow that was a lot less work, and it’s much easier to read.
 
-+ 次に、ループの中で`drawrectangle()`を呼び出して、いくつかのクールなモダンアートを作ってみましょう。
++ Now let's call `drawrectangle()` in a loop to create some cool modern art:
     
-    ![スクリーンショット](images/modern-rect-art.png)
+    ![screenshot](images/modern-rect-art.png)
 
-+ おやまあ、これはちょっと遅くなかったですか！ ラッキーなことに、あなたはカメのスピードを上げることができます。
++ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
     
-    ラッキーなことに、あなたはカメのスピードを上げることができます。
+    Find the line where you set the shape to 'turtle' and add the highlighted code:
     
-    ![スクリーンショット](images/modern-speed.png)
+    ![screenshot](images/modern-speed.png)
     
-    `speed(0)`が最も速く、または1（遅い）から10（速い）までの数字を使用できます。 あなたが好きなスピードを見つけるまで試してみてください。
+    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
