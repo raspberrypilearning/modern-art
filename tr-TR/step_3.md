@@ -1,19 +1,19 @@
-## Rastgele yerler
+## Random place
 
-Kaplumbağayı ekranda rastgele bir yere taşımak için başka bir işlev oluşturalım. Ekranın merkezi (0,0) olduğundan kaplumbağaları merkezin etrafındaki kare alana yerleştireceğiz.
+Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
 
-+ Bir `rastgeleyer()` işlevi ekleyin:
++ Add a `randomplace()` function:
     
-    ![ekran görüntüsü](images/modern-place-function.png)
+    ![screenshot](images/modern-place-function.png)
 
-+ Yeni işlevinizi, onu ve sonrasında `stamp()` işlevini çağırarak deneyin, birden fazla kez çağırabilirsiniz:
++ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
     
-    ![ekran görüntüsü](images/modern-call-place.png)
+    ![screenshot](images/modern-call-place.png)
 
-+ Aaaaa, kaplumbağa hareket ettiğinde çizmeye başlıyor. Kalemi başlangıçta kaldıralım ve sonunda aşağı koyalım, böylece kaplumbağa hareket ederken çizgi çizemeyecek:
++ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
     
-    ![ekran görüntüsü](images/modern-place-pen.png)
+    ![screenshot](images/modern-place-pen.png)
     
-    Kodu tek bir yerde 'düzeltmeniz' gerektiğini fark ettiniz mi? Bu işlevler hakkında iyi olan başka bir özellik.
+    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
 
-+ Şimdi kodunuzu birkaç kez test edin.
++ Now test your code a few times.
