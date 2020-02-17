@@ -1,14 +1,14 @@
-## Випадкові кольори
+## Random colours
 
-+ Відкрийте цей trinket:<a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ Ви можете встановити колір черепахи, сказавши, скільки червоного, зеленого та синього кольорів потрібно від 0 до 255.
++ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
     
-    Додайте наступний код, щоб отримати пурпурну черепаху:
+    Add the following code to get a purple turtle:
     
     ![screenshot](images/modern-purple.png)
     
-    Фіолетовий виготовляється шляхом змішування червоного та синього кольорів.
+    Purple is made by mixing together red and blue.
 
 ## \--- collapse \---
 
