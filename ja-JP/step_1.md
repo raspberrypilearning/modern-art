@@ -1,6 +1,6 @@
-## はじめに
+## Introduction
 
-このプロジェクトでは、コンピュータによって作り出されるモダンアートを制作します。 ここであなたは、関数を使用して、繰り返し使用できるコードを記述します。
+In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,71 +8,71 @@
   <img src="images/modern-finished.png">
 </div>
 
-### クラブリーダーのための追加情報
+### Additional information for club leaders
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/modern-art/print)を使用してください。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
 
 ## \--- collapse \---
 
-## title：クラブリーダー・ノート
+## title: Club leader notes
 
-## はじめに
+## Introduction:
 
-このプロジェクトでは、カラフルなモダンアートのジェネレータを通して、関数について紹介します。 関数は、楽しいアートを簡単に作成するために使用できる、有用なカメのグラフィックコードをパッケージ化するために使用されます。
+This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
 
-## オンライン・リソース
+## Online Resources
 
-**本プロジェクトでは、Python 3**を使います。オンラインでPythonのコードを記述するには、[trinket](https://trinket.io/)の使用をお勧めします。 本プロジェクトには、以下のtrinketが用意されています：
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
 * ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
+There is also a trinket containing a sample solution to the challenges:
 
 * ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
-## オフライン・リソース
+## Offline Resources
 
-このプロジェクトは[オフライン](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)で完成することが可能です。 “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこのリソースのコピーを持っていることを確認してください。 このセクションは下記ファイルを含む：
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-なお、プロジェクト課題の完成版をボランティア・リソースのセクションに含まれています。
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 * modern-art-finished/modern-art.py
 
-また、すべての上記のリソースはプロジェクトとボランティア`.zip` ファイルとしてダウンロードすることも可能。
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## 学習目標
+## Learning Objectives
 
-* 関数
+* Functions;
 
-このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [プログラミング構造を組み合わせて問題を解決する。](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## チャレンジ
+## Challenges
 
-* カメのアート –カメのアートジェネレータを完成させる新しい関数を定義します。
-* よりモダンなアート – モダンアートを自動生成するために、他の関数を呼び出す新しい関数を定義します。
+* Turtle art - define a new function to complete the turtle art generator.
+* More modern art - create a new function that calls other functions to generate modern art.
 
-## よくある質問
+## Frequently Asked Questions
 
-* プロジェクトに追加する時に、以前のコードが実行されるのを待たずに済む様に、子供たちは行の先頭に’#’を使用して、コードをコメントアウトできます。
-* もし子供たちが全てのコードを実行したい場合には、`clear()` で画面をクリアすることができます。 
+* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line.
+* If they do want all of their code to run then `clear()` can be used to clear the screen. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title：プロジェクト資料
+## title: Project materials
 
-## プロジェクト資料
+## Project resources
 
 * [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* [「モダンアート」プロジェクト・リソースの入ったのオンラインtrinket](http://jumpto.cc/modern-go)
+* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
 
-## クラブ・リーダー向けリソース
+## Club leader resources
 
 * [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
