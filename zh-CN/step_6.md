@@ -1,22 +1,29 @@
 --- challenge ---
+
 ## 挑战：更多现代艺术
-你能否创建一个绘制形状并调用 `randomcolour()`（随机颜色）及／或 `randomplace()`（随机位置）函数的函数？ 
 
-你可以从 `for` 循环内部调用你的函数来生成现代艺术，就像矩形艺术中的操作一样。 
+你是否可以创建一个函数用来绘制形状，并且调用`randomcolour()`和/或`randomplace()`这些函数？
 
-想法：
+你可以在一个`for`循环内调用你的函数，就像在矩形艺术中所做的那样生成现代艺术。
 
-- 海龟具有一个名为 dot（圆点）的函数，将半径（圆的中心到边缘的距离）作为输入项。如：turtle.dot(10)，你可以创建一个 `drawcircle()`（画圆）函数，画出半径随机的圆。 
+创意：
+
+- Turtles库有一个叫dot的函数，该函数以半径（从圆心到圆边缘的距离）作为输入。 例如turtle.dot(10)。你可以创建一个`drawcircle()`函数绘制半径随机的圆。
     
-    ![screenshot](images/modern-circles.png)
+    ![截图](images/modern-circles.png)
+
+- 查看`snippets.py`中的示例代码用turtle画星星。
     
-- 查看 `snippets.py` 中的示例代码来用海龟画星星。
-    
-    ![screenshot](images/modern-stars.png) 
-
-
-
-
-
+    ![截图](images/modern-stars.png)
 
 --- /challenge ---
+
+
+***
+该项目由以下志愿者翻译：
+
+Jude Chen
+
+Songze Li
+
+正因为志愿者们的辛勤工作，我们才能为世界各地的人们提供用母语来学习的机会。您也可以通过志愿翻译工作来帮助我们吸引更多的人 - 更多信息，请访问[rpf.io/translate](https://rpf.io/translate)。

@@ -1,18 +1,17 @@
 --- challenge ---
-## 挑战：海龟艺术
-你能否定义一个 `randomheading()`（随机朝向）函数来使海龟朝向随机方向并使以下代码有效？
 
-![screenshot](images/modern-turtle-art.png)
+## 挑战：海龟艺术
+
+你可以定义一个`randomheading()`函数，使海龟朝向一个随机方向，并让以下代码也工作吗？
+
+![截图](images/modern-turtle-art.png)
 
 提示：
 
-- `setheading(<number>)`（设置朝向(<数值>)）将会更改海龟面向的方位。
+- 使用` setheading(<number>)`改变乌龟面对的方向。
 
-- `<number>` 应在 1 到 360 之间（圆的度数）
+- `<number>`应该在1到360之间（圆的度数）
 
-- 你可以使用 `randint(1, 360)` 来选择 1 到 360 之间的一个数值。
-
-
-
+- 你可以使用`randint(1,360)`在1到360之间随机选择一个数。
 
 --- /challenge ---
