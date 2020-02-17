@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Izazov: Još moderne umjetnosti
+## Challenge: More modern art
 
-Možeš li da kreiraš funkciju koja crta neki oblik i poziva tvoje funkcije `nasumicnaboja()` i/ili `nasumicnapozicija()`?
+Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
 
-Za generisanje moderne umjetnosti možeš pozvati svoju funkciju iz `for` petlje, kao što smo uradili za umjetnost sa pravougaonicima.
+You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
 
-Ideje:
+Ideas:
 
-- Kornjače imaju funkciju sa nazivom 'dot' koja kao ulaz uzima poluprečnik (udaljenost od sredine do ivice kruga). Na primjer, turtle.dot(10). Možeš da kreiraš funkciju `crtajkrug()` koja crta krug sa nasumičnim poluprečnikom.
+- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
     
     ![screenshot](images/modern-circles.png)
 
-- Primjer kôda za crtanje zvijezda pomoću kornjače potraži u `snippets.py`.
+- Look in `snippets.py` for example code to draw stars with the turtle.
     
     ![screenshot](images/modern-stars.png)
 
