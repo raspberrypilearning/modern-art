@@ -10,10 +10,10 @@ Ideas:
 
 - Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
     
-    ![captura de pantalla](images/modern-circles.png)
+    ![screenshot](images/modern-circles.png)
 
 - Look in `snippets.py` for example code to draw stars with the turtle.
     
-    ![captura de pantalla](images/modern-stars.png)
+    ![screenshot](images/modern-stars.png)
 
 \--- /challenge \---
