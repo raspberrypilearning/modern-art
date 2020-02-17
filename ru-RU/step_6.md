@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Задача: ещё больше современного искусства
+## Challenge: More modern art
 
-Можешь ли ты создать функцию, которая рисует фигуру и вызывает твои функции `randomcolour()` и / или `randomplace()`?
+Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
 
-Ты можешь вызывать свою функцию из цикла `for`, как ты это делал с прямоугольниками для генерации современного искусства.
+You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
 
-Идеи:
+Ideas:
 
-- У черепах есть функция с именем dot, которая принимает радиус (расстояние от центра до края круга) в качестве входных данных. Например, turtle.dot(10). Ты мог бы создать функцию `drawcircle()`, которая рисует круг со случайным радиусом.
+- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
     
-    ![снимок экрана](images/modern-circles.png)
+    ![screenshot](images/modern-circles.png)
 
-- Посмотри в файле `snippets.py`, к примеру, код для рисования звёзд с помощью черепашки.
+- Look in `snippets.py` for example code to draw stars with the turtle.
     
-    ![снимок экрана](images/modern-stars.png)
+    ![screenshot](images/modern-stars.png)
 
 \--- /challenge \---
