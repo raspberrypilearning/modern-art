@@ -1,6 +1,6 @@
-## Introduction
+## 들어가며
 
-In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
+이 프로젝트에서 당신은 컴퓨터 생성 현대 미술을 만들 것입니다. 당신은 함수를 만들고 반복적으로 사용하는 코드를 넣어 사용하게 될 것입니다.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ In this project you will create computer generated modern art. You will use func
   <img src="images/modern-finished.png">
 </div>
 
-### Additional information for club leaders
+### 교육자들을 위한 추가 정보
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/modern-art/print).
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/modern-art/print)를 사용하십시오.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 교육자들을 위한 메모
 
-## Introduction:
+## 소개
 
-This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+이 프로젝트는 함수를 통해 다채로운 현대 미술 생성기를 만드는 과정을 소개합니다. 함수는 유용한 turtle 그래픽 코드를 패키지화하는 데 사용됩니다. turtle 그래픽 코드를 사용하여 멋진 미술 작품을 쉽게 만들 수 있습니다.
 
-## Online Resources
+## 온라인 자료들
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**이 프로젝트는 파이썬3를 사용합니다.** 파이썬 코드를 온라인에서 작성하기 위해 [Trinket](https://trinket.io/)을 사용하는것을 추천합니다. 이 프로젝트에 포함된 Trinket은 다음과 같습니다:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* ['현대 미술' 시작 프로젝트 -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-There is also a trinket containing a sample solution to the challenges:
+또한 프로젝트의 샘플 정답이 Trinket에 담겨져 있습니다.
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['현대 미술' 완성 프로젝트 -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
-## Offline Resources
+## 오프라인 자료들
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+여러분의 선호에 따라 프로젝트를 [오프라인에서 완성](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)할 수 있습니다. 'Project Materials' 라는 링크를 클릭하여 이 프로젝트의 자료를 확인해볼 수 있습니다. 이 링크에는 어린이들이 프로젝트를 오프라인으로 완료하는 데 필요한 자료가 포함된 'Project Resource' 섹션이 있습니다. 각 어린이가 이러한 자료의 사본에 접근할 수 있는지 확인하십시오. 이 섹션에는 아래와 같은 파일들이 포함되어 있습니다.
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+이 프로젝트의 완성된 버전은 'Volunteer Resources' 섹션에서 찾을 수 있습니다.
 
-* modern-art-finished/modern-art.py
+* modern-art-finished/modern -art.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(또한 위의 모든 자료는 프로젝트 및 자원봉사자 `.zip` 파일로 다운로드 할 수 있습니다.)
 
-## Learning Objectives
+## 학습 목표
 
-* Functions;
+* 함수;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [프로그래밍 구조를 결합하여 문제 해결하기](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## 도전 과제
 
-* Turtle art - define a new function to complete the turtle art generator.
-* More modern art - create a new function that calls other functions to generate modern art.
+* 거북이 미술 - 새로운 함수를 만들어 거북이 미술 생성기를 완성하세요.
+* 더 많은 현대 미술 - 기존의 함수들을 호출하는 새로운 함수를 만들어 현대 미술 작품을 생성하세요.
 
-## Frequently Asked Questions
+## 자주 물어보는 질문
 
-* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line.
-* If they do want all of their code to run then `clear()` can be used to clear the screen. 
+* 이전에 작성한 코드가 실행되지 않게 하려면 코드에서 줄의 시작 부분에 '#'을 추가하여 해당 줄을 주석 처리 할 수 있습니다.
+* `clear()`을 사용하여 화면을 지울 수 있습니다. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## 제목: 프로젝트 자료
 
-## Project resources
+## 프로젝트 리소스
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
+* 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](http://rpf.io/p/en/modern-art-go) {: target="_blank"}
+* ['현대 미술' 리소스가 포함 된 온라인 Trinket 자료](http://jumpto.cc/modern-go)
 
-## Club leader resources
+## 교육자를 위한 자료
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+* 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](http://rpf.io/p/en/modern-art-get) {: target="_blank"}
+* [완성된 온라인 Trinket 프로젝트](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
