@@ -1,10 +1,10 @@
 #!/bin/python3
 
-from turtle import *
-from random import *
+거북이를 불러들이세요
+랜덤(무작위 추첨) 을 불러들이세요
 
 def randomcolour():
-  ###Uncomment the line below if you are not using trinket###
+  ###trinket를 사용하지 않고 있다면 아래의 줄을 주석 해제하세요.(주석은 메모를 의미합니다)###
   #colormode(255)
   red = randint(0, 255)
   green = randint(0, 255)
