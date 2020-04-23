@@ -1,22 +1,22 @@
-## Random colours
+## ランダムな色
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Trinketをひらく: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ 赤、緑、青がどれくらいかを0から255まで示すことで、カメの色を設定することができます。
     
-    Add the following code to get a purple turtle:
+    紫のカメを作るためには、次のコードを追加します:
     
-    ![screenshot](images/modern-purple.png)
+    ![スクリーンショット](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    紫は、赤と青を混ぜ合わせることで作られます。
 
 ## \--- collapse \---
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## title: "エラー - 不正なカラーシーケンス: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+コードを実行するとき、エラー`不正なカラーシーケンス: (150, 0, 150) `が表示されますか:
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+これはtrinketが他のPythonエディターとは異なるカラーモードを使用するためです。 `colormode` を` 255`に変更することで修正できます。
 
 ```python
 from turtle import *
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ いくつか違う数字を試して、違う色を取得して見ましょう。
     
-    Remember each number can be from 0 to 255.
+    それぞれの数字は、0から255の間であることを覚えておいてください。
 
-+ How about choosing a random colour?
++ どの様にランダムな色を選ぶのですか？
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    赤、緑、青の値に0から255の間のランダムな数字を選ぶように、あなたのコードを更新してみましょう。
     
-    ![screenshot](images/modern-random-colour.png)
+    ![スクリーンショット](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ 違う色のカメを手に入れるには、‘Run’を何回かクリックして下さい。
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ これは楽しいですね。しかし、カメをランダムな色に設定するたびに覚えて入力する必要があるし、読みにくいです。
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    Pythonでは、カメをランダムな色にする必要があるときにいつでも呼び出すことができる新しい関数を定義する`def`を書くことができます。
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    あなたはすでに関数を呼び出しています。`Color()`と`randint()`はあなたのために定義された関数です。
     
-    Let’s put the random colour code into a function using def:
+    Defを使ってランダムなカラーコードを関数に入れてみましょう。
     
-    ![screenshot](images/modern-colour-function.png)
+    ![スクリーンショット](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    関数の中ではコードがインデントされているか確認して下さいね。 関数は、通常、インポート後にスクリプトの先頭に配置されます。
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ もしあなたが今、コードを'Run'するなら、ランダムな色のカメを手に入れられません。 これは、自分の関数を定義しましたが、まだ呼び出していないからです。
 
-+ Add a line to call your new function:
++ 新しい関数を呼び出すためには、行を追加して下さい。
     
-    ![screenshot](images/modern-call-colour.png)
+    ![スクリーンショット](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    複雑な部分は関数の中にあるため、あなたの新しいコードは、ずっとわかりやすくなったことに注目して下さい。 `randomcolor()`が何をするのかは、簡単に分かります。
