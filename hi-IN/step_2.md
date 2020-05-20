@@ -1,22 +1,22 @@
-## Random colours
+## बेतरतीब रंग
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ इस ट्रिंकेट को खोलें: <a href="http://jumpto.cc/modern-go" target="_blank"> jumpto.cc/modern-go </a> ।
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ आप यह कहकर टर्टल का रंग निर्धारित कर सकते हैं कि आप 0 से 255 तक कितना लाल, हरा और नीला रंग पसंद करेंगे।
     
-    Add the following code to get a purple turtle:
+    बैंगनी कछुआ पाने के लिए निम्नलिखित कोड जोड़ें:
     
-    ![screenshot](images/modern-purple.png)
+    ![स्क्रीनशॉट](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    बैंगनी लाल और नीले रंग को एक साथ मिलाकर बनाया जाता है।
 
 ## \--- collapse \---
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## शीर्षक: "Error - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+क्या आपको अपना कोड चलाते समय यह त्रुटि मिलती है `bad color sequence: (150, 0, 150)` ।
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+ऐसा इसलिए है क्योंकि ट्रिंकेट अन्य पायथन एडिटर के लिए एक अलग रंग मोड का उपयोग करता है। इसे `colormode` को `255` पर बदलकर ठीक किया जा सकता है ।
 
 ```python
 from turtle import *
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ अलग-अलग रंग पाने के लिए कुछ अलग-अलग संख्याओं को आज़माएं।
     
-    Remember each number can be from 0 to 255.
+    याद रखें कि प्रत्येक संख्या 0 से 255 तक हो सकती है।
 
-+ How about choosing a random colour?
++ कैसा रहे यदि एक यादृच्छिक रंग चुने?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    लाल, हरे और नीले मूल्यों के लिए 0 और 255 के बीच एक यादृच्छिक संख्या चुनने के लिए अपना कोड अपडेट करें:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![स्क्रीनशॉट](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ अलग-अलग रंग के टर्टल पाने के लिए कुछ बार 'रन' पर क्लिक करें।
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ यह मज़ेदार है, लेकिन हर बार जब आप टर्टल को यादृच्छिक रंग में सेट करना चाहते हैं, तो इसे याद रखना और टाइप करना बहुत आसान है और इसे पढ़ना बहुत आसान नहीं है।
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    पायथन में हम एक फ़ंक्शन को परिभाषित करने के लिए `def` लिख सकते हैं जिसे हम कॉल कर सकते हैं जब भी हमें टर्टल को यादृच्छिक रंग में सेट करने की आवश्यकता होती है।
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    आप पहले से ही फ़ंक्शन कॉल कर रहे हैं, ` color()` और `randint()` ऐसे फ़ंक्शन हैं जिन्हें आपके लिए परिभाषित किया गया है।
     
-    Let’s put the random colour code into a function using def:
+    चलो एक फ़ंक्शन में यादृच्छिक रंग कोड को def का उपयोग करके लिखें:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![स्क्रीनशॉट](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    सुनिश्चित करें कि आप फ़ंक्शन के अंदर कोड को इंडेंट करते हैं। आम तौर पर आयात के बाद फंक्शन्स को स्क्रिप्ट के शीर्ष पर रखा जाता है।
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ यदि आप अपना कोड 'रन' करते हैं तो आपको एक यादृच्छिक रंगीन टर्टल नहीं मिलता है। ऐसा इसलिए है क्योंकि आपने अपने कार्य को परिभाषित किया है, लेकिन इसे अभी तक कॉल नहीं किया।
 
-+ Add a line to call your new function:
++ अपने नए फ़ंक्शन को कॉल करने के लिए एक पंक्ति जोड़ें:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![स्क्रीनशॉट](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    ध्यान दें कि आपका नया कोड समझना बहुत आसान है क्योंकि फ़ंक्शन में जटिल भाग है। यह काम `randomcolour()` से करना आसान है।
