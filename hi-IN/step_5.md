@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## आयत मॉडर्न आर्ट बनाएँ
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+अब विभिन्न आकारों और रंगों के बहुत सारे आयतों को खींचकर कुछ आधुनिक कला का निर्माण करते हैं।
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ अपने कछुए कला के बाद स्क्रीन को खाली करने और कछुए को अपनी सामान्य दिशा में इंगित करने के लिए, अपनी चुनौती कोड के बाद, अपनी स्क्रिप्ट के नीचे निम्नलिखित कोड को पहले जोड़ें:
     
-    ![screenshot](images/modern-reset.png)
+    ![स्क्रीनशॉट](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ आप प्रत्येक पंक्ति की शुरुआत में एक `#` रखकर अपने कछुए कला कोड को कमेंट कर सकते हैं जब आप आयत कला पर काम कर रहे हो ताकि कछुआ कला वाला कोड ना चले। (तब आप बाद में अपने सभी कामों को दिखाने के लिए इसे हटा सकते हैं।)
     
-    ![screenshot](images/modern-comment.png)
+    ![स्क्रीनशॉट](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ अब एक यादृच्छिक स्थान पर एक यादृच्छिक आकार, यादृच्छिक रंग का आयत बनाने के लिए एक फ़ंक्शन जोड़ें!
     
-    Add a `drawrectangle()` function after your other functions:
+    अपने अन्य फंक्शन्स के बाद कार्य एक `drawrectangle()`फंक्शन जोड़ें:
     
-    ![screenshot](images/modern-rect-function.png)
+    ![स्क्रीनशॉट](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    यदि आप कुछ टाइपिंग समय बचाना चाहते हैं तो `snippets.py` में कुछ सहायक कोड के लिए देखें।
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ अपने नए फ़ंक्शन को कॉल करने के लिए निम्न कोड को `main.py` के नीचे जोड़ें:
     
-    ![screenshot](images/modern-call-rect.png)
+    ![स्क्रीनशॉट](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    ऊंचाई और चौड़ाई में परिवर्तन देखने के लिए अपनी स्क्रिप्ट को कुछ बार चलाएं।
 
-+ The rectangle is always the same colour and starts at the same location.
++ आयत हमेशा एक ही रंग की होती है और एक ही स्थान पर शुरू होती है।
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    अब आपको कछुए को यादृच्छिक रंग में सेट करना होगा और फिर इसे यादृच्छिक स्थान पर ले जाना होगा। अरे, क्या आपने पहले से ही ऐसा करने के लिए फ़ंक्शंस नहीं बनाए थे? लाजवाब! आप उन्हें ड्रारेक्टैंगल फंक्शन की शुरुआत से बुला सकते हैं:
     
-    ![screenshot](images/modern-random-rect.png)
+    ![स्क्रीनशॉट](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    वाह बहुत कम काम था, और इसे पढ़ना बहुत आसान है।
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ अब चलो आधुनिक कला बनाने के लिए `drawrectangle()` एक लूप में कॉल करें:
     
-    ![screenshot](images/modern-rect-art.png)
+    ![स्क्रीनशॉट](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ थोड़ा धीमा था ना! सौभाग्य से आप कछुए को गति दे सकते हैं।
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    वह रेखा ढूंढें जहाँ आपने आकृति को 'कछुए' पर सेट किया है और हाइलाइट किया गया कोड जोड़ें:
     
-    ![screenshot](images/modern-speed.png)
+    ![स्क्रीनशॉट](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` सबसे तेज़ है, आप 1 (धीमी) से लेकर 10 (तेज़) तक की संख्याओं का उपयोग कर सकते हैं, तब तक प्रयोग करें जब तक आपको अपनी पसंद की गति न मिल जाए।
