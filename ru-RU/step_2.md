@@ -1,22 +1,22 @@
-## Random colours
+## Случайные цвета
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Открой этот trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ Вы можете установить цвет черепашки, указав количество красного, зеленого и синего цвета, от 0 до 255.
     
-    Add the following code to get a purple turtle:
+    Добавьте следующий код, чтобы получить фиолетовую черепашку:
     
-    ![screenshot](images/modern-purple.png)
+    ![снимок экрана](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    Фиолетовый получается путём смешивания красного и синего.
 
 ## \--- collapse \---
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Вы получаете ошибку `bad color sequence: (150, 0, 150)` («неправильная последовательность цветов: (150, 0, 150)») при запуске вашего кода.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Это потому, что trinket использует другой цветовой режим для других редакторов Python. Это можно исправить, изменив `colormode` (цветовой режим) на `255`.
 
 ```python
 from turtle import *
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Попробуйте различные числа, чтобы получить разные цвета.
     
-    Remember each number can be from 0 to 255.
+    Помните, что каждое число может быть от 0 до 255.
 
-+ How about choosing a random colour?
++ Как насчёт выбора случайного цвета?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Обновите свой код, чтобы выбрать случайное число от 0 до 255 для задания значений красного (red), зелёного (green) и синего (blue):
     
-    ![screenshot](images/modern-random-colour.png)
+    ![снимок экрана](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Нажмите «Run» несколько раз, чтобы получить черепашек, разукрашенных каждый раз по-разному.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Это весело, но нужно многое помнить и вводить каждый раз, когда вы хотите задать для черепашки новый случайный цвет, и ваш код не очень-то и легко читать.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    В Python мы можем использовать `def`, чтобы определить функцию, которую мы можем вызвать всякий раз, когда нам нужно задать для черепашки случайный цвет.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Вы уже вызывали функции: `color()` и `randint()` — это функции, которые были определены для вас.
     
-    Let’s put the random colour code into a function using def:
+    Давайте поместим код для выбора случайного цвета в функцию, используя def:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![снимок экрана](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Убедитесь, что вы сделали отступ для кода внутри функции. Функции обычно размещают в верхней части скрипта после импортов.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Если вы «запустите» ваш код сейчас, вы не получите случайно разукрашенную черепашку. Это потому, что вы определили свою функцию, но ещё не вызвали её.
 
-+ Add a line to call your new function:
++ Добавьте строку для вызова вашей новой функции:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![снимок экрана](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Обратите внимание, что ваш новый код гораздо проще для понимания, потому что сложная часть находится в функции. Легко понять, что делает `randomcolour()` (random — случайный, colour — цвет).
