@@ -1,19 +1,19 @@
-## Random place
+## बेतरतीब स्थान
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+चलो कछुए को स्क्रीन पर यादृच्छिक स्थान पर स्थानांतरित करने के लिए एक और फ़ंक्शन बनाते हैं। स्क्रीन का केंद्र (0,0) है, इसलिए हम कछुए को केंद्र के चारों ओर एक चौकोर क्षेत्र में रखेंगे।
 
-+ Add a `randomplace()` function:
++ `randomplace()` फंक्शन जोड़ें:
     
-    ![screenshot](images/modern-place-function.png)
+    ![स्क्रीनशॉट](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ अपने नए फ़ंक्शन को कॉल करके और फिर `stamp()` कॉल करके देखें, आप इसे एक से अधिक बार कॉल कर सकते हैं:
     
-    ![screenshot](images/modern-call-place.png)
+    ![स्क्रीनशॉट](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ ये क्या, कछुआ जब चलता है तो ड्रॉ करता है। आइए पेन को शुरुआत में और अंत में ऊपर रखें ताकि चलते समय कछुआ ड्रॉ न करे:
     
-    ![screenshot](images/modern-place-pen.png)
+    ![स्क्रीनशॉट](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    क्या आपने देखा कि आपको केवल एक स्थान पर कोड को 'ठीक' करना था? यह फ़ंक्शन के बारे में एक और अच्छी बात है।
 
-+ Now test your code a few times.
++ अब अपने कोड का कुछ बार परीक्षण करें।
