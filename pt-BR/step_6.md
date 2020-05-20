@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## Desafio: Mais arte moderna
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+Você pode criar uma função que desenhe uma forma e chame suas funções `coraleatoria()` e/ou `lugaraleatorio()`?
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+Você pode chamar sua função de dentro de um laço `for` como você fez na arte do retângulo para gerar arte moderna.
 
-Ideas:
+Ideias:
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- Tartarugas têm uma função chamada "dot" que recebe o raio (distância do centro até a borda do círculo) como entrada. Ex.: turtle.dot(10) Você pode criar uma função `desenhacirculo() ` que desenha um círculo com um raio aleatório.
     
     ![screenshot](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- Procure em `snippets.py` exemplos de código para desenhar estrelas com a tartaruga.
     
     ![screenshot](images/modern-stars.png)
 
