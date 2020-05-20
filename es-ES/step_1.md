@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto crearás arte moderno generado por ordenador. Usarás funciones para escribir código que podrás usar una y otra vez.
+En este proyecto crearás arte moderno generado por computadora. Usarás funciones para escribir código que podrás usar una y otra vez.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -22,7 +22,7 @@ Este proyecto introduce las funciones a través de un colorido generador de arte
 
 ## Recursos en línea
 
-**Este proyecto usa Python 3.** Recomendamos el uso de [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los Trinkets siguientes:
+**Este proyecto usa Python 3.** Recomendamos el uso de [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los siguientes Trinkets:
 
 * [Punto de partida de 'Arte Moderno' -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
@@ -75,6 +75,6 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Cr
 ## Recursos para el líder del club
 
 * [Un archivo.zip que contiene todos los recursos del proyecto ](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+* [Proyecto Trinket completado en línea](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
