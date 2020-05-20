@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## चुनौती: और मॉडर्न आर्ट
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+क्या आप एक ऐसा फंक्शन बना सकते हैं जो एक आकृति बनाता है और आपके ` randomcolour()` और / या `randomplace()`फंक्शन्स को कॉल करता है?
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+आप अपने फंक्शन को `for` लूप के अंदर से कॉल कर सकते हैं जैसा आपने आधुनिक कला उत्पन्न करने के लिए आयत कला में किया था।
 
-Ideas:
+विचार
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- टर्टल्स का एक फंक्शन है जिसे डॉट कहा जाता है जो इनपुट के रूप में एक त्रिज्या (केंद्र से सर्कल के किनारे तक की दूरी) लेता है। Eg turtle.dot (10) आप एक `drawcircle ()` फ़ंक्शन बना सकते हैं जो एक यादृच्छिक त्रिज्या के साथ एक चक्र खींचता है।
     
-    ![screenshot](images/modern-circles.png)
+    ![स्क्रीनशॉट](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- कछुए के साथ सितारों को आकर्षित करने के लिए `snippets.py` में उदाहरण के लिए कोड देखें।
     
-    ![screenshot](images/modern-stars.png)
+    ![स्क्रीनशॉट](images/modern-stars.png)
 
 \--- /challenge \---
