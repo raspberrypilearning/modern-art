@@ -14,9 +14,9 @@
 
 ## title: "Error - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+¿Te aparece el error `bad color sequence: (150, 0, 150)` cuando ejecutas tu código?.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Esto se debe a que Trinket utiliza un modo de color diferente al de otros editores de Python. Se puede solucionar cambiando el `colormode` (modo de color) a `255`.
 
 ```python
 from turtle import *
@@ -33,7 +33,7 @@ color(150,0,150)
     
     Recuerda que cada número puede ser del 0 al 255.
 
-+ ¿Y si elegimos un color aleatorio?
++ ¿Y si elegimos un color alelatorio?
     
     Actualiza el código para elegir un número aleatorio entre 0 y 255 para los valores rojo, verde y azul:
     
@@ -51,7 +51,7 @@ color(150,0,150)
     
     ![captura de pantalla](images/modern-colour-function.png)
     
-    Asegúrate de poner una sangría al código dentro de la función. Las funciones generalmente se colocan en la parte superior del código, justo después de los import.
+    Asegúrate de indentar el código dentro de la función. Las funciones generalmente se colocan en la parte superior del código, justo después de los import.
 
 + Si ejecutas el código ahora con 'Run', no obtendrás una tortuga de color aleatorio. Esto se debe a que has definido su función, pero aún no la has llamado.
 
