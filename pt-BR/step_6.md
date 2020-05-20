@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafio: Mais arte moderna
+## Desafio: mais arte moderna
 
 Você pode criar uma função que desenhe uma forma e chame suas funções `coraleatoria()` e/ou `lugaraleatorio()`?
 
