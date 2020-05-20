@@ -1,23 +1,23 @@
 #!/bin/python3
 
-# Code to draw a random-sized rectangle
+# Código para desenhar um retângulo de tamanho aleatório
   hideturtle()
-  length = randint(10, 100)
-  height = randint(10, 100)
+  comprimento = randint(10, 100)
+  altura = randint(10, 100)
   begin_fill()
-  forward(length)
+  forward(comprimento)
   right(90)
-  forward(height)
+  forward(altura)
   right(90)
-  forward(length)
+  forward(altura)
   right(90)
-  forward(height)
+  forward(altura)
   right(90)
   end_fill()
   
-# Code to draw a star
+# Código para desenhar uma estrela
   begin_fill()
-  for side in range(5):
+  for lado in range(5):
     left(144)
     forward(50)
   end_fill()
