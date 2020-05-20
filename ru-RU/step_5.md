@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Прямоугольное современное искусство
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Теперь давайте создадим немного современного искусства, нарисовав множество прямоугольников разных размеров и цветов.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Для начала добавьте следующий код в конце вашего скрипта после кода задачи, чтобы очистить экран от черепашьего искусства и направить черепашку в обычном направлении:
     
-    ![screenshot](images/modern-reset.png)
+    ![снимок экрана](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Вы можете закомментировать ваш код для черепашьего искусства, поместив `#` в начало каждой строки, чтобы эти строки не исполнялись программой, пока вы работаете над прямоугольным искусством. (Позднее вы можете раскомментировать эти строки, чтобы показать всю вашу работу.)
     
-    ![screenshot](images/modern-comment.png)
+    ![снимок экрана](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Теперь давайте добавим функцию для рисования прямоугольника случайного размера, случайного цвета и в случайном месте!
     
-    Add a `drawrectangle()` function after your other functions:
+    Добавьте функцию `drawrectangle()` после ваших других функций:
     
-    ![screenshot](images/modern-rect-function.png)
+    ![снимок экрана](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Смотрите в файле `snippets.py` на вспомогательный код, если вы хотите сэкономить время.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Добавьте следующий код в самом низу `main.py`, чтобы вызвать вашу новую функцию:
     
-    ![screenshot](images/modern-call-rect.png)
+    ![снимок экрана](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Запустите ваш скрипт несколько раз, чтобы увидеть, что высота и ширина меняются каждый раз.
 
-+ The rectangle is always the same colour and starts at the same location.
++ При этом прямоугольник всегда одного цвета и его начало расположено в том же месте.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Теперь вам нужно установить для черепашки случайный цвет, а затем переместить её в случайное место. Эй, а не создавали ли вы уже функции для того же самого? Отлично. Вы можете просто вызвать их в самом начале функции drawrectangle:
     
-    ![screenshot](images/modern-random-rect.png)
+    ![снимок экрана](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Вот это да, нам потребовалось намного меньше работы, и код намного легче читать.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Теперь давайте вызовем `drawrectangle()` в цикле, чтобы создать классное современное искусство:
     
-    ![screenshot](images/modern-rect-art.png)
+    ![снимок экрана](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Ух, это было немного медленно, не так ли? К счастью, вы можете ускорить черепашку.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Найдите строку, где вы устанавливаете значение формы как «turtle» (черепашка), и добавьте выделенный код:
     
-    ![screenshot](images/modern-speed.png)
+    ![снимок экрана](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` — это максимальная скорость, но вы также можешь использовать цифры от 1 (медленно) до 10 (быстро). Поэкспериментируйте, пока не подберёте подходящую вам скорость.
