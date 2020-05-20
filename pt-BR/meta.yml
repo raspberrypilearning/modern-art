@@ -1,0 +1,25 @@
+---
+hero_image: imagens/banner.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Arte Moderna
+description: Codifique sua própria arte moderna gerada por computador.
+original_url: https://codeclubprojects.org/en-GB/python/modern-art
+interests: art
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 01/01/2017
+steps:
+  - title: Introdução
+  - title: Cores aleatórias
+  - title: Lugar aleatório
+  - title: 'Desafio: arte da tartaruga'
+  - title: Criar arte moderna retangular
+  - title: 'Desafio: mais arte moderna'
