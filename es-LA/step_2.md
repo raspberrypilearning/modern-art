@@ -43,20 +43,20 @@ color(150,0,150)
 
 + Es divertido, pero es demasiado para recordar y escribir cada vez que quieras asignar un color al azar a una tortuga y no es tan fácil de leer.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    En Python, podemos escribir `def` para definir una función que podamos requerir cada vez que necesitemos asignar una tortuga con un color aleatorio.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Ya has estado llamando funciones, `color()` y `randint()` son funciones que han sido definidas por ti.
     
-    Let’s put the random colour code into a function using def:
+    Pongamos el código del color aleatorio en una función usando def:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![captura de pantalla](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Asegúrate de indentar el código dentro de una función. Las funciones generalmente se colocan en la parte superior del código, después de los imports.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Si ejecutas el código con "Run" ahora mismo no obtendrás una tortuga con un color al azar. Esto se debe a que has definido la función, pero todavía no la has llamado.
 
-+ Add a line to call your new function:
++ Añade una línea para llamar a tu nueva función:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![captura de pantalla](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Nota cómo tu nuevo código es mucho más fácil de entender ya que la parte complicada ahora está dentro de la función. It’s easy to work out what `randomcolour()` does.
