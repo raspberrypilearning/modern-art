@@ -4,16 +4,16 @@
 
 ¿Puedes crear una función que dibuje una forma y llame a tus funciones `randomcolour()` y o `randomplace()`?
 
-You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
+Puedes llamar tu función desde dentro de un bucle `for` tal como lo hiciste con el arte rectangular para generar arte moderno.
 
 Ideas:
 
-- Turtles have a function called dot that takes a radius (distance from the centre to the edge of the circle) as input. E.g. turtle.dot(10) You could create a `drawcircle()` function that draws a circle with a random radius.
+- Las tortugas tienen una función llamada "dot" que toma el radio (distancia desde el centro al borde del círculo) como entrada. Por ejemplo, turtle.dot(10). Puedes crear una función `drawcircle()` que dibuja un círculo con un radio aleatorio.
     
-    ![screenshot](images/modern-circles.png)
+    ![captura de pantalla](images/modern-circles.png)
 
-- Look in `snippets.py` for example code to draw stars with the turtle.
+- Busca en `snippets.py` para ejemplos de código para dibujar estrellas con la tortuga.
     
-    ![screenshot](images/modern-stars.png)
+    ![captura de pantalla](images/modern-stars.png)
 
 \--- /challenge \---
