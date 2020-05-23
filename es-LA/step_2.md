@@ -59,4 +59,4 @@ color(150,0,150)
     
     ![captura de pantalla](images/modern-call-colour.png)
     
-    Nota cómo tu nuevo código es mucho más fácil de entender ya que la parte complicada ahora está dentro de la función. It’s easy to work out what `randomcolour()` does.
+    Nota cómo tu nuevo código es mucho más fácil de entender ya que la parte complicada ahora está dentro de la función. Es fácil entender qué hace `randomcolour()`.
