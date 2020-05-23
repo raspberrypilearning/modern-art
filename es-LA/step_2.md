@@ -4,19 +4,19 @@
 
 + Puedes determinar el color de una tortuga indicando qué tan roja, verde y azul quisieras que sea desde 0 a 255.
     
-    Add the following code to get a purple turtle:
+    Añade el siguiente código para obtener una tortuga morada:
     
-    ![screenshot](images/modern-purple.png)
+    ![captura de pantalla](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    El morado se obtiene mezclando rojo y azul.
 
 ## \--- collapse \---
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## title: "Error - mala secuencia de colores: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+¿Te aparece el error `mala secuencia de colores: (150, 0, 150)` cuando ejecutas tu código?
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Esto se debe a que Trinket usa un modo de color diferente a otros editores Python. Se puede solucionar cambiando el `colormode` a `255`.
 
 ```python
 from turtle import *
@@ -29,19 +29,19 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Prueba diferentes números para obtener diferentes colores.
     
-    Remember each number can be from 0 to 255.
+    Recuerda que cada número puede ser desde 0 a 255.
 
-+ How about choosing a random colour?
++ ¿Qué tal si escoges un número al azar?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Actualiza tu código para escoger un número al azar entre 0 y 255 para los valores de rojo, verde y azul:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![captura de pantalla](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Haz click en "Run" un par de veces para obtener tortugas de diferentes colores.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Es divertido, pero es demasiado para recordar y escribir cada vez que quieras asignar un color al azar a una tortuga y no es tan fácil de leer.
     
     In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
     
