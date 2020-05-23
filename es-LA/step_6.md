@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: More modern art
+## Desafío: Más arte moderno
 
-Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions?
+¿Puedes crear una función que dibuje una forma y llame a tus funciones `randomcolour()` y o `randomplace()`?
 
 You can call your function from inside a `for` loop as you did in the rectangle art to generate modern art.
 
