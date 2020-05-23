@@ -20,7 +20,7 @@ Si necesita imprimir este proyecto, use la [versión para imprimir](https://proj
 
 Este proyecto presenta funciones a través de un colorido generador de arte moderno. Las funciones se utilizan para empaquetar códigos gráficos turtle útiles que luego pueden ser fácilmente usados para crear arte funky.
 
-## Online Resources
+## Recursos en línea
 
 **Este proyecto utiliza Python 3.** Recomendamos usar [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los siguientes Trinkets:
 
@@ -70,11 +70,11 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Cr
 ## Recursos del proyecto
 
 * Archivo[.zip con todos los recursos del proyecto](http://rpf.io/p/en/modern-art-go){:target="_blank"}
-* [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
+* [Trinket en línea con los recursos de arranque de "Arte moderno"](http://jumpto.cc/modern-go)
 
-## Club leader resources
+## Recursos para el líder del club
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
-* [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
+* Archivo[.zip con todos los recursos del proyecto completados](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [Proyecto Trinket completado en línea](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
