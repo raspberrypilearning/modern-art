@@ -1,8 +1,8 @@
-## Random colours
+## Colores aleatorios
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Abre este trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ Puedes determinar el color de una tortuga indicando qué tan roja, verde y azul quisieras que sea desde 0 a 255.
     
     Add the following code to get a purple turtle:
     
