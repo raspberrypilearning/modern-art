@@ -18,21 +18,21 @@ Si necesita imprimir este proyecto, use la [versión para imprimir](https://proj
 
 ## Introducción:
 
-Este proyecto presenta funciones a través de un colorido generador de arte moderno. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
+Este proyecto presenta funciones a través de un colorido generador de arte moderno. Las funciones se utilizan para empaquetar códigos gráficos turtle útiles que luego pueden ser fácilmente usados para crear arte funky.
 
 ## Online Resources
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Este proyecto utiliza Python 3.** Recomendamos usar [trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los siguientes Trinkets:
 
-* ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
+* [Punto de partida de "Arte moderno" -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
 
-There is also a trinket containing a sample solution to the challenges:
+También hay un trinket que contiene un ejemplo de solución para los desafíos:
 
-* ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
+* ['Arte Moderno' terminado -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
-## Offline Resources
+## Recursos sin conexión
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Si prefiere, este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * modern-art/modern-art.py
 * modern-art/snippets.py
