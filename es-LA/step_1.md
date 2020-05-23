@@ -54,22 +54,22 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Cr
 ## Desafíos
 
 * Turtle art: definir una nueva función para completar el generador turtle art.
-* More modern art - create a new function that calls other functions to generate modern art.
+* Más arte moderno: crear una nueva función que invita a otras funciones a generar arte moderno.
 
-## Frequently Asked Questions
+## Preguntas frecuentes
 
-* To avoid having to wait for earlier code to run when adding to the project children can comment out code using a '#' at the beginning of a line.
-* If they do want all of their code to run then `clear()` can be used to clear the screen. 
+* Para evitar tener que esperar que el código anterior se ejecute cuando se añade al proyecto, los niños pueden comentar en el código usando un "#" al inicio de una línea.
+* Si quieren que todo su código se ejecute, entonces se puede usar `clear()` para limpiar la pantalla. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## título: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* Archivo[.zip con todos los recursos del proyecto](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
 
 ## Club leader resources
