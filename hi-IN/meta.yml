@@ -17,7 +17,7 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: भूमिका
+  - title: परिचय
   - title: बेतरतीब रंग
   - title: बेतरतीब स्थान
   - title: 'चुनौती: टर्टल आर्ट'
