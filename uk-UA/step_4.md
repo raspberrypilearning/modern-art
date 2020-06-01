@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Turtle art
+## Завдання: витвір мистецтва з черепах
 
-Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
+Чи можеш ти визначити функцію `randomheading()`, яка поверне черепаху у довільному напрямку і зробить наступний код коректним?
 
-![screenshot](images/modern-turtle-art.png)
+![знімок екрана](images/modern-turtle-art.png)
 
-Hints:
+Поради:
 
-- `setheading(<number>)` will change the direction the turtle is facing in.
+- `setheading(<number>)` (встановити напрямок) змінює напрямок черепахи.
 
-- `<number>` should be between 1 and 360 (the number of degrees in a circle)
+- `<number>` має бути від 1 до 360 (кількість градусів у колі)
 
-- You can use `randint(1, 360)` to choose a number between 1 and 360.
+- Ти можеш використати `randint(1, 360)`, щоб вибрати випадкове число від 1 до 360.
 
 \--- /challenge \---
