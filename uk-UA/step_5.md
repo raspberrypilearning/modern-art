@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Створи витвір сучасного мистецтва з прямокутників
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Тепер давай створимо якийсь витвір сучасного мистецтва, намалювавши багато прямокутників різних розмірів та кольорів.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Спочатку додай наступний код внизу свого скрипта після коду попереднього завдання, щоб очистити екран після "черепашиного" шедевра і поставити черепаху у звичайному напрямку:
     
-    ![screenshot](images/modern-reset.png)
+    ![знімок екрана](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Ти можеш закоментувати "черепашиний" код, поставивши `#` на початку кожного рядка, щоб він не запускався під час роботи над витвором мистецтва з прямокутників. (Ти можеш розкоментувати його потім, щоб показати свою роботу повністю.)
     
-    ![screenshot](images/modern-comment.png)
+    ![знімок екрана](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Тепер давай додамо функцію, щоб намалювати прямокутник випадкового розміру та кольору у випадковому місці!
     
-    Add a `drawrectangle()` function after your other functions:
+    Додай функцію `drawrectangle()` (намалювати прямокутник) після інших функцій:
     
-    ![screenshot](images/modern-rect-function.png)
+    ![знімок екрана](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Якщо ти хочеш зекономити час для набору тексту, то можеш знайти допоміжний код в `snippets.py`.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Додай наступний код в кінці `main.py`, щоб викликати свою нову функцію:
     
-    ![screenshot](images/modern-call-rect.png)
+    ![знімок екрана](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Запусти свій скрипт кілька разів, щоб побачити, як змінюється висота і ширина.
 
-+ The rectangle is always the same colour and starts at the same location.
++ Прямокутник завжди однакового кольору і розміщений в тому ж місці.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Тепер тобі необхідно встановити випадковий колір для черепахи, а потім перемістити її у випадкове місце. Агов, ти ж уже створював функції для такого? Чудово. Ти можеш просто викликати їх на початку функції drawrectangle:
     
-    ![screenshot](images/modern-random-rect.png)
+    ![знімок екрана](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Ого, це — менше роботи і значно легше для читання.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Тепер викличемо `drawrectangle()` в циклі, щоб створити якийсь класний витвір сучасного мистецтва:
     
-    ![screenshot](images/modern-rect-art.png)
+    ![знімок екрана](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Хм, це було трохи заповільно, чи не так?! На щастя, ти можеш прискорити черепаху.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Знайди рядок, де ти встановив (-ла) форму (shape) "turtle" (черепаха), і додай виділений код:
     
-    ![screenshot](images/modern-speed.png)
+    ![знімок екрана](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` означає найвищу швидкість, або ти можеш використовувати числа від 1 (повільно) до 10 (швидко). Поекспериментуй, поки не знайдеш бажану швидкість.
