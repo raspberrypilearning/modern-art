@@ -1,19 +1,19 @@
-## Random place
+## Випадкове місце
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre.
+Давай створимо ще одну функцію, щоб переміщувати черепаху до випадкового місця на екрані. Центр екрану має координати (0,0), тому ми розмістимо черепах у центральній квадратній області.
 
-+ Add a `randomplace()` function:
++ Додай функцію `randomplace()` (випадкове місце):
     
-    ![screenshot](images/modern-place-function.png)
+    ![знімок екрана](images/modern-place-function.png)
 
-+ Try your new function by calling it and then calling `stamp()`, you can call it more than once:
++ Випробуй свою нову функцію, спочатку викликавши її, а потім — `stamp()`, можна і багаторазово:
     
-    ![screenshot](images/modern-call-place.png)
+    ![знімок екрана](images/modern-call-place.png)
 
-+ Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
++ Опа, черепаха малює під час свого руху. Давай піднімемо ручку (pen) напочатку і опустимо її вкінці так, щоб черепаха не малювала, поки вона рухається:
     
-    ![screenshot](images/modern-place-pen.png)
+    ![знімок екрана](images/modern-place-pen.png)
     
-    Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions.
+    Ти помітив (-ла), що тобі довелося "виправити" код лише в одному місці? Це — ще одна перевага функцій.
 
-+ Now test your code a few times.
++ Тепер перевір свій код декілька разів.
