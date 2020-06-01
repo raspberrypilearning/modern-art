@@ -1,22 +1,22 @@
-## Random colours
+## Випадкові кольори
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Відкрий цей проєкт trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ Ти можеш встановити колір черепахи, задавши потрібну кількість червоного, зеленого та синього кольору від 0 до 255.
     
-    Add the following code to get a purple turtle:
+    Додай наступний код, щоб отримати пурпурну черепаху:
     
-    ![screenshot](images/modern-purple.png)
+    ![знімок екрана](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    Пурпурний отримується шляхом змішування червоного та синього кольорів.
 
 ## \--- collapse \---
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## title: "Помилка - bad color sequence: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Ти отримав (-ла) помилку `bad color sequence: (150, 0, 150)` при запуску свого коду?
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Це через те, що trinket використовує режим кольору, що відрізняється від решти редакторів Python. Це може бути виправлено, змінивши режим кольору (`colormode`) на `255`.
 
 ```python
 from turtle import *
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Спробуй інші числа, щоб отримати інші кольори.
     
-    Remember each number can be from 0 to 255.
+    Пам’ятай, що кожне з чисел може бути від 0 до 255.
 
-+ How about choosing a random colour?
++ Як щодо вибору випадкового кольору?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Зміни свій код, щоб вибирати випадкове число між 0 та 255 для значень червоного, зеленого та синього:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![знімок екрана](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Натисни декілька разів "Run", щоб побачити черепах різних кольорів.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Це класно, але треба запам’ятовувати та вводити багато коду кожного разу, коли ти хочеш задати випадковий колір черепахи, до того ж це не дуже легко читається.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    В Python ми можемо використати `def`, щоб визначити функцію, яку можна викликати кожного разу, коли нам треба буде встановити випадковий колір черепахи.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Ти вже викликав (-ла) функції раніше, `color()` та `randint()` — це функції, які були визначені замість тебе.
     
-    Let’s put the random colour code into a function using def:
+    Давай за допомогою def перенесемо код для випадкового кольору в функцію:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![знімок екрана](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Переконайся, що ти зробив (-ла) правильні відступи для коду всередині функції. Зазвичай функції ідуть на початку скрипта після імпортів.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Якщи ти запустиш ("Run") свій код зараз, то не отримаєш черепаху випадкового кольору. Це тому, що ти визначив (-ла) свою функцію, але ще не викликав (-ла) її.
 
-+ Add a line to call your new function:
++ Додай рядок, щоб викликати свою нову функцію:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![знімок екрана](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Зверни увагу, що твій новий код значно легший для розуміння, тому що складна частина знаходиться всередині функції. Легко зрозуміти, що робить `randomcolour()` (випадковий колір).
