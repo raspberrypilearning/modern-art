@@ -46,7 +46,7 @@ for i in range(1, 30):
   randomheading()
   stamp()
   
-# Challenge - use built in dot function
+# चुनौती - बिल्ट इन डॉट फंक्शन का उपयोग
 
 def drawcircle():
   radius = randint(5, 100)
