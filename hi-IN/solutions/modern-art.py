@@ -46,7 +46,7 @@ for i in range(1, 30):
   randomheading()
   stamp()
   
-# Challenge - use built in dot function
+# चुनौती - बिल्ट इन डॉट फंक्शन का उपयोग
 
 def drawcircle():
   radius = randint(5, 100)
@@ -60,7 +60,7 @@ def drawstar():
   randomheading()
   begin_fill()
   size = randint(20, 100)
-  #draw the star shape
+  # स्टार बनाने के लिए कोड
   for side in range(5):
     left(144)
     forward(size)
