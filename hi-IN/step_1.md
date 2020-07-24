@@ -69,7 +69,7 @@
 
 ## प्रोजेक्ट संसाधन
 
-* [.zip फ़ाइल जिसमें सभी प्रोजेक्ट संसाधन हों ](http://rpf.io/p/en/modern-art-go) {:target="_blank"}
+* [.zip फ़ाइल जिसमें सभी प्रोजेक्ट संसाधन हों ](http://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [ऑनलाइन ट्रिंकेट जिसमें 'मॉडर्न आर्ट' स्टार्टर संसाधन हैं](http://jumpto.cc/modern-go)
 
 ## क्लब नेता संसाधन
