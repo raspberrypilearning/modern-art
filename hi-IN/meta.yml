@@ -17,9 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: बेतरतीब रंग
-  - title: बेतरतीब स्थान
-  - title: 'चुनौती: टर्टल आर्ट'
-  - title: आयत मॉडर्न आर्ट बनाएँ
-  - title: 'चुनौती: और मॉडर्न आर्ट'
+- title: परिचय
+  completion: engaged
+- title: बेतरतीब रंग
+- title: बेतरतीब स्थान
+- title: 'चुनौती: टर्टल आर्ट'
+- title: आयत मॉडर्न आर्ट बनाएँ
+  completion: internal
+- title: 'चुनौती: और मॉडर्न आर्ट'

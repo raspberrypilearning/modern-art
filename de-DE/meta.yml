@@ -17,9 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Zufällig ausgesuchte Farbe
-  - title: Zufällig ausgesuchter Ort
-  - title: 'Herausforderung: Schildkröten-Kunst'
-  - title: Moderne Kunst aus Rechtecken erstellen
-  - title: 'Herausforderung: Noch mehr Moderne Kunst'
+- title: Einleitung
+  completion: engaged
+- title: Zufällig ausgesuchte Farbe
+- title: Zufällig ausgesuchter Ort
+- title: 'Herausforderung: Schildkröten-Kunst'
+- title: Moderne Kunst aus Rechtecken erstellen
+  completion: internal
+- title: 'Herausforderung: Noch mehr Moderne Kunst'

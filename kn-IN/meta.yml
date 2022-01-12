@@ -17,9 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: ಪರಿಚಯ
-  - title: ವಿಭಿನ್ನ ಬಣ್ಣಗಳು
-  - title: ವಿಭಿನ್ನ ಸ್ಥಳ
-  - title: 'ಸವಾಲು: ಆಮೆ ಕಲೆ'
-  - title: ಆಯತ ನವ್ಯಕಲೆಗಳನ್ನು ರಚಿಸಿ
-  - title: 'ಸವಾಲು: ಅಧಿಕ ನವ್ಯಕಲೆ'
+- title: ಪರಿಚಯ
+  completion: engaged
+- title: ವಿಭಿನ್ನ ಬಣ್ಣಗಳು
+- title: ವಿಭಿನ್ನ ಸ್ಥಳ
+- title: 'ಸವಾಲು: ಆಮೆ ಕಲೆ'
+- title: ಆಯತ ನವ್ಯಕಲೆಗಳನ್ನು ರಚಿಸಿ
+  completion: internal
+- title: 'ಸವಾಲು: ಅಧಿಕ ನವ್ಯಕಲೆ'

@@ -17,9 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: ألوان عشوائية
-  - title: مكان عشوائي
-  - title: 'التحدي: فن رسم السلحفاة'
-  - title: صناعة مستطيل بواسطة الفن الحديث
-  - title: 'التحدي: المزيد من الفن الحديث'
+- title: المقدمة
+  completion: engaged
+- title: ألوان عشوائية
+- title: مكان عشوائي
+- title: 'التحدي: فن رسم السلحفاة'
+- title: صناعة مستطيل بواسطة الفن الحديث
+  completion: internal
+- title: 'التحدي: المزيد من الفن الحديث'

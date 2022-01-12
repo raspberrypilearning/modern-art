@@ -17,9 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 前書き
-  - title: ランダムな色
-  - title: ランダムに配置する
-  - title: 'チャレンジ: カメのアート'
-  - title: 長方形のモダンアートを作る
-  - title: 'チャレンジ: よりモダンなアート'
+- title: 前書き
+  completion: engaged
+- title: ランダムな色
+- title: ランダムに配置する
+- title: 'チャレンジ: カメのアート'
+- title: 長方形のモダンアートを作る
+  completion: internal
+- title: 'チャレンジ: よりモダンなアート'
