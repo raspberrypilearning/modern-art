@@ -48,7 +48,7 @@ Vous pouvez aussi trouver une version complétée du défi dans la section "Ress
 
 * Fonctions;
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](https://rpf.io/curriculum):
 
 * [Combine des constructions de programmation pour résoudre un problème.](https://www.raspberrypi.org/curriculum/programming/builder)
 

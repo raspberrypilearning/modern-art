@@ -48,7 +48,7 @@ title: ಕ್ಲಬ್ ನಾಯಕರ ಟಿಪ್ಪಣಿಗಳು
 
 * ಫುನ್ಕ್ಷನ್ಸ್ಪ;
 
-ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](http://rpf.io/curriculum) ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
+ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](https://rpf.io/curriculum) ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 * [ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಸಂಯೋಜಿಸಿ.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,12 +71,12 @@ title: ಪ್ರಾಜೆಕ್ಟ್ ವಸ್ತುಗಳು
 
 ## ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file ಎಲ್ಲಾ ಯೋಜನೆ ಸಂಪನ್ಮೂಲ](http://rpf.io/p/kn-IN/modern-art-go){:target="_blank"}
+* [.zip file ಎಲ್ಲಾ ಯೋಜನೆ ಸಂಪನ್ಮೂಲ](https://rpf.io/p/kn-IN/modern-art-go){:target="_blank"}
 * ['ಮಾಡರ್ನ್ ಆರ್ಟ್' ಸ್ಟಾರ್ಟರ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ ಆನ್‌ಲೈನ್ trinket](http://jumpto.cc/modern-go)
 
 ## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file ಎಲ್ಲಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ](http://rpf.io/p/kn-IN/modern-art-get){:target="_blank"}
+* [.zip file ಎಲ್ಲಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ](https://rpf.io/p/kn-IN/modern-art-get){:target="_blank"}
 * [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ trinket ಯೋಜನೆ](https://trinket.io/python/47bbc2fc2b)
 
 --- /collapse ---
