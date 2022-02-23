@@ -47,7 +47,7 @@ Una versione completa delle sfide di questo progetto è presente anche nella sez
 
 * Funzioni;
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combinare i costrutti base di un linguaggio di programmazione per risolvere un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 

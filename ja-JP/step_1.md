@@ -48,7 +48,7 @@ title: クラブリーダーノート
 
 * 関数;
 
-このプロジェクトでは 、[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の以下の要素をカバーしています。
+このプロジェクトでは 、[Raspberry Pi デジタル・メイキング・カリキュラム](https://rpf.io/curriculum)の以下の要素をカバーしています。
 
 * [プログラミング構造を組み合わせて問題を解決します。](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,12 +71,12 @@ title: プロジェクト資料
 
 ## プロジェクトリソース
 
-* [すべてのプロジェクトリソースを含む.zipファイル](http://rpf.io/p/ja-JP/modern-art-go){:target="_blank"}
+* [すべてのプロジェクトリソースを含む.zipファイル](https://rpf.io/p/ja-JP/modern-art-go){:target="_blank"}
 * ['モダンアート'のスタータリソースを含むオンラインTrinket](http://jumpto.cc/modern-go)
 
 ## クラブリーダー向けリソース
 
-* [すべての完成したプロジェクトリソースを含む.zipファイル](http://rpf.io/p/ja-JP/modern-art-get){:target="_blank"}
+* [すべての完成したプロジェクトリソースを含む.zipファイル](https://rpf.io/p/ja-JP/modern-art-get){:target="_blank"}
 * [完成版プロジェクトのオンラインTrinket](https://trinket.io/python/f3cadb86b9)
 
 --- /collapse ---

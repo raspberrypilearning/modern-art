@@ -48,7 +48,7 @@ title: Нотатки керівника гуртка
 
 * Функції;
 
-Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](https://rpf.io/curriculum):
 
 * [Застосування програмних конструкцій для вирішення проблем.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,12 +71,12 @@ title: Матеріали проєкту
 
 ## Ресурси проєкту
 
-* [.zip-файл, що містить усі ресурси проєкту](http://rpf.io/p/uk-UA/modern-art-go){:target="_blank"}
+* [.zip-файл, що містить усі ресурси проєкту](https://rpf.io/p/uk-UA/modern-art-go){:target="_blank"}
 * [Онлайн проєкт Trinket, що містить початкові ресурси проєкту "Сучасне мистецтво"](http://jumpto.cc/modern-go)
 
 ## Ресурси керівника гуртка
 
-* [.zip-файл, що містить усі завершені ресурси проєкту](http://rpf.io/p/uk-UA/modern-art-get){:target="_blank"}
+* [.zip-файл, що містить усі завершені ресурси проєкту](https://rpf.io/p/uk-UA/modern-art-get){:target="_blank"}
 * [Завершений онлайн проєкт Trinket](https://trinket.io/python/e672e4dff1)
 
 --- /collapse ---

@@ -48,7 +48,7 @@ title: Заметки для руководителя клуба
 
 * Функции;
 
-Этот проект охватывает элементы из следующих разделов [Учебного плана цифрового мастерства от Raspberry Pi](http://rpf.io/curriculum):
+Этот проект охватывает элементы из следующих разделов [Учебного плана цифрового мастерства от Raspberry Pi](https://rpf.io/curriculum):
 
 * [Комбинирование программных конструкций для решения задачи.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,12 +71,12 @@ title: Материалы проекта
 
 ## Ресурсы проекта
 
-* [.zip файл, содержащий все ресурсы проекта ](http://rpf.io/p/ru-RU/modern-art-go){:target="_blank"}
+* [.zip файл, содержащий все ресурсы проекта ](https://rpf.io/p/ru-RU/modern-art-go){:target="_blank"}
 * [Онлайн trinket, содержащий все стартовые ресурсы проекта «Современное искусство»](http://jumpto.cc/modern-go)
 
 ## Ресурсы для руководителя клуба
 
-* [.zip файл, содержащий все ресурсы завершенного проекта ](http://rpf.io/p/ru-RU/modern-art-get){:target="_blank"}
+* [.zip файл, содержащий все ресурсы завершенного проекта ](https://rpf.io/p/ru-RU/modern-art-get){:target="_blank"}
 * [Завершённый онлайн-проект в Trinket](https://trinket.io/python/76e1c018b9)
 
 --- /collapse ---

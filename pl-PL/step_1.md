@@ -48,7 +48,7 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 
 * Funkcje;
 
-Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Połącz konstrukcje programistyczne, aby rozwiązać problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,10 +71,10 @@ title: Materiały do projektu
 
 ## Zasoby projektu
 
-* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](http://rpf.io/p/pl-PL/modern-art-go){:target="_blank"}
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](https://rpf.io/p/pl-PL/modern-art-go){:target="_blank"}
 * [Szablon Online zawierający zasoby startowe „Sztuka nowoczesna”](https://trinket.io/python/c56f0fa287)
 
 ## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający zasoby z ukończonym projektem](http://rpf.io/p/pl-PL/modern-art-get){:target="_blank"}
+* [Plik .zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/pl-PL/modern-art-get){:target="_blank"}
 * [Trinket zawierający ukończony projekt](https://trinket.io/python/c0330a3725) --- /collapse ---

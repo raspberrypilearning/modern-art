@@ -48,7 +48,7 @@ title: ملاحظات قادة النادي
 
 * الوظائف؛
 
-يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](https://rpf.io/curriculum):
 
 * [لحل المشكلة، قم بدمج التعليمات البرمجية.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,12 +71,12 @@ title: مواد المشروع
 
 ## مصادر المشروع
 
-* [. ملف مضغوط يحتوي على جميع مصادر المشروع resources](http://rpf.io/p/ar-SA/modern-art-go){:target="_blank"}
+* [. ملف مضغوط يحتوي على جميع مصادر المشروع resources](https://rpf.io/p/ar-SA/modern-art-go){:target="_blank"}
 * [تحتوي Trinket في الإنترنت على مصادر بداية "الفن الحديث"](https://trinket.io/python/3e3ffa9d6f)
 
 ## مصادر قادة النادي
 
-* [. ملف مضغوط يحتوي على جميع مصادر المشروع resources](http://rpf.io/p/ar-SA/modern-art-get){:target="_blank"}
+* [. ملف مضغوط يحتوي على جميع مصادر المشروع resources](https://rpf.io/p/ar-SA/modern-art-get){:target="_blank"}
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/python/4f3783fd10)
 
 --- /collapse ---

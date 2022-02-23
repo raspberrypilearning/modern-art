@@ -48,7 +48,7 @@ title: क्लब नेता नोट
 
 * फंक्शन्स;
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
 
 * [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -71,12 +71,12 @@ title: प्रोजेक्ट सामग्री
 
 ## प्रोजेक्ट संसाधन
 
-* [.zip फ़ाइल जिसमें सभी प्रोजेक्ट संसाधन हों ](http://rpf.io/p/hi-IN/modern-art-go){:target="_blank"}
+* [.zip फ़ाइल जिसमें सभी प्रोजेक्ट संसाधन हों ](https://rpf.io/p/hi-IN/modern-art-go){:target="_blank"}
 * [ऑनलाइन ट्रिंकेट जिसमें 'मॉडर्न आर्ट' स्टार्टर संसाधन हैं](http://jumpto.cc/modern-go)
 
 ## क्लब नेता संसाधन
 
-* [.zip फ़ाइल जिसमें सभी पूर्ण परियोजना संसाधन हों ](http://rpf.io/p/hi-IN/modern-art-get){:target="_blank"}
+* [.zip फ़ाइल जिसमें सभी पूर्ण परियोजना संसाधन हों ](https://rpf.io/p/hi-IN/modern-art-get){:target="_blank"}
 * [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/python/7b9eeec0dd)
 
 --- /collapse ---

@@ -48,7 +48,7 @@ title: 교육자들을 위한 메모
 
 * 함수;
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](https://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
 * [프로그래밍 구조를 결합하여 문제 해결하기](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -70,12 +70,12 @@ title: 프로젝트 자료
 ---
 ## 프로젝트 리소스
 
-* 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](http://rpf.io/p/ko-KR/modern-art-go){:target="_blank"}
+* 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](https://rpf.io/p/ko-KR/modern-art-go){:target="_blank"}
 * ['현대 미술' 리소스가 포함 된 온라인 Trinket 자료](http://jumpto.cc/modern-go)
 
 ## 교육자를 위한 자료
 
-* 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](http://rpf.io/p/ko-KR/modern-art-get){:target="_blank"}
+* 모든 프로젝트 리소스를 포함하는 [.zip 파일 ](https://rpf.io/p/ko-KR/modern-art-get){:target="_blank"}
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/python/cbf88f4d9c)
 
 --- /collapse ---
