@@ -17,9 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Losowe kolory
-  - title: Losowe miejsce
-  - title: 'Wyzwanie: sztuka żółwia'
-  - title: Stwórz prostokąt sztuki nowoczesnej
-  - title: 'Wyzwanie: bardziej nowoczesna sztuka'
+- title: Wprowadzenie
+- title: Losowe kolory
+- title: Losowe miejsce
+  completion:
+  - engaged
+- title: 'Wyzwanie: sztuka żółwia'
+- title: Stwórz prostokąt sztuki nowoczesnej
+  completion:
+  - internal
+- title: 'Wyzwanie: bardziej nowoczesna sztuka'

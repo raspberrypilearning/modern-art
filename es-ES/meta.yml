@@ -17,9 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Colores aleatorios
-  - title: Lugar aleatorio
-  - title: 'Desafío: Arte con tortugas'
-  - title: Crea arte moderno rectangular
-  - title: 'Desafío: Más arte moderno'
+- title: Introducción
+- title: Colores aleatorios
+- title: Lugar aleatorio
+  completion:
+  - engaged
+- title: 'Desafío: Arte con tortugas'
+- title: Crea arte moderno rectangular
+  completion:
+  - internal
+- title: 'Desafío: Más arte moderno'

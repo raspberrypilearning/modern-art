@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 theme: violet
 duration: 2
@@ -19,6 +20,10 @@ steps:
 - title: Introduction
 - title: Couleurs aléatoires
 - title: Position aléatoire
+  completion:
+  - engaged
 - title: 'Défi: art avec une tortue'
 - title: Créer de l'art moderne rectangulaire
+  completion:
+  - internal
 - title: 'Défi: plus d''art moderne'

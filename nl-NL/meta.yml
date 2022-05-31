@@ -17,9 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Willekeurige kleuren
-  - title: Willekeurige plek
-  - title: 'Uitdaging: schildpaddenkunst'
-  - title: Maak rechthoekige moderne kunst
-  - title: 'Uitdaging: meer moderne kunst'
+- title: Inleiding
+- title: Willekeurige kleuren
+- title: Willekeurige plek
+  completion:
+  - engaged
+- title: 'Uitdaging: schildpaddenkunst'
+- title: Maak rechthoekige moderne kunst
+  completion:
+  - internal
+- title: 'Uitdaging: meer moderne kunst'

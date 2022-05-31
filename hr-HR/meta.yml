@@ -17,9 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Nasumične boje
-  - title: Nasumična pozicija
-  - title: 'Izazov: kornjačina umjetnost'
-  - title: Kreiraj modernu umjetnost s pravokutnicima
-  - title: 'Izazov: još moderne umjetnosti'
+- title: Uvod
+- title: Nasumične boje
+- title: Nasumična pozicija
+  completion:
+  - engaged
+- title: 'Izazov: kornjačina umjetnost'
+- title: Kreiraj modernu umjetnost s pravokutnicima
+  completion:
+  - internal
+- title: 'Izazov: još moderne umjetnosti'

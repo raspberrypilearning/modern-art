@@ -17,9 +17,13 @@ software: python
 version: 3
 last_tested: 01/01/2017
 steps:
-  - title: Introdução
-  - title: Cores aleatórias
-  - title: Lugar aleatório
-  - title: 'Desafio: arte da tartaruga'
-  - title: Criar arte moderna retangular
-  - title: 'Desafio: mais arte moderna'
+- title: Introdução
+- title: Cores aleatórias
+- title: Lugar aleatório
+  completion:
+  - engaged
+- title: 'Desafio: arte da tartaruga'
+- title: Criar arte moderna retangular
+  completion:
+  - internal
+- title: 'Desafio: mais arte moderna'

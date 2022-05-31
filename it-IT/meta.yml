@@ -17,9 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Colori casuali
-  - title: Posizione casuale
-  - title: 'Sfida: Arte a tartaruga'
-  - title: Crea arte moderna rettangolare
-  - title: 'Sfida: Altra arte moderna'
+- title: Introduzione
+- title: Colori casuali
+- title: Posizione casuale
+  completion:
+  - engaged
+- title: 'Sfida: Arte a tartaruga'
+- title: Crea arte moderna rettangolare
+  completion:
+  - internal
+- title: 'Sfida: Altra arte moderna'
