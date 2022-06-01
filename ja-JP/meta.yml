@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 前書き
-  completion: engaged
 - title: ランダムな色
 - title: ランダムに配置する
+  completion:
+  - engaged
 - title: 'チャレンジ: カメのアート'
 - title: 長方形のモダンアートを作る
-  completion: internal
+  completion:
+  - internal
 - title: 'チャレンジ: よりモダンなアート'

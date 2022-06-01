@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Colores aleatorios
 - title: Lugar aleatorio
+  completion:
+  - engaged
 - title: 'Desafío: Arte con tortugas'
 - title: Crea arte moderno rectangular
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: Más arte moderno'

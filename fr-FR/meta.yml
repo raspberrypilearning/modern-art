@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Couleurs aléatoires
 - title: Position aléatoire
+  completion:
+  - engaged
 - title: 'Défi: art avec une tortue'
 - title: Créer de l'art moderne rectangulaire
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi: plus d''art moderne'

@@ -19,10 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: यादृच्छिक रंग
 - title: कोणतेही स्थान
+  completion:
+  - engaged
 - title: 'आव्हान: Turtle कला'
 - title: आयत आधुनिक कला तयार करा
-  completion: internal
+  completion:
+  - internal
 - title: 'आव्हान: अधिक आधुनिक कला'

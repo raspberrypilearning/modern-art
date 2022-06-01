@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Τυχαία χρώματα
 - title: Τυχαία θέση
+  completion:
+  - engaged
 - title: 'Πρόκληση: Τέχνη με χελώνες'
 - title: Δημιούργησε σύγχρονη τέχνη με ορθογώνια
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: Περισσότερη σύγχρονη τέχνη'

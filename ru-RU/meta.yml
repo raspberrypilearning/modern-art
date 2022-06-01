@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Введение
-  completion: engaged
 - title: Случайные цвета
 - title: Случайное место
+  completion:
+  - engaged
 - title: 'Задача: черепашье искусство'
 - title: Прямоугольное современное искусство
-  completion: internal
+  completion:
+  - internal
 - title: 'Задача: Больше современного искусства'

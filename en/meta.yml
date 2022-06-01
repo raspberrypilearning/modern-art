@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Random colours
 - title: Random place
+  completion:
+  - engaged
 - title: 'Challenge: Turtle art'
 - title: Create rectangle modern art
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: More modern art'

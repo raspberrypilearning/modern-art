@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Losowe kolory
 - title: Losowe miejsce
+  completion:
+  - engaged
 - title: 'Wyzwanie: sztuka żółwia'
 - title: Stwórz prostokąt sztuki nowoczesnej
-  completion: internal
+  completion:
+  - internal
 - title: 'Wyzwanie: bardziej nowoczesna sztuka'

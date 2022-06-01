@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Zufällig ausgesuchte Farbe
 - title: Zufällig ausgesuchter Ort
+  completion:
+  - engaged
 - title: 'Herausforderung: Schildkröten-Kunst'
 - title: Moderne Kunst aus Rechtecken erstellen
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Noch mehr Moderne Kunst'

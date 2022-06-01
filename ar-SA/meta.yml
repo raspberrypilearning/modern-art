@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: ألوان عشوائية
 - title: مكان عشوائي
+  completion:
+  - engaged
 - title: 'التحدي: فن رسم السلحفاة'
 - title: صناعة مستطيل بواسطة الفن الحديث
-  completion: internal
+  completion:
+  - internal
 - title: 'التحدي: المزيد من الفن الحديث'
