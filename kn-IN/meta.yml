@@ -23,9 +23,13 @@ steps:
     title: ವಿಭಿನ್ನ ಬಣ್ಣಗಳು
   - 
     title: ವಿಭಿನ್ನ ಸ್ಥಳ
+    completion:
+      - engaged
   - 
     title: 'ಸವಾಲು: ಆಮೆ ಕಲೆ'
   - 
     title: ಆಯತ ನವ್ಯಕಲೆಗಳನ್ನು ರಚಿಸಿ
+    completion:
+      - internal
   - 
     title: 'ಸವಾಲು: ಅಧಿಕ ನವ್ಯಕಲೆ'
