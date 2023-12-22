@@ -47,7 +47,7 @@
 
 * ಫುನ್ಕ್ಷನ್ಸ್ಪ;
 
-ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](http://rpf.io/curriculum) ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಸಂಯೋಜಿಸಿ.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@
 
 ## ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file ಎಲ್ಲಾ ಯೋಜನೆ ಸಂಪನ್ಮೂಲ](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * ['ಮಾಡರ್ನ್ ಆರ್ಟ್' ಸ್ಟಾರ್ಟರ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ ಆನ್‌ಲೈನ್ trinket](http://jumpto.cc/modern-go)
 
 ## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file ಎಲ್ಲಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ trinket ಯೋಜನೆ](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
