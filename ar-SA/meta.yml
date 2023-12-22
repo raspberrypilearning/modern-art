@@ -23,9 +23,13 @@ steps:
     title: ألوان عشوائية
   - 
     title: مكان عشوائي
+    completion:
+      - engaged
   - 
     title: 'التحدي: فن رسم السلحفاة'
   - 
     title: صناعة مستطيل بواسطة الفن الحديث
+    completion:
+      - internal
   - 
     title: 'التحدي: المزيد من الفن الحديث'
