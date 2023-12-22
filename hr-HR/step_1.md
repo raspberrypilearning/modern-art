@@ -47,7 +47,7 @@ Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer R
 
 * Funkcije;
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Uporaba različitih programskih struktura za rješavanje problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry
 
 ## Resursi projekta
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket koji sadrži početne materijale projekta 'Moderna umjetnost'](http://jumpto.cc/modern-go)
 
 ## Materijali za voditelja Kluba
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
