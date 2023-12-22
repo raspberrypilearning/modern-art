@@ -47,7 +47,7 @@
 
 * Функції;
 
-Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Застосування програмних конструкцій для вирішення проблем.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@
 
 ## Ресурси проєкту
 
-* [.zip-файл, що містить усі ресурси проєкту](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Онлайн проєкт Trinket, що містить початкові ресурси проєкту "Сучасне мистецтво"](http://jumpto.cc/modern-go)
 
 ## Ресурси керівника гуртка
 
-* [.zip-файл, що містить усі завершені ресурси проєкту](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Завершений онлайн проєкт Trinket](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
