@@ -47,7 +47,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 * Functions;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [.zip file containing all project resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Online Trinket containing 'Modern Art' starter resources](http://jumpto.cc/modern-go)
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Online completed Trinket project](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
