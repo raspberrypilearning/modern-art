@@ -23,9 +23,13 @@ steps:
     title: Couleurs aléatoires
   - 
     title: Position aléatoire
+    completion:
+      - engaged
   - 
     title: 'Défi : Art avec une tortue'
   - 
     title: Créer de l'art moderne rectangulaire
+    completion:
+      - internal
   - 
     title: 'Défi : Plus d''art moderne'
