@@ -1,6 +1,6 @@
 #!/bin/python3
 
-#ये कोड एक random आकार के रेक्टेंगल (rectangle) बनाने के लिए हैं
+#यह कोड एक यादृच्छिक आकर का रेक्टेंगल बनाने के लिए है
   hideturtle()
   length = randint(10, 100)
   height = randint(10, 100)
@@ -15,7 +15,7 @@
   right(90)
   end_fill()
   
-# स्टार बनाने के लिए कोड
+#तारा बनाने के लिए कोड
   begin_fill()
   for side in range(5):
     left(144)
