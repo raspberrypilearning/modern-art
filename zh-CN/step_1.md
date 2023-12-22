@@ -47,7 +47,7 @@
 
 * 函数
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [结合编程结构解决问题。](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@
 
 ## 项目资源
 
-* [.zip文件，其中包含所有项目资源](http://rpf.io/p/en/modern-art-go) {:target =“ _ blank”}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [包含“现代艺术”资源的在线Trinket](http://jumpto.cc/modern-go)
 
 ## 俱乐部导师资源
 
-* [.zip文件，其中包含所有项目资源](http://rpf.io/p/en/modern-art-get) {:target =“ _ blank”}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [在线完整版Trinket项目](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
