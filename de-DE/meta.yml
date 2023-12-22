@@ -23,9 +23,13 @@ steps:
     title: Zufällig ausgesuchte Farbe
   - 
     title: Zufällig ausgesuchter Ort
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: Schildkröten-Kunst'
   - 
     title: Ein Rechteck in Moderner Kunst erstellen
+    completion:
+      - internal
   - 
     title: 'Aufgabe: Noch mehr Moderne Kunst'
