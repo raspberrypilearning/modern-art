@@ -47,7 +47,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 * Funções;
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combine construções de programação para resolver um problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do projeto
 
-* [Arquivo .zip contendo todos os recursos do projeto](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [Trinket online contendo recursos iniciais de "Arte Moderna"](http://jumpto.cc/modern-go)
 
 ## Recursos para o Líder do Clube
 
-* [Arquivo .zip contendo todos os recursos concluídos do projeto](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [Projeto Trinket concluído online](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
