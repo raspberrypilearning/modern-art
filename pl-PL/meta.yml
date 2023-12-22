@@ -23,9 +23,13 @@ steps:
     title: Losowe kolory
   - 
     title: Losowe miejsce
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: Sztuka żółwia'
   - 
     title: Stwórz prostokąt sztuki nowoczesnej
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: bardziej nowoczesna sztuka'
