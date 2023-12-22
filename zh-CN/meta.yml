@@ -23,9 +23,13 @@ steps:
     title: 随机颜色
   - 
     title: 随机位置
+    completion:
+      - engaged
   - 
     title: '挑战：海龟艺术'
   - 
     title: 创建矩形现代艺术
+    completion:
+      - internal
   - 
     title: '挑战：更多现代艺术'
