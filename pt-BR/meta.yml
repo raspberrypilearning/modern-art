@@ -23,9 +23,13 @@ steps:
     title: Cores aleatórias
   - 
     title: Lugar aleatório
+    completion:
+      - engaged
   - 
     title: 'Desafio: arte da tartaruga'
   - 
     title: Criar arte moderna retangular
+    completion:
+      - internal
   - 
     title: 'Desafio: Mais arte moderna'
