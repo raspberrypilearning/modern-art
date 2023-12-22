@@ -1,45 +1,45 @@
-## Create rectangle modern art
+## Criar arte moderna retangular
 
-Now let’s create some modern art by drawing lots of rectangles of different sizes and colours.
+Agora vamos criar alguma arte moderna desenhando muitos retângulos de diferentes tamanhos e cores.
 
-+ First add the following code to the bottom of your script, after your challenge code, to clear the screen after your turtle art and point the turtle in its usual direction:
++ Primeiro adiciona o código seguinte ao final do teu script, após o teu código de desafio, para limpar o ecrã após a arte da tartaruga e aponta a tartaruga na direção usual:
     
-    ![screenshot](images/modern-reset.png)
+    ![captura de ecrã](images/modern-reset.png)
 
-+ You can comment out your turtle art code by placing a `#` at the beginning of each line so that it doesn’t run while you are working on rectangle art. (Then you can uncomment it later to show off all of your work.)
++ Podes comentar o teu código de arte de tartaruga colocando `#` no início de cada linha para que ele não seja executado enquanto estiveres a trabalhar na arte de retângulo. (Podes descomentar mais tarde para mostrar todo o teu trabalho.)
     
-    ![screenshot](images/modern-comment.png)
+    ![captura de ecrã](images/modern-comment.png)
 
-+ Now let’s add a function to draw a random-sized, random-coloured rectangle at a random location!
++ Agora vamos adicionar uma função para desenhar um retângulo aleatório de tamanho aleatório num local aleatório!
     
-    Add a `drawrectangle()` function after your other functions:
+    Adiciona uma função `desenhaRetangulo ()` após as tuas outras funções:
     
-    ![screenshot](images/modern-rect-function.png)
+    ![captura de ecrã](images/modern-rect-function.png)
     
-    Look in `snippets.py` for some helper code if you want to save some typing time.
+    Procura em ` snippets.py ` por algum código auxiliar, se quiseres economizar algum tempo de digitação.
 
-+ Add the following code at the bottom of `main.py` to call your new function:
++ Adiciona o seguinte código na parte inferior de `main.py` para chamar a tua nova função:
     
-    ![screenshot](images/modern-call-rect.png)
+    ![captura de ecrã](images/modern-call-rect.png)
     
-    Run your script a few times to see the height and width change.
+    Executa o teu script algumas vezes para ver a altura e a largura mudarem.
 
-+ The rectangle is always the same colour and starts at the same location.
++ O retângulo é sempre da mesma cor e começa no mesmo local.
     
-    Now you’ll need to set the turtle to a random colour and then move it to a random place. Hey, didn’t you already create functions to do that? Awesome. You can just call them from the beginning of the drawrectangle function:
+    Agora precisas definir a tartaruga para uma cor aleatória e posteriormente movê-la para um local aleatório. Ei, não criaste já funções para fazer isso? Impressionante. Podes apenas chamá-las desde o início da função desenhaRetangulo:
     
-    ![screenshot](images/modern-random-rect.png)
+    ![captura de ecrã](images/modern-random-rect.png)
     
-    Wow that was a lot less work, and it’s much easier to read.
+    Uau, isso foi muito menos trabalho, e é muito mais fácil de ler.
 
-+ Now let's call `drawrectangle()` in a loop to create some cool modern art:
++ Agora vamos chamar `desenhaRetangulo()` num ciclo para criar uma arte moderna divertida:
     
-    ![screenshot](images/modern-rect-art.png)
+    ![captura de ecrã](images/modern-rect-art.png)
 
-+ Gosh that was a bit slow wasn’t it! Luckily you can speed the turtle up.
++ Puxa que foi um pouco lento não foi! Felizmente podes acelerar a tartaruga.
     
-    Find the line where you set the shape to 'turtle' and add the highlighted code:
+    Encontre a linha em que definiste a forma como "turtle" e adiciona o código realçado:
     
-    ![screenshot](images/modern-speed.png)
+    ![captura de ecrã](images/modern-speed.png)
     
-    `speed(0)` is the fastest or you can use numbers from 1 (slow) to 10 (fast.) Experiment until you find a speed you like.
+    `speed(0)` é o mais rápido ou tu podes usar números de 1 (lento) a 10 (rápido). Experimenta até encontrares uma velocidade que gostas.
