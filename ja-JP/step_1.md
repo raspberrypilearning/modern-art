@@ -47,7 +47,7 @@
 
 * 関数;
 
-このプロジェクトでは 、[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の以下の要素をカバーしています。
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [プログラミング構造を組み合わせて問題を解決します。](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@
 
 ## プロジェクトリソース
 
-* [すべてのプロジェクトリソースを含む.zipファイル](http://rpf.io/p/en/modern-art-go) {:target="_ blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * ['モダンアート'のスタータリソースを含むオンラインTrinket](http://jumpto.cc/modern-go)
 
 ## クラブリーダー向けリソース
 
-* [すべての完成したプロジェクトリソースを含む.zipファイル](http://rpf.io/p/en/modern-art-get) {:target="_ blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [完成版プロジェクトのオンラインTrinket](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
