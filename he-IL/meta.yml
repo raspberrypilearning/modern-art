@@ -23,9 +23,13 @@ steps:
     title: Random colours
   - 
     title: Random place
+    completion:
+      - engaged
   - 
     title: 'Challenge: Turtle art'
   - 
     title: Create rectangle modern art
+    completion:
+      - internal
   - 
     title: 'Challenge: More modern art'
