@@ -1,22 +1,22 @@
-## Random colours
+## Cores aleatórias
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
++ Abre este trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255.
++ Tu podes definir a cor de uma tartaruga dizendo quanto vermelho, verde e azul tu gostarias de 0 a 255.
     
-    Add the following code to get a purple turtle:
+    Adiciona o seguinte código para obter uma tartaruga roxa:
     
-    ![screenshot](images/modern-purple.png)
+    ![captura de ecrã](images/modern-purple.png)
     
-    Purple is made by mixing together red and blue.
+    O roxo é feito misturando vermelho e azul.
 
 ## \--- collapse \---
 
-## title: "Error - bad color sequence: (150, 0, 150)"
+## title: "Erro - sequência de cores errada: (150, 0, 150)"
 
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
+Tu recebes o erro ` sequência de cores errada: (150, 0, 150) ` ao executar o teu código.
 
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
+Isto ocorre porque o trinket usa um modo de cor diferente para outros editores Python. Pode ser corrigido alterando o `colormode - modo de cor` para ` 255 `.
 
 ```python
 from turtle import *
@@ -29,34 +29,34 @@ color(150,0,150)
 
 \--- /collapse \---
 
-+ Try some different numbers to get different colours.
++ Tenta diferentes números para obter cores diferentes.
     
-    Remember each number can be from 0 to 255.
+    Lembra-te de que cada número pode ser de 0 a 255.
 
-+ How about choosing a random colour?
++ Que tal escolher uma cor aleatória?
     
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
+    Atualiza o teu código para escolher um número aleatório entre 0 e 255 para os valores vermelho, verde e azul:
     
-    ![screenshot](images/modern-random-colour.png)
+    ![captura de ecrã](images/modern-random-colour.png)
 
-+ Click ‘Run’ a few times to get different coloured turtles.
++ Clica em "Executar" algumas vezes para obter diferentes tartarugas coloridas.
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read.
++ Isto é divertido, mas é muito para recordar e escrever todas as vezes que quiseres definir uma tartaruga para uma cor aleatória e não é muito fácil de ler.
     
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour.
+    Em Python, podemos escrever ` def ` para definir uma função que podemos chamar sempre que precisarmos de definir a tartaruga para uma cor aleatória.
     
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you.
+    Tu já estás a chamar funções, ` color () ` e ` randint () ` são funções que foram definidas para ti.
     
-    Let’s put the random colour code into a function using def:
+    Vamos colocar o código da cor aleatória numa função usando def:
     
-    ![screenshot](images/modern-colour-function.png)
+    ![captura de ecrã](images/modern-colour-function.png)
     
-    Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports.
+    Certifica-te de indentar o código dentro da função. As funções geralmente são colocadas na parte superior do script após as importações.
 
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet.
++ Se tu 'Executares' o teu código agora não recebes nenhuma tartaruga de cor aleatória. Isso porque tu definiste a tua função, mas ainda não a chamaste.
 
-+ Add a line to call your new function:
++ Adicione uma linha para chamar a tua nova função:
     
-    ![screenshot](images/modern-call-colour.png)
+    ![captura de ecrã](images/modern-call-colour.png)
     
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+    Observa que o teu novo código é muito mais fácil de entender porque a parte complexa está na função. É fácil descobrir o que ` corAleatoria() ` faz.
