@@ -23,9 +23,13 @@ steps:
     title: यादृच्छिक रंग
   - 
     title: कोणतेही स्थान
+    completion:
+      - engaged
   - 
     title: 'आव्हान: Turtle कला'
   - 
     title: आयत आधुनिक कला तयार करा
+    completion:
+      - internal
   - 
     title: 'आव्हान: अधिक आधुनिक कला'
