@@ -23,9 +23,13 @@ steps:
     title: Colores aleatorios
   - 
     title: Lugar aleatorio
+    completion:
+      - engaged
   - 
     title: 'Desafío: Arte con tortugas'
   - 
     title: Crea arte moderno rectangular
+    completion:
+      - internal
   - 
     title: 'Desafío: Más arte moderno'
