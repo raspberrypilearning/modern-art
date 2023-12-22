@@ -47,7 +47,7 @@
 
 * الوظائف؛
 
-يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [لحل المشكلة، قم بدمج التعليمات البرمجية.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@
 
 ## مصادر المشروع
 
-* [. ملف مضغوط يحتوي على جميع مصادر المشروع resources](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * [تحتوي Trinket في الإنترنت على مصادر بداية "الفن الحديث"](http://jumpto.cc/modern-go)
 
 ## مصادر قادة النادي
 
-* [. ملف مضغوط يحتوي على جميع مصادر المشروع resources](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
