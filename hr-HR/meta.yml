@@ -23,9 +23,13 @@ steps:
     title: Nasumične boje
   - 
     title: Nasumična pozicija
+    completion:
+      - engaged
   - 
     title: 'Izazov: Kornjačina umjetnost'
   - 
     title: Kreiraj modernu umjetnost s pravokutnicima
+    completion:
+      - internal
   - 
     title: 'Izazov: Još moderne umjetnosti'
