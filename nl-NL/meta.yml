@@ -23,9 +23,13 @@ steps:
     title: Willekeurige kleuren
   - 
     title: Willekeurige plek
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: schildpaddenkunst'
   - 
     title: Maak rechthoekige moderne kunst
+    completion:
+      - internal
   - 
     title: 'Uitdaging: meer moderne kunst'
