@@ -47,7 +47,7 @@
 
 * फुंकशन्स;
 
-ह्या प्रोजेक्ट मध्ये [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) च्या अभयासक्रमातील पुढील घटकांचा समावेश आहे:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [समस्या सोडवण्यासाठी प्रोग्रामिंग संकल्पना एकत्र करा.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -69,12 +69,12 @@
 
 ## प्रकल्प संसाधने
 
-* [सर्व प्रकल्प संसाधने असलेली .zip फाईल](http://rpf.io/p/en/modern-art-go){:target="_blank"}
+* [.zip file containing all project resources](https://rpf.io/p/en/modern-art-go){:target="_blank"}
 * ['मॉडर्न आर्ट' स्टार्टर संसाधने असलेली ऑनलाइन Trinket](http://jumpto.cc/modern-go)
 
 ## क्लब प्रमुख संसाधने
 
-* [सर्व प्रकल्प संसाधने असलेली .zip फाईल](http://rpf.io/p/en/modern-art-get){:target="_blank"}
+* [.zip file containing all completed project resources](https://rpf.io/p/en/modern-art-get){:target="_blank"}
 * [ऑनलाईन पूर्ण Trinket प्रकल्प](https://trinket.io/python/47bbc2fc2b)
 
 \--- /collapse \---
