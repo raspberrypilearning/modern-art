@@ -23,9 +23,13 @@ steps:
     title: 무작위 색상
   - 
     title: 무작위 위치
+    completion:
+      - engaged
   - 
     title: '도전 과제: 거북이 미술'
   - 
     title: 사각형 현대 미술 작품 만들기
+    completion:
+      - internal
   - 
     title: '도전 과제: 다양한 현대 미술'
