@@ -21,7 +21,6 @@ colormode(255)
 
 shape("turtle")
 color(150, 0, 150)
-
 --- /code ---
    
 Purple is made by mixing together red and blue.
@@ -37,6 +36,9 @@ Remember each number can be from 0 to 255.
 --- /task ---
 
 --- task ---
++How about choosing a random colour?
+
+Update your code to choose a random number between 0 and 255 for the red, green and blue values:
 
 --- code ---
 ---
@@ -44,7 +46,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 3-6
+line_highlights: 6-9
 ---
 from turtle import *
 from random import *
@@ -52,37 +54,94 @@ from random import *
 colormode(255)
 
 shape("turtle")
-color(150, 0, 150)
+red = randint(0, 255)
+green = randint(0, 255)
+blue = randint(0, 255)
+color(red, green, blue)
 
 --- /code ---
 
 --- /task ---
 
-+ How about choosing a random colour?
+--- task ---
 
-    Update your code to choose a random number between 0 and 255 for the red, green and blue values:
-    
-    ![screenshot](images/modern-random-colour.png)
+Click ‘Run’ a few times to get different coloured turtles.
 
-+ Click ‘Run’ a few times to get different coloured turtles.
+--- /task ---
 
-+ That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read. 
+--- task ---
 
-    In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour. 
+That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read. 
 
-    You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you. 
+In Python we can write `def` to define a function that we can call whenever we need to set the turtle to a random colour. 
 
-    Let’s put the random colour code into a function using def:
+You’ve been calling functions already, `color()` and `randint()` are functions that have been defined for you. 
+
+Let’s put the random colour code into a function using def:
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 6-11
+---
+from turtle import *
+from random import *
+
+colormode(255)
+
+
+def randomcolour():
+    red = randint(0, 255)
+    green = randint(0, 255)
+    blue = randint(0, 255)
+    color(red, green, blue)
+
+
+shape("turtle")
+--- /code ---
+      
+Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports. 
+
+--- /task ---
+
+--- task ---
+
+If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet. 
   
-    ![screenshot](images/modern-colour-function.png)
-    
-  Make sure you indent the code inside the function. Functions are usually placed at the top of the script after the imports. 
+Add a line to call your new function:
   
-+ If you ‘Run’ your code now you don’t get a random coloured turtle. That’s because you have defined your function, but not called it yet. 
-  
-+ Add a line to call your new function:
-  
-    ![screenshot](images/modern-call-colour.png)
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 15
+---
+from turtle import *
+from random import *
 
-    Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+colormode(255)
+
+
+def randomcolour():
+    red = randint(0, 255)
+    green = randint(0, 255)
+    blue = randint(0, 255)
+    color(red, green, blue)
+
+
+shape("turtle")
+randomcolour()
+--- /code ---
+
+Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
+
+--- /task ---
+
+  
+
 
