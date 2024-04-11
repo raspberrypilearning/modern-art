@@ -2,11 +2,7 @@
 
 In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/modern-finished.png">
-</div>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/modern-art-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 ### Additional information for club leaders
 
