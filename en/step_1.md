@@ -2,7 +2,7 @@
 
 In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/modern-art-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/modern-art-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 ### Additional information for club leaders
 
