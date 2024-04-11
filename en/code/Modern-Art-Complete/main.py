@@ -1,6 +1,8 @@
 from turtle import *
 from random import *
 
+colormode(255)
+
 def randomcolour():
   red = randint(0, 255)
   green = randint(0, 255)
