@@ -1,38 +1,62 @@
 ## Random colours
 
-+ Open this trinket: <a href="http://jumpto.cc/modern-go" target="_blank">jumpto.cc/modern-go</a>. 
+Open the [Modern Art starter](https://editor.raspberrypi.org/en/projects/modern-art-starter){:target="_blank"} project. The code editor will open in another browser tab.
 
-+ You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255. 
+--- task ---
+You can set the colour of a turtle by saying how much red, green and blue you would like from 0 to 255. 
 
-    Add the following code to get a purple turtle:
+Add the following code to get a purple turtle:
 
-    ![screenshot](images/modern-purple.png)
-   
-    Purple is made by mixing together red and blue.
-
---- collapse ---
+--- code ---
 ---
-title: "Error - bad color sequence: (150, 0, 150)"
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 3-6
 ---
-
-Do you get the error `bad color sequence: (150, 0, 150)` when running your code.
-
-This is because trinket uses a different colour mode to other Python editors. It can be fixed by changing the `colormode` to `255`.
-
-```python
 from turtle import *
 
 colormode(255)
 
 shape("turtle")
-color(150,0,150)
-```
+color(150, 0, 150)
 
---- /collapse ---
+--- /code ---
+   
+Purple is made by mixing together red and blue.
 
-+ Try some different numbers to get different colours. 
+--- /task ---
 
-    Remember each number can be from 0 to 255. 
+--- task ---
+
+Try some different numbers to get different colours. 
+
+Remember each number can be from 0 to 255. 
+
+--- /task ---
+
+--- task ---
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 3-6
+---
+from turtle import *
+from random import *
+
+colormode(255)
+
+shape("turtle")
+color(150, 0, 150)
+
+--- /code ---
+
+--- /task ---
 
 + How about choosing a random colour?
 

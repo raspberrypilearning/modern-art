@@ -16,16 +16,6 @@ title: Club leader notes
 ## Introduction:
 This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
 
-## Online Resources
-
-__This project uses Python 3.__ We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
-
-+ ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
-
-There is also a trinket containing a sample solution to the challenges:
-
-+ ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
-
 ## Offline Resources
 
 This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
@@ -39,19 +29,10 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Learning Objectives
-
-+ Functions;
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
-
-+ [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
-
 ## Challenges
 
 + Turtle art - define a new function to complete the turtle art generator.
 + More modern art - create a new function that calls other functions to generate modern art.
-
 
 ## Frequently Asked Questions
 
