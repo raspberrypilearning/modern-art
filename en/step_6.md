@@ -1,5 +1,3 @@
---- challenge ---
-
 ## Challenge: More modern art
 
 Can you create a function that draws a shape and calls your `randomcolour()` and / or `randomplace()` functions? 
@@ -15,5 +13,3 @@ Ideas:
 - Look in `snippets.py` for example code to draw stars with the turtle.
     
     ![screenshot](images/modern-stars.png) 
-
---- /challenge ---
