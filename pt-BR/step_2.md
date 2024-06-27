@@ -1,6 +1,6 @@
 ## Cores aleatórias
 
-+ Abra este trinket: <a href="https://trinket.io/python/3a98dc09b2o" target="_blank">trinket.io/python/3a98dc09b2o</a>.
++ Abra este trinket: <a href="https://trinket.io/python/3a98dc09b2" target="_blank">jumpto.cc/modern-go</a>.
 
 + Você pode definir a cor de uma tartaruga dizendo quanto de vermelho, verde e azul você gostaria de 0 a 255.
     
