@@ -22,8 +22,7 @@ steps:
   completion:
   - engaged
 - title: Random place
-- title: 'Challenge: Turtle art'
-  challenge: true
+- title: Turtle art
 - title: Create rectangle modern art
   completion:
   - internal
