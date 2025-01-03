@@ -17,8 +17,8 @@ line_numbers: true
 line_number_start: 5
 line_highlights: 5-6
 ---
-shape("turtle")
 color(255, 0, 0)
+shape("turtle")
 --- /code ---
 
 --- /task ---
@@ -41,37 +41,35 @@ Update your code to choose a random number between 0 and 255 for the red, green 
 language: python
 line_numbers: true
 line_number_start: 5
-line_highlights: 6-9
+line_highlights: 5-8
 ---
-shape("turtle")
 red = randint(0, 255)
 green = randint(0, 255)
 blue = randint(0, 255)
 color(red, green, blue)
+shape("turtle")
 --- /code ---
 --- /task ---
 
 --- task ---
-Click **Stop** then click **Run** a few times to get different coloured turtles.
+Click **Run** a few times to see different coloured turtles.
 --- /task ---
-
 
 
 That’s fun, but it’s a lot to remember and type every time you want to set a turtle to a random colour and it’s not very easy to read. 
 
-In Python we can write `def` to give this section of code a name that we can use to run it whenever we need to set the turtle to a random colour. 
-
+In Python you can give this section of code a name, and then run it whenever you want to set the turtle to a random colour. This is called a **function**.
 
 --- task ---
 
-Put the random colour code into a function using def:
+Put the random colour code into a function by adding a `def` with a name, and then indenting it.
 
 --- code ---
 ---
 language: python
 line_numbers: true
 line_number_start: 5
-line_highlights: 5-11
+line_highlights: 5-9
 ---
 def randomcolour():
     red = randint(0, 255)
@@ -84,7 +82,7 @@ shape("turtle")
 --- /task ---
 
 --- task ---
-Click **Stop** then **Run**. You won't see a random coloured turtle because you have defined your function, but not called it yet. 
+Click **Run**. You won't see a random coloured turtle because you have defined your function, but not called it yet. 
 --- /task ---
 
 --- task ---
@@ -95,7 +93,7 @@ Add a line to call your new function:
 language: python
 line_numbers: true
 line_number_start: 5
-line_highlights: 12
+line_highlights: 11
 ---
 def randomcolour():
     red = randint(0, 255)
@@ -103,8 +101,8 @@ def randomcolour():
     blue = randint(0, 255)
     color(red, green, blue)
 
-shape("turtle")
 randomcolour()
+shape("turtle")
 --- /code ---
 --- /task ---
 
