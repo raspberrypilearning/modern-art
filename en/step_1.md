@@ -2,11 +2,7 @@
 
 In this project you will create computer generated modern art. You will use functions to write code that you can use over and over again.
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/47bbc2fc2b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/modern-finished.png">
-</div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/modern-art-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 ### Additional information for club leaders
 
@@ -19,16 +15,6 @@ title: Club leader notes
 
 ## Introduction:
 This project introduces functions through a colourful modern art generator. Functions are used to package useful turtle graphics code which can then easily be used to create funky art.
-
-## Online Resources
-
-__This project uses Python 3.__ We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
-
-+ ['Modern Art' starting point -- jumpto.cc/modern-go](http://jumpto.cc/modern-go)
-
-There is also a trinket containing a sample solution to the challenges:
-
-+ ['Modern Art' Finished -- rpf.io/modern-finished](https://rpf.io/modern-finished)
 
 ## Offline Resources
 
@@ -43,19 +29,10 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Learning Objectives
-
-+ Functions;
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
-
-+ [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
-
 ## Challenges
 
 + Turtle art - define a new function to complete the turtle art generator.
 + More modern art - create a new function that calls other functions to generate modern art.
-
 
 ## Frequently Asked Questions
 

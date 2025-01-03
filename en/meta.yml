@@ -23,7 +23,9 @@ steps:
   completion:
   - engaged
 - title: 'Challenge: Turtle art'
+  challenge: true
 - title: Create rectangle modern art
   completion:
   - internal
 - title: 'Challenge: More modern art'
+  challenge: true

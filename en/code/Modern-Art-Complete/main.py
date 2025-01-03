@@ -36,6 +36,7 @@ def drawrectangle():
   forward(height)
   right(90)
   end_fill()
+
   
 shape("turtle")
 speed(0)
@@ -78,9 +79,11 @@ clear()
 for i in range(50):
   drawcircle()
 
+
 clear()
 
 for i in range(20):
   drawstar()
+
 
 

@@ -4,7 +4,22 @@
 
 Can you define a `randomheading()` function that will make the turtle point in a random direction and make the following code work?
 
-![screenshot](images/modern-turtle-art.png)
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 29
+line_highlights: 
+---
+for i in range(1, 30):
+    randomcolour()
+    randomplace()
+    randomheading()
+    stamp()
+--- /code ---
+
+![image of different coloured turtles in different places](images/modern-turtle-art.png)
 
 Hints:
 
