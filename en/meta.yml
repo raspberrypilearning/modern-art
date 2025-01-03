@@ -19,9 +19,9 @@ last_tested: 2025-01-03
 steps:
 - title: What you will make
 - title: Random colours
-- title: Random place
   completion:
   - engaged
+- title: Random place
 - title: 'Challenge: Turtle art'
   challenge: true
 - title: Create rectangle modern art

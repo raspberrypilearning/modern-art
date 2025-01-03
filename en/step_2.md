@@ -68,8 +68,8 @@ Put the random colour code into a function by adding a `def` with a name, and th
 ---
 language: python
 line_numbers: true
-line_number_start: 5
-line_highlights: 5-9
+line_number_start: 6
+line_highlights: 6-10
 ---
 def randomcolour():
     red = randint(0, 255)
@@ -92,8 +92,8 @@ Add a line to call your new function:
 ---
 language: python
 line_numbers: true
-line_number_start: 5
-line_highlights: 11
+line_number_start: 6
+line_highlights: 12
 ---
 def randomcolour():
     red = randint(0, 255)
