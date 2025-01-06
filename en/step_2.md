@@ -68,9 +68,14 @@ Put the random colour code into a function by adding a `def` with a name, and th
 ---
 language: python
 line_numbers: true
-line_number_start: 6
+line_number_start: 1
 line_highlights: 6-10
 ---
+from turtle import *
+from random import *
+
+colormode(255)
+
 def randomcolour():
     red = randint(0, 255)
     green = randint(0, 255)
@@ -82,7 +87,7 @@ shape("turtle")
 --- /task ---
 
 --- task ---
-Click **Run**. You won't see a random coloured turtle because you have defined your function, but not called it yet. 
+Click **Run**. The turtle will always be black, because you have defined your `randomcolour()` function, but not called it yet. 
 --- /task ---
 
 --- task ---
@@ -106,8 +111,8 @@ shape("turtle")
 --- /code ---
 --- /task ---
 
-Notice that your new code is much easier to understand because the complex part is in the function. It’s easy to work out what `randomcolour()` does.
-
-  
+--- task ---
+Click **Run** a few times and test that your turtle is a random colour again. 
+--- /task ---
 
 

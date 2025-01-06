@@ -10,9 +10,10 @@ Comment out your code to draw the turtles by putting a `#` at the start of each 
 language: python
 line_numbers: true
 line_number_start: 19
-line_highlights: 20-23
+line_highlights: 21-24
 ---
-shape("turtle")
+# shape("turtle")
+
 # for i in range(30):
 #    randomcolour()
 #    randomplace()
@@ -24,13 +25,13 @@ shape("turtle")
 
 --- task ---
 
-Copy and paste in this code for a function to draw a randomly sized rectangle:
+Copy and paste in this code beneath your `randomplace()` function, to create a function to draw a randomly sized rectangle:
 
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 25
+line_number_start: 19
 ---
 # Code to draw a random-sized rectangle
 def draw_rectangle():
@@ -62,18 +63,18 @@ draw_rectangle()
 --- /task ---
 
 --- task ---
-Run your script a few times to see the height and width of the rectangle change, but the rectangle is always the same colour and starts at the same location.
+Click **Run** a few times. The height and width of the rectangle change, but the rectangle is always black and starts at the same location.
 --- /task ---
 
 --- task ---
-You can call the `randomcolour()` and `randomplace()` functions you already wrote to make the rectangle appear in a random colour and location!
+Inside `drawrectangle()`, call the `randomcolour()` and `randomplace()` functions you already wrote to make the rectangle appear in a random colour and location!
     
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 26
-line_highlights: 27-28
+line_number_start: 19
+line_highlights: 20-21
 ---
 def drawrectangle():
     randomcolour()
@@ -87,13 +88,13 @@ def drawrectangle():
 
 --- task ---
 
-Now call `draw_rectangle()` in a loop to create some cool modern art:
+Now call `draw_rectangle()` in a loop to draw lots of rectangles:
 
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 38
+line_number_start: 41
 ---
 for i in range(20):
     draw_rectangle()
@@ -109,17 +110,19 @@ Click **Run** to see the results, which will be different each time the code is 
 --- /task ---
 
 --- task ---
-Find the line where you set the shape to 'turtle' and add code to speed it up.
+It takes a long time to draw each rectangle. Add a speed to your function to speed it up.
     
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 19
-line_highlights: 20
+line_number_start: 20
+line_highlights: 21
 ---
-shape("turtle")
-speed(0)
+def draw_rectangle():
+    speed(0)
+    hideturtle()
+    randomcolour()
 --- /code ---
     
 `speed(0)` is the fastest, or you can use numbers from 1 (slow) to 10 (fast). Experiment until you find a speed you like. 

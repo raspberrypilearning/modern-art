@@ -21,14 +21,13 @@ stamp()
 --- /task ---
 
 --- task ---
-Now add a loop to choose a random colour and a random place and then stamp the turtle 30 times.
-Don't forget to indent the code for changing the turtle so that it is inside the loop
+Now add a loop to stamp the turtle 30 times. Don't forget to indent the code for changing the turtle so that it is inside the loop
 
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 21
+line_number_start: 19
 line_highlights: 21-24
 ---
 shape("turtle")

@@ -31,14 +31,14 @@ def randomplace():
 
 --- task ---
 
-Try your new function by calling it:
+Add code to call your function, then click **Run**.
 
 --- code ---
 ---
 language: python
 line_numbers: true
 line_number_start: 12
-line_highlights: 17-19
+line_highlights: 18
 ---
 def randomplace():
     x = randint(-100, 100)
@@ -55,8 +55,9 @@ shape("turtle")
 Ooops, the cursor starts as an arrow and draws when it moves!
 
 --- task ---
-Set the turtle shape before you begin.
-Put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving.
+To fix this:
++ Put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving.
++ Set the turtle shape before you begin moving or selecting colours.
 
 --- code ---
 ---
