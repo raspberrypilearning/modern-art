@@ -23,8 +23,9 @@ steps:
   - engaged
 - title: Random place
 - title: Turtle art
-- title: Create rectangle modern art
+- title: Modern art
   completion:
   - internal
-- title: 'Challenge: More modern art'
+- title: Challenge
   challenge: true
+- title: What can you do now?

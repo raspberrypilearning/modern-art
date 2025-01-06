@@ -1,4 +1,4 @@
-## Create rectangle modern art
+## Modern art
 
 Create some modern art by drawing lots of rectangles of different sizes and colours. 
 
