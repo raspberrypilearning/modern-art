@@ -1,6 +1,6 @@
 ## What can you do now?
 
-If you are following the [Python: Module 2](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [Popular Pets](https://projects.raspberrypi.org/en/projects/popular-pets) project. In this project, you will create pie charts and bar graphs from data that you collect from members of your Code Club.
+If you are following the [Python: Module 2](https://projects.raspberrypi.org/en/pathways/python-module-2) pathway, you can move on to the [Popular Pets](https://projects.raspberrypi.org/en/projects/popular-pets) project. In this project, you will create pie charts and bar graphs from data that you collect from members of your Code Club.
 
 --- print-only --- 
 
