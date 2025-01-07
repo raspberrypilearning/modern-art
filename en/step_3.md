@@ -1,18 +1,21 @@
 ## Random place
 
-Let’s create another function to move the turtle to a random place on the screen. The center of the screen is (0,0) so we’ll place turtles in a square area around the centre. 
+Now that you know how to create a function, create another function to move the turtle to a random place on the screen. 
+
+The centre of the screen is at coordinates (0,0). 
+
+![a 2D Cartesian coordinate system with labelled axes. It features four turtle shapes: A blue turtle at the origin (0, 0), a green turtle at (-50, 50), a grey turtle at (25, -50) and an orange turtle point at (-100, -100). Each turtle is annotated with its coordinates. The graph spans from -100 to 100 on both axes.](images/editor-xy.png)
 
 --- task ---
 
-Add a `randomplace()` function:
+Add a `randomplace()` function which chooses a random x, y coordinate and moves the turtle to that coordinate.
 
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
-line_number_start: 7
-line_highlights: 14-17
+line_number_start: 6
+line_highlights: 12-15
 ---
 def randomcolour():
     red = randint(0, 255)
@@ -20,7 +23,6 @@ def randomcolour():
     blue = randint(0, 255)
     color(red, green, blue)
 
-
 def randomplace():
     x = randint(-100, 100)
     y = randint(-100, 100)
@@ -31,44 +33,40 @@ def randomplace():
 
 --- task ---
 
-Try your new function by calling it and then calling `stamp()`, you can call it more than once:
+Add code to call your function, then click **Run**.
 
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
-line_number_start: 14
-line_highlights: 22-26
+line_number_start: 12
+line_highlights: 18
 ---
 def randomplace():
     x = randint(-100, 100)
     y = randint(-100, 100)
     goto(x, y)
 
-
+randomcolour()
+randomplace()
 shape("turtle")
-randomcolour()
-randomplace()
-stamp()
-randomcolour()
-randomplace()
-stamp()
---- /code ---
 
+--- /code ---
 --- /task ---
     
---- task ---
+Oops, the cursor starts as an arrow and draws when it moves!
 
-Ooops, the turtle draws when it moves. Let’s put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving:
+--- task ---
+To fix this:
++ Put the pen up at the beginning and down at the end so that the turtle doesn’t draw while it’s moving.
++ Set the turtle shape before you begin moving or selecting colours.
 
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
-line_number_start: 14
-line_highlights: 15, 19
+line_number_start: 12
+line_highlights: 13, 17, 19
 ---
 def randomplace():
     penup()
@@ -77,23 +75,17 @@ def randomplace():
     goto(x, y)
     pendown()
 
-
 shape("turtle")
 randomcolour()
 randomplace()
-stamp()
-randomcolour()
-randomplace()
-stamp()
---- /code ---
 
-Did you notice that you only had to 'fix' the code in one place? That's another good thing about functions. 
+--- /code ---
 
 --- /task ---
  
 --- task ---
 
-Now test your code a few times.
+Now click **Run** a few times to check that your turtle appears in a random place with a random colour.
 
 --- /task ---
 
