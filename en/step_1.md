@@ -1,10 +1,9 @@
 ## What you will make
 
-Create computer generated modern art. You will use functions to write code that you can use over and over again.
-
+Create computer generated modern art.
 
 --- print-only ---
-![ALT TEXT](images/IMAGE.png)
+![A collection of overlapping, colourful rectangles, resembling a piece of modern abstract art. The rectangles vary in size and colour, with hues of blue, red, green, purple, and pink.](images/modern-art.png)
 --- /print-only ---
 
 --- no-print ---

@@ -67,16 +67,16 @@ Click **Run** a few times. The height and width of the rectangle change, but the
 --- /task ---
 
 --- task ---
-Inside `drawrectangle()`, call the `randomcolour()` and `randomplace()` functions you already wrote to make the rectangle appear in a random colour and location!
+Inside `draw_rectangle()`, call the `randomcolour()` and `randomplace()` functions you already wrote to make the rectangle appear in a random colour and location!
     
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 19
-line_highlights: 20-21
+line_number_start: 20
+line_highlights: 21-22
 ---
-def drawrectangle():
+def draw_rectangle():
     randomcolour()
     randomplace()
     hideturtle()

@@ -4,15 +4,15 @@ If you are following the [Python: Module 2](https://projects.raspberrypi.org/en/
 
 --- print-only --- 
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+![A bar chart titled "Butterfly Count", displaying counts for different butterfly species. Each species is represented by a distinct colour. The y-axis ranges from 0 to 8.](images/popular-pets.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/popular-pets-starter" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/popular-pets-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 
 --- /no-print ---
 
-Or, why not try out another [Python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) project.
+Or, why not try out another [Python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) project?

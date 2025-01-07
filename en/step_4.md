@@ -41,7 +41,6 @@ for i in range(30):
 
 --- /task ---
 
-
 --- task ---
 Click **Run** and watch your turtle art appear.
 --- /task ---

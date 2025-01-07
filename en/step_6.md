@@ -1,12 +1,10 @@
---- challenge ---
-
 ## Challenge
 
 --- task ---
 
 Define a `randomheading()` function to make the turtle point in a random direction and call it inside your `draw_rectangle()` function to create art like this:
 
-![Multiple different coloured turtles in different places](images/modern-turtle-art.png)
+![Many coloured turtles in different places](images/modern-turtle-art.png)
 
 --- collapse ---
 ---
@@ -22,5 +20,3 @@ title: Give me a hint
 --- /collapse ---
 
 --- /task ---
-
---- /challenge ---

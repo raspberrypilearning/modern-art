@@ -41,7 +41,7 @@ def draw_rectangle():
 # for i in range(30):
 #    randomcolour()
 #    randomplace()
-#   stamp()
+#    stamp()
 
 for i in range(20):
     draw_rectangle()

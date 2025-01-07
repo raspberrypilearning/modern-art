@@ -4,7 +4,9 @@
 Open the [Modern Art starter project](https://editor.raspberrypi.org/en/projects/modern-art-starter){:target="_blank"}. 
 --- /task ---
 
-Colours of light are made of red, green and blue. Set a colour by saying how much red, green and blue you would like, from 0 to 255. 
+Colours can be created by mixing red, green and blue. 
+
+Create a colour by setting how much red, green and blue you would like, from 0 to 255. 
 
 
 --- task ---
@@ -14,8 +16,8 @@ Add the following code to get a red turtle:
 ---
 language: python
 line_numbers: true
-line_number_start: 5
-line_highlights: 5-6
+line_number_start: 6
+line_highlights: 6-7
 ---
 color(255, 0, 0)
 shape("turtle")
@@ -40,8 +42,8 @@ Update your code to choose a random number between 0 and 255 for the red, green 
 ---
 language: python
 line_numbers: true
-line_number_start: 5
-line_highlights: 5-8
+line_number_start: 6
+line_highlights: 6-9
 ---
 red = randint(0, 255)
 green = randint(0, 255)
@@ -62,7 +64,7 @@ In Python you can give this section of code a name, and then run it whenever you
 
 --- task ---
 
-Put the random colour code into a function by adding a `def` with a name, and then indenting it.
+Put the random colour code into a function by adding a `def` with a name to **def**ine a function, and then indenting the code within it.
 
 --- code ---
 ---

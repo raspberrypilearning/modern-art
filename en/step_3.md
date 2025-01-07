@@ -1,8 +1,10 @@
 ## Random place
 
-Now that you know how to create a function, let’s create another function to move the turtle to a random place on the screen. 
+Now that you know how to create a function, create another function to move the turtle to a random place on the screen. 
 
 The centre of the screen is at coordinates (0,0). 
+
+![a 2D Cartesian coordinate system with labelled axes. It features four turtle shapes: A blue turtle at the origin (0, 0), a green turtle at (-50, 50), a grey turtle at (25, -50) and an orange turtle point at (-100, -100). Each turtle is annotated with its coordinates. The graph spans from -100 to 100 on both axes.](images/editor-xy.png)
 
 --- task ---
 
@@ -52,7 +54,7 @@ shape("turtle")
 --- /code ---
 --- /task ---
     
-Ooops, the cursor starts as an arrow and draws when it moves!
+Oops, the cursor starts as an arrow and draws when it moves!
 
 --- task ---
 To fix this:
