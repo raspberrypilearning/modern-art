@@ -1,3 +1,4 @@
 name: "Modern Art Starter"
 identifier: "modern-art-starter"
 type: 'python'
+build: true
